@@ -6,7 +6,9 @@ Manual and automatic stitching of architectural photographs. The current Part A 
 
 ## View the reports
 
-Clone or download the repository, then open [index.html](index.html) in a browser. Images, data downloads and report links use relative paths. HTML files on GitHub are source files; this repository does not itself configure hosting.
+Live site: [Stitching Photo Mosaics](https://aaajamesxie.github.io/Auto-Stitching-Photo-Mosaics/).
+
+GitHub Pages publishes the root of the main branch. The .nojekyll file serves the existing static files directly; updates are published after pushing to main. For offline viewing, clone or download the repository and open [index.html](index.html). Images, reports and data links use relative paths.
 
 - [A.1 photographs and notes](A1/README.md): nine selected views from one acquisition set. The original two-set A.1 request is not fully covered by this single set.
 - [A.2 homographies](A2/report.html): handwritten normalized least squares, annotated points and error diagnostics.

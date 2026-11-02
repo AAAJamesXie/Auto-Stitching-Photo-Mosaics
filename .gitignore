@@ -2,6 +2,7 @@
 /*
 !/.gitattributes
 !/.gitignore
+!/.nojekyll
 !/README.md
 !/index.html
 !/style.css
