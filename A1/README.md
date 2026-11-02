@@ -1,5 +1,7 @@
 # A.1 - Replacement Source Photographs
 
+Original HEIC files and historical archives are local only and are excluded from this GitHub repository. The current JPG images and previews are included.
+
 Nine user-supplied HEIC photographs are used in this order: IMG_8443, IMG_8444, IMG_8445, IMG_8446, IMG_8447, IMG_8448, IMG_8450, IMG_8451, IMG_8452.
 
 HEIC originals are preserved in originals/ with verified SHA256 copies. Full-resolution sRGB JPGs are in images/. Previews use 1008 x 1344 pixels for annotation; point coordinates are converted back to each original resolution using pixel-center scaling. Images are not cropped or geometrically corrected.
