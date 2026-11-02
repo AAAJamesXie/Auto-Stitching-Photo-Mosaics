@@ -1,0 +1,110 @@
+{
+  "pair": "8445_8446",
+  "input_count": 67,
+  "inlier_count": 63,
+  "outlier_count": 4,
+  "median_inlier_error_working_px": 0.5251890703011975,
+  "rmse_inlier_error_working_px": 0.7982307522985373,
+  "max_inlier_error_working_px": 1.9940537158485205,
+  "H_working": [
+    [
+      1.2081661147054548,
+      -0.005070606237202751,
+      -535.15285766085
+    ],
+    [
+      0.006481573203421779,
+      1.2019608838038822,
+      -121.48585849846549
+    ],
+    [
+      6.511370594235792e-06,
+      -2.8144874859600192e-06,
+      1.0
+    ]
+  ],
+  "H_original": [
+    [
+      0.8528256607964312,
+      -0.003579855387766007,
+      -1348.918275679332
+    ],
+    [
+      0.004576620407699138,
+      0.8484435066391471,
+      -306.4809006459874
+    ],
+    [
+      1.8239157587501705e-06,
+      -7.883728938715259e-07,
+      1.0
+    ]
+  ],
+  "all_b3_ratio_count": 74,
+  "all_b3_under_threshold": 64,
+  "ransac": {
+    "seed": 1339,
+    "threshold": 3.0,
+    "draws": 100,
+    "hypotheses": 100,
+    "degenerate_draws": 0,
+    "solver_failures": 0,
+    "required_hypotheses": 100,
+    "confidence": 0.999,
+    "max_iterations": 5000,
+    "min_iterations": 100,
+    "updates": [
+      {
+        "draw": 1,
+        "hypotheses": 1,
+        "inliers": 4,
+        "required_hypotheses": 5000
+      },
+      {
+        "draw": 2,
+        "hypotheses": 2,
+        "inliers": 20,
+        "required_hypotheses": 867
+      },
+      {
+        "draw": 4,
+        "hypotheses": 4,
+        "inliers": 20,
+        "required_hypotheses": 867
+      },
+      {
+        "draw": 5,
+        "hypotheses": 5,
+        "inliers": 49,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 6,
+        "hypotheses": 6,
+        "inliers": 61,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 13,
+        "hypotheses": 13,
+        "inliers": 63,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 46,
+        "hypotheses": 46,
+        "inliers": 63,
+        "required_hypotheses": 100
+      }
+    ],
+    "refit_history": [
+      {
+        "iteration": 1,
+        "fitted_count": 63,
+        "classified_count": 63
+      }
+    ],
+    "refit_converged": true,
+    "hit_draw_limit": false
+  }
+}

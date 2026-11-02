@@ -1,0 +1,103 @@
+{
+  "pair": "8447_8448",
+  "input_count": 107,
+  "inlier_count": 95,
+  "outlier_count": 12,
+  "median_inlier_error_working_px": 0.6177369127145915,
+  "rmse_inlier_error_working_px": 0.9131457355304113,
+  "max_inlier_error_working_px": 2.6379162989456404,
+  "H_working": [
+    [
+      0.8817760038786757,
+      -0.007642725286878922,
+      -347.50176279984595
+    ],
+    [
+      0.015790291237040094,
+      0.87900348570033,
+      -18.031930579930076
+    ],
+    [
+      7.741136537840695e-06,
+      2.6144013189471796e-06,
+      1.0
+    ]
+  ],
+  "H_original": [
+    [
+      1.2491905208720309,
+      -0.010825894829569582,
+      -1240.2413207679956
+    ],
+    [
+      0.022373596492682387,
+      1.2452601602830589,
+      -64.05259085926589
+    ],
+    [
+      3.07188917232135e-06,
+      1.0374640809547973e-06,
+      1.0
+    ]
+  ],
+  "all_b3_ratio_count": 114,
+  "all_b3_under_threshold": 95,
+  "ransac": {
+    "seed": 1341,
+    "threshold": 3.0,
+    "draws": 100,
+    "hypotheses": 100,
+    "degenerate_draws": 0,
+    "solver_failures": 0,
+    "required_hypotheses": 100,
+    "confidence": 0.999,
+    "max_iterations": 5000,
+    "min_iterations": 100,
+    "updates": [
+      {
+        "draw": 1,
+        "hypotheses": 1,
+        "inliers": 17,
+        "required_hypotheses": 5000
+      },
+      {
+        "draw": 2,
+        "hypotheses": 2,
+        "inliers": 76,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 3,
+        "hypotheses": 3,
+        "inliers": 87,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 19,
+        "hypotheses": 19,
+        "inliers": 93,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 42,
+        "hypotheses": 42,
+        "inliers": 96,
+        "required_hypotheses": 100
+      }
+    ],
+    "refit_history": [
+      {
+        "iteration": 1,
+        "fitted_count": 96,
+        "classified_count": 95
+      },
+      {
+        "iteration": 2,
+        "fitted_count": 95,
+        "classified_count": 95
+      }
+    ],
+    "refit_converged": true,
+    "hit_draw_limit": false
+  }
+}

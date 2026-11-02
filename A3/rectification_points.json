@@ -1,0 +1,104 @@
+{
+  "coordinate_convention": "Original-image integer pixel centers, x right, y down.",
+  "cases": [
+    {
+      "id": "IMG_8448_rectification",
+      "image": "IMG_8448.jpg",
+      "label": "Front facade horizontal window",
+      "source_quad": [
+        [
+          3634,
+          979
+        ],
+        [
+          3995,
+          957
+        ],
+        [
+          3992,
+          1093
+        ],
+        [
+          3633,
+          1116
+        ]
+      ],
+      "target_quad": [
+        [
+          0,
+          0
+        ],
+        [
+          721,
+          0
+        ],
+        [
+          721,
+          273
+        ],
+        [
+          0,
+          273
+        ]
+      ],
+      "canvas": [
+        -32,
+        -32,
+        786,
+        338
+      ],
+      "aspect_note": "Chosen rectangle uses twice the mean visible opposite-edge lengths. This is a display/aspect choice, not a recovered physical aspect ratio or metric calibration.",
+      "annotation_note": "Four external frame corners visually selected in full-resolution inspection crops; order TL,TR,BR,BL."
+    },
+    {
+      "id": "IMG_8451_rectification",
+      "image": "IMG_8451.jpg",
+      "label": "Side facade tall window",
+      "source_quad": [
+        [
+          1041,
+          984
+        ],
+        [
+          1250,
+          1028
+        ],
+        [
+          1251,
+          1336
+        ],
+        [
+          1090,
+          1307
+        ]
+      ],
+      "target_quad": [
+        [
+          0,
+          0
+        ],
+        [
+          377,
+          0
+        ],
+        [
+          377,
+          635
+        ],
+        [
+          0,
+          635
+        ]
+      ],
+      "canvas": [
+        -32,
+        -32,
+        442,
+        700
+      ],
+      "aspect_note": "Chosen rectangle uses twice the mean visible opposite-edge lengths. This is a display/aspect choice, not a recovered physical aspect ratio or metric calibration.",
+      "annotation_note": "Four external frame corners visually selected in full-resolution inspection crops; order TL,TR,BR,BL.",
+      "annotation_revision": "Full-resolution visual review moved the lower corners from the adjacent sill onto the exterior frame joints and tightened the upper-right frame corner."
+    }
+  ]
+}

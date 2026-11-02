@@ -1,0 +1,69 @@
+{
+  "ordered_images": [
+    {
+      "name": "IMG_8443.jpg",
+      "original": "IMG_8443.HEIC",
+      "width": 4284,
+      "height": 5712,
+      "original_sha256": "ed8fa0f72ffc4622b13b7eab86743fc33ac37cb5cb8ab044a2e4ecef166f285d"
+    },
+    {
+      "name": "IMG_8444.jpg",
+      "original": "IMG_8444.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "original_sha256": "6035e2e800ad15f5e535bc0b660a138c76170453071b705b5db18b1785a288c1"
+    },
+    {
+      "name": "IMG_8445.jpg",
+      "original": "IMG_8445.HEIC",
+      "width": 4284,
+      "height": 5712,
+      "original_sha256": "95f91691a23a48dc23d8e9dc02cfa5e8cb7f8c1ce6f67d3b3a03045190009f45"
+    },
+    {
+      "name": "IMG_8446.jpg",
+      "original": "IMG_8446.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "original_sha256": "ce39e6c10444cde8c5e7f8ae2de3652db60b7c1c2e174f33177c8cae77eac3ff"
+    },
+    {
+      "name": "IMG_8447.jpg",
+      "original": "IMG_8447.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "original_sha256": "fa3ec0cff77949c7d710b90800c8318af301cd35e642c0a902a8389571a3b34a"
+    },
+    {
+      "name": "IMG_8448.jpg",
+      "original": "IMG_8448.HEIC",
+      "width": 4284,
+      "height": 5712,
+      "original_sha256": "38cb946d34ab6d8074f7d5e79e85a34f95c1ea22bf9a2f4236ec36490fe70088"
+    },
+    {
+      "name": "IMG_8450.jpg",
+      "original": "IMG_8450.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "original_sha256": "e8ec857ed092adbbdead93dfbcfe617d72b3c7f5a23a05de5d4a60231b9da782"
+    },
+    {
+      "name": "IMG_8451.jpg",
+      "original": "IMG_8451.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "original_sha256": "187ab9038b3a40084b8c92c938f9ab071f8699aba3c5f1a79e93dc3908974abb"
+    },
+    {
+      "name": "IMG_8452.jpg",
+      "original": "IMG_8452.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "original_sha256": "ae4973cadfb8870cabffd83cb691e9be4204e98eb11c81d474efa91d6aaa2abd"
+    }
+  ],
+  "sets": 1,
+  "note": "One continuous architectural sequence; not claimed as two independent acquisition sets."
+}

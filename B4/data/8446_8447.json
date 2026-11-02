@@ -1,0 +1,92 @@
+{
+  "pair": "8446_8447",
+  "input_count": 166,
+  "inlier_count": 160,
+  "outlier_count": 6,
+  "median_inlier_error_working_px": 0.5711070502176664,
+  "rmse_inlier_error_working_px": 0.8522376168763081,
+  "max_inlier_error_working_px": 2.833877786786403,
+  "H_working": [
+    [
+      1.0081618097966192,
+      -0.012504288182299437,
+      -548.1063528777958
+    ],
+    [
+      0.016677078994040605,
+      1.005346526674446,
+      34.769137798710645
+    ],
+    [
+      6.2206158417931265e-06,
+      -2.337362063105987e-08,
+      1.0
+    ]
+  ],
+  "H_original": [
+    [
+      1.0081655701264525,
+      -0.012504318602177605,
+      -1381.227291915931
+    ],
+    [
+      0.016678986225971228,
+      1.0053483986310257,
+      87.60165162031974
+    ],
+    [
+      2.468502963573542e-06,
+      -9.275263617722977e-09,
+      1.0
+    ]
+  ],
+  "all_b3_ratio_count": 176,
+  "all_b3_under_threshold": 161,
+  "ransac": {
+    "seed": 1340,
+    "threshold": 3.0,
+    "draws": 100,
+    "hypotheses": 100,
+    "degenerate_draws": 0,
+    "solver_failures": 0,
+    "required_hypotheses": 100,
+    "confidence": 0.999,
+    "max_iterations": 5000,
+    "min_iterations": 100,
+    "updates": [
+      {
+        "draw": 1,
+        "hypotheses": 1,
+        "inliers": 17,
+        "required_hypotheses": 5000
+      },
+      {
+        "draw": 2,
+        "hypotheses": 2,
+        "inliers": 150,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 4,
+        "hypotheses": 4,
+        "inliers": 155,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 21,
+        "hypotheses": 21,
+        "inliers": 160,
+        "required_hypotheses": 100
+      }
+    ],
+    "refit_history": [
+      {
+        "iteration": 1,
+        "fitted_count": 160,
+        "classified_count": 160
+      }
+    ],
+    "refit_converged": true,
+    "hit_draw_limit": false
+  }
+}

@@ -1,0 +1,3999 @@
+{
+  "coordinate_convention": "Saved source/target coordinates use original-resolution pixel centers; x right, y down. Seeds use 1008x1344 preview pixel centers. Convert by (p+.5)*original_size/preview_size-.5.",
+  "provenance": "Assistant visually selected architectural locations and target neighborhoods. Local scaled NCC refines target positions. IDs 13-16 are excluded from fitting; visually revised annotations are not blind validation.",
+  "pairs": [
+    {
+      "id": "8443_8444",
+      "source": "IMG_8443.jpg",
+      "target": "IMG_8444.jpg",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.36,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            687,
+            403
+          ],
+          "target_seed": [
+            285,
+            280
+          ],
+          "source": [
+            2921.375,
+            1714.375
+          ],
+          "target": [
+            853.8046939074993,
+            853.4663606882095
+          ],
+          "source_preview": [
+            687,
+            403
+          ],
+          "target_preview": [
+            284.26823130249977,
+            284.1554535627365
+          ],
+          "ncc": 0.9285625219345093,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            760,
+            396
+          ],
+          "target_seed": [
+            386,
+            271
+          ],
+          "source": [
+            3231.625,
+            1684.625
+          ],
+          "target": [
+            1150.9781585335732,
+            826.2274520173669
+          ],
+          "source_preview": [
+            760,
+            396
+          ],
+          "target_preview": [
+            383.3260528445244,
+            275.0758173391223
+          ],
+          "ncc": 0.9165971875190735,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            687,
+            425
+          ],
+          "target_seed": [
+            285,
+            311
+          ],
+          "source": [
+            2921.375,
+            1807.875
+          ],
+          "target": [
+            853.8021931052208,
+            943.3170936778188
+          ],
+          "source_preview": [
+            687,
+            425
+          ],
+          "target_preview": [
+            284.26739770174026,
+            314.10569789260626
+          ],
+          "ncc": 0.9163903594017029,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            760,
+            419
+          ],
+          "target_seed": [
+            386,
+            302
+          ],
+          "source": [
+            3231.625,
+            1782.375
+          ],
+          "target": [
+            1150.9551304280758,
+            919.9308035969734
+          ],
+          "source_preview": [
+            760,
+            419
+          ],
+          "target_preview": [
+            383.3183768093586,
+            306.3102678656578
+          ],
+          "ncc": 0.8969117403030396,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            620,
+            460
+          ],
+          "target_seed": [
+            190,
+            363
+          ],
+          "source": [
+            2636.625,
+            1956.625
+          ],
+          "target": [
+            580.0746151655912,
+            1084.1719437129796
+          ],
+          "source_preview": [
+            620,
+            460
+          ],
+          "target_preview": [
+            193.02487172186375,
+            361.0573145709932
+          ],
+          "ncc": 0.8669129610061646,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            760,
+            448
+          ],
+          "target_seed": [
+            385,
+            344
+          ],
+          "source": [
+            3231.625,
+            1905.625
+          ],
+          "target": [
+            1150.8201861679554,
+            1037.3388849794865
+          ],
+          "source_preview": [
+            760,
+            448
+          ],
+          "target_preview": [
+            383.27339538931847,
+            345.44629499316216
+          ],
+          "ncc": 0.8834238648414612,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            620,
+            483
+          ],
+          "target_seed": [
+            190,
+            395
+          ],
+          "source": [
+            2636.625,
+            2054.375
+          ],
+          "target": [
+            580.2845940440893,
+            1178.3411156833172
+          ],
+          "source_preview": [
+            620,
+            483
+          ],
+          "target_preview": [
+            193.0948646813631,
+            392.4470385611057
+          ],
+          "ncc": 0.7583324909210205,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            760,
+            473
+          ],
+          "target_seed": [
+            385,
+            377
+          ],
+          "source": [
+            3231.625,
+            2011.875
+          ],
+          "target": [
+            1150.6729084402323,
+            1139.8909185528755
+          ],
+          "source_preview": [
+            760,
+            473
+          ],
+          "target_preview": [
+            383.22430281341076,
+            379.63030618429184
+          ],
+          "ncc": 0.8950343728065491,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            617,
+            933
+          ],
+          "target_seed": [
+            190,
+            1000
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2623.875,
+            3966.875
+          ],
+          "target": [
+            565.5147697776556,
+            3010.1401170901954
+          ],
+          "source_preview": [
+            617,
+            933
+          ],
+          "target_preview": [
+            188.1715899258852,
+            1003.0467056967318
+          ],
+          "ncc": 0.9273163080215454,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            681,
+            931
+          ],
+          "target_seed": [
+            277,
+            996
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2895.875,
+            3958.375
+          ],
+          "target": [
+            826.5781225711107,
+            3001.1533888727427
+          ],
+          "source_preview": [
+            681,
+            931
+          ],
+          "target_preview": [
+            275.1927075237036,
+            1000.0511296242476
+          ],
+          "ncc": 0.9093713760375977,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            617,
+            696
+          ],
+          "target_seed": [
+            190,
+            687
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2623.875,
+            2959.625
+          ],
+          "target": [
+            567.398674800992,
+            2044.787982583046
+          ],
+          "source_preview": [
+            617,
+            696
+          ],
+          "target_preview": [
+            188.79955826699734,
+            681.2626608610153
+          ],
+          "ncc": 0.9366795420646667,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            681,
+            693
+          ],
+          "target_seed": [
+            277,
+            683
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2895.875,
+            2946.875
+          ],
+          "target": [
+            828.0247335135937,
+            2032.6631450206041
+          ],
+          "source_preview": [
+            681,
+            693
+          ],
+          "target_preview": [
+            275.6749111711979,
+            677.2210483402014
+          ],
+          "ncc": 0.9557479023933411,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            700,
+            1061
+          ],
+          "target_seed": [
+            298,
+            1175
+          ],
+          "source": [
+            2976.625,
+            4510.875
+          ],
+          "target": [
+            904.268645696342,
+            3530.117134511471
+          ],
+          "source_preview": [
+            700,
+            1061
+          ],
+          "target_preview": [
+            301.08954856544733,
+            1176.3723781704903
+          ],
+          "ncc": 0.9643226861953735,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            985,
+            1057
+          ],
+          "target_seed": [
+            684,
+            1175
+          ],
+          "source": [
+            4187.875,
+            4493.875
+          ],
+          "target": [
+            2060.4017399549484,
+            3511.2998055443168
+          ],
+          "source_preview": [
+            985,
+            1057
+          ],
+          "target_preview": [
+            686.4672466516495,
+            1170.099935181439
+          ],
+          "ncc": 0.9886019825935364,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            617,
+            645
+          ],
+          "target_seed": [
+            190,
+            611
+          ],
+          "source": [
+            2623.875,
+            2742.875
+          ],
+          "target": [
+            567.3941697180271,
+            1837.4904038757086
+          ],
+          "source_preview": [
+            617,
+            645
+          ],
+          "target_preview": [
+            188.7980565726757,
+            612.1634679585695
+          ],
+          "ncc": 0.9221531748771667,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            687,
+            643
+          ],
+          "target_seed": [
+            282,
+            611
+          ],
+          "source": [
+            2921.375,
+            2734.375
+          ],
+          "target": [
+            852.5877787619829,
+            1829.9066480994225
+          ],
+          "source_preview": [
+            687,
+            643
+          ],
+          "target_preview": [
+            283.862592920661,
+            609.6355493664742
+          ],
+          "ncc": 0.9562573432922363,
+          "search_boundary": false
+        }
+      ]
+    },
+    {
+      "id": "8444_8445",
+      "source": "IMG_8444.jpg",
+      "target": "IMG_8445.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        4284,
+        5712
+      ],
+      "template_scale": 0.72,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            284,
+            278
+          ],
+          "target_seed": [
+            128,
+            398
+          ],
+          "source": [
+            853.0,
+            835.0
+          ],
+          "target": [
+            541.3918623452773,
+            1697.976273085922
+          ],
+          "source_preview": [
+            284,
+            278
+          ],
+          "target_preview": [
+            127.00396761065349,
+            399.14147602021694
+          ],
+          "ncc": 0.9702444076538086,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            384,
+            270
+          ],
+          "target_seed": [
+            201,
+            390
+          ],
+          "source": [
+            1153.0,
+            811.0
+          ],
+          "target": [
+            848.5107980668545,
+            1675.450111374259
+          ],
+          "source_preview": [
+            384,
+            270
+          ],
+          "target_preview": [
+            199.26724660396576,
+            393.84120267629623
+          ],
+          "ncc": 0.9052116870880127,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            585,
+            254
+          ],
+          "target_seed": [
+            346,
+            382
+          ],
+          "source": [
+            1756.0,
+            763.0
+          ],
+          "target": [
+            1466.5270695760846,
+            1629.8693964425474
+          ],
+          "source_preview": [
+            585,
+            254
+          ],
+          "target_preview": [
+            344.6828399002552,
+            383.11632857471704
+          ],
+          "ncc": 0.8963617086410522,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            782,
+            231
+          ],
+          "target_seed": [
+            485,
+            370
+          ],
+          "source": [
+            2347.0,
+            694.0
+          ],
+          "target": [
+            2071.929579988122,
+            1562.2086762152612
+          ],
+          "source_preview": [
+            782,
+            231
+          ],
+          "target_preview": [
+            487.1304894089699,
+            367.19615910947323
+          ],
+          "ncc": 0.9482207298278809,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            484,
+            338
+          ],
+          "target_seed": [
+            272,
+            445
+          ],
+          "source": [
+            1453.0,
+            1015.0
+          ],
+          "target": [
+            1155.578607648611,
+            1885.6229591816664
+          ],
+          "source_preview": [
+            484,
+            338
+          ],
+          "target_preview": [
+            271.51849591732025,
+            443.29363745450974
+          ],
+          "ncc": 0.833926796913147,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            589,
+            328
+          ],
+          "target_seed": [
+            345,
+            438
+          ],
+          "source": [
+            1768.0,
+            985.0
+          ],
+          "target": [
+            1478.203513815999,
+            1857.5463934391737
+          ],
+          "source_preview": [
+            589,
+            328
+          ],
+          "target_preview": [
+            347.43023854494095,
+            436.6873866915703
+          ],
+          "ncc": 0.8235403895378113,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            190,
+            363
+          ],
+          "target_seed": [
+            60,
+            459
+          ],
+          "source": [
+            571.0,
+            1090.0
+          ],
+          "target": [
+            251.19645093381405,
+            1957.3000755757093
+          ],
+          "source_preview": [
+            190,
+            363
+          ],
+          "target_preview": [
+            58.72269433736801,
+            460.1588413119316
+          ],
+          "ncc": 0.8888715505599976,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            385,
+            345
+          ],
+          "target_seed": [
+            201,
+            447
+          ],
+          "source": [
+            1156.0,
+            1036.0
+          ],
+          "target": [
+            851.3032668624073,
+            1905.6791840831283
+          ],
+          "source_preview": [
+            385,
+            345
+          ],
+          "target_preview": [
+            199.9242980852723,
+            448.0127491960302
+          ],
+          "ncc": 0.9765306711196899,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            700,
+            985
+          ],
+          "target_seed": [
+            420,
+            911
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2101.0,
+            2956.0
+          ],
+          "target": [
+            1812.2007330078632,
+            3876.995169673115
+          ],
+          "source_preview": [
+            700,
+            985
+          ],
+          "target_preview": [
+            426.0178195312619,
+            911.8518046289682
+          ],
+          "ncc": 0.9412615299224854,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            775,
+            980
+          ],
+          "target_seed": [
+            476,
+            907
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2326.0,
+            2941.0
+          ],
+          "target": [
+            2042.047240499407,
+            3864.275274127722
+          ],
+          "source_preview": [
+            775,
+            980
+          ],
+          "target_preview": [
+            480.09935070574284,
+            908.8588880300522
+          ],
+          "ncc": 0.8122965693473816,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            866,
+            1016
+          ],
+          "target_seed": [
+            548,
+            930
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2599.0,
+            3049.0
+          ],
+          "target": [
+            2321.19064014405,
+            3974.85563535057
+          ],
+          "source_preview": [
+            866,
+            1016
+          ],
+          "target_preview": [
+            545.7801506221294,
+            934.8777965530753
+          ],
+          "ncc": 0.9640682339668274,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            990,
+            1008
+          ],
+          "target_seed": [
+            636,
+            925
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2971.0,
+            3025.0
+          ],
+          "target": [
+            2696.6271813064814,
+            3951.5489032790065
+          ],
+          "source_preview": [
+            990,
+            1008
+          ],
+          "target_preview": [
+            634.1181603074074,
+            929.3938595950603
+          ],
+          "ncc": 0.8685075044631958,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            866,
+            565
+          ],
+          "target_seed": [
+            548,
+            609
+          ],
+          "source": [
+            2599.0,
+            1696.0
+          ],
+          "target": [
+            2326.0737886745483,
+            2589.5590266883373
+          ],
+          "source_preview": [
+            866,
+            565
+          ],
+          "target_preview": [
+            546.9291267469525,
+            608.9256533384323
+          ],
+          "ncc": 0.9803962111473083,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            866,
+            594
+          ],
+          "target_seed": [
+            548,
+            632
+          ],
+          "source": [
+            2599.0,
+            1783.0
+          ],
+          "target": [
+            2325.975867168978,
+            2678.869290457107
+          ],
+          "source_preview": [
+            866,
+            594
+          ],
+          "target_preview": [
+            546.9060863927007,
+            629.9398330487311
+          ],
+          "ncc": 0.9753805994987488,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            780,
+            918
+          ],
+          "target_seed": [
+            476,
+            854
+          ],
+          "source": [
+            2341.0,
+            2755.0
+          ],
+          "target": [
+            2058.472025813535,
+            3673.0166480839252
+          ],
+          "source_preview": [
+            780,
+            918
+          ],
+          "target_preview": [
+            483.9640060737729,
+            863.8568583726883
+          ],
+          "ncc": 0.9514688849449158,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            775,
+            1014
+          ],
+          "target_seed": [
+            476,
+            930
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2326.0,
+            3043.0
+          ],
+          "target": [
+            2041.3264435287565,
+            3966.108446549624
+          ],
+          "source_preview": [
+            775,
+            1014
+          ],
+          "target_preview": [
+            479.92975141853094,
+            932.8196344822645
+          ],
+          "ncc": 0.8029566407203674,
+          "search_boundary": false
+        }
+      ]
+    },
+    {
+      "id": "8445_8446",
+      "source": "IMG_8445.jpg",
+      "target": "IMG_8446.jpg",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.2,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            690,
+            352
+          ],
+          "target_seed": [
+            380,
+            323
+          ],
+          "source": [
+            2934.125,
+            1497.625
+          ],
+          "target": [
+            1143.3175188452005,
+            973.407590135932
+          ],
+          "source_preview": [
+            690,
+            352
+          ],
+          "target_preview": [
+            380.7725062817335,
+            324.135863378644
+          ],
+          "ncc": 0.8827753663063049,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            838,
+            338
+          ],
+          "target_seed": [
+            559,
+            308
+          ],
+          "source": [
+            3563.125,
+            1438.125
+          ],
+          "target": [
+            1675.3738208338618,
+            925.4461296349764
+          ],
+          "source_preview": [
+            838,
+            338
+          ],
+          "target_preview": [
+            558.1246069446206,
+            308.14870987832546
+          ],
+          "ncc": 0.9505351781845093,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            690,
+            374
+          ],
+          "target_seed": [
+            380,
+            351
+          ],
+          "source": [
+            2934.125,
+            1591.125
+          ],
+          "target": [
+            1143.0682710409164,
+            1052.6497072279453
+          ],
+          "source_preview": [
+            690,
+            374
+          ],
+          "target_preview": [
+            380.6894236803055,
+            350.5499024093151
+          ],
+          "ncc": 0.8421033620834351,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            838,
+            365
+          ],
+          "target_seed": [
+            559,
+            337
+          ],
+          "source": [
+            3563.125,
+            1552.875
+          ],
+          "target": [
+            1675.1329966075718,
+            1022.5893530547619
+          ],
+          "source_preview": [
+            838,
+            365
+          ],
+          "target_preview": [
+            558.044332202524,
+            340.5297843515873
+          ],
+          "ncc": 0.9075369834899902,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            548,
+            422
+          ],
+          "target_seed": [
+            209,
+            408
+          ],
+          "source": [
+            2330.625,
+            1795.125
+          ],
+          "target": [
+            630.4855984896421,
+            1224.4023101776838
+          ],
+          "source_preview": [
+            548,
+            422
+          ],
+          "target_preview": [
+            209.82853282988071,
+            407.80077005922794
+          ],
+          "ncc": 0.9105744361877441,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            691,
+            409
+          ],
+          "target_seed": [
+            383,
+            391
+          ],
+          "source": [
+            2938.375,
+            1739.875
+          ],
+          "target": [
+            1146.230164974928,
+            1178.6019396781921
+          ],
+          "source_preview": [
+            691,
+            409
+          ],
+          "target_preview": [
+            381.74338832497597,
+            392.5339798927307
+          ],
+          "ncc": 0.9010060429573059,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            548,
+            444
+          ],
+          "target_seed": [
+            209,
+            436
+          ],
+          "source": [
+            2330.625,
+            1888.625
+          ],
+          "target": [
+            630.3365445137024,
+            1303.5167982429266
+          ],
+          "source_preview": [
+            548,
+            444
+          ],
+          "target_preview": [
+            209.77884817123413,
+            434.17226608097553
+          ],
+          "ncc": 0.8613576889038086,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            691,
+            436
+          ],
+          "target_seed": [
+            383,
+            419
+          ],
+          "source": [
+            2938.375,
+            1854.625
+          ],
+          "target": [
+            1146.1350790560246,
+            1275.3670003265142
+          ],
+          "source_preview": [
+            691,
+            436
+          ],
+          "target_preview": [
+            381.71169301867485,
+            424.7890001088381
+          ],
+          "ncc": 0.8922998905181885,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            839,
+            293
+          ],
+          "target_seed": [
+            556,
+            252
+          ],
+          "source": [
+            3567.375,
+            1246.875
+          ],
+          "target": [
+            1679.3081278204918,
+            764.347922950983
+          ],
+          "source_preview": [
+            839,
+            293
+          ],
+          "target_preview": [
+            559.4360426068306,
+            254.44930765032768
+          ],
+          "ncc": 0.8228700757026672,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            909,
+            286
+          ],
+          "target_seed": [
+            645,
+            245
+          ],
+          "source": [
+            3864.875,
+            1217.125
+          ],
+          "target": [
+            1930.5631963461637,
+            740.4573625326157
+          ],
+          "source_preview": [
+            909,
+            286
+          ],
+          "target_preview": [
+            643.1877321153879,
+            246.4857875108719
+          ],
+          "ncc": 0.8720008730888367,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            548,
+            609
+          ],
+          "target_seed": [
+            207,
+            639
+          ],
+          "source": [
+            2330.625,
+            2589.875
+          ],
+          "target": [
+            628.1955632790923,
+            1898.0290397703648
+          ],
+          "source_preview": [
+            548,
+            609
+          ],
+          "target_preview": [
+            209.06518775969744,
+            632.3430132567883
+          ],
+          "ncc": 0.9277657866477966,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            690,
+            600
+          ],
+          "target_seed": [
+            378,
+            625
+          ],
+          "source": [
+            2934.125,
+            2551.625
+          ],
+          "target": [
+            1141.0388247352093,
+            1866.0551425218582
+          ],
+          "source_preview": [
+            690,
+            600
+          ],
+          "target_preview": [
+            380.0129415784031,
+            621.6850475072861
+          ],
+          "ncc": 0.7637275457382202,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            686,
+            661
+          ],
+          "target_seed": [
+            373,
+            701
+          ],
+          "source": [
+            2917.125,
+            2810.875
+          ],
+          "target": [
+            1125.9955768595682,
+            2085.673327706754
+          ],
+          "source_preview": [
+            686,
+            661
+          ],
+          "target_preview": [
+            374.9985256198561,
+            694.8911092355847
+          ],
+          "ncc": 0.8777908682823181,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            762,
+            654
+          ],
+          "target_seed": [
+            467,
+            689
+          ],
+          "source": [
+            3240.125,
+            2781.125
+          ],
+          "target": [
+            1399.6827484369278,
+            2060.65952911973
+          ],
+          "source_preview": [
+            762,
+            654
+          ],
+          "target_preview": [
+            466.22758281230927,
+            686.5531763732433
+          ],
+          "ncc": 0.8725834488868713,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            839,
+            598
+          ],
+          "target_seed": [
+            550,
+            623
+          ],
+          "source": [
+            3567.375,
+            2543.125
+          ],
+          "target": [
+            1677.4851869940758,
+            1859.9628898203373
+          ],
+          "source_preview": [
+            839,
+            598
+          ],
+          "target_preview": [
+            558.8283956646919,
+            619.6542966067791
+          ],
+          "ncc": 0.8676648736000061,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            903,
+            589
+          ],
+          "target_seed": [
+            640,
+            613
+          ],
+          "source": [
+            3839.375,
+            2504.875
+          ],
+          "target": [
+            1908.07360586524,
+            1827.771636389196
+          ],
+          "source_preview": [
+            903,
+            589
+          ],
+          "target_preview": [
+            635.69120195508,
+            608.9238787963986
+          ],
+          "ncc": 0.7233563661575317,
+          "search_boundary": false
+        }
+      ]
+    },
+    {
+      "id": "8446_8447",
+      "source": "IMG_8446.jpg",
+      "target": "IMG_8447.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.03,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            550,
+            610
+          ],
+          "target_seed": [
+            88,
+            652
+          ],
+          "source": [
+            1651.0,
+            1831.0
+          ],
+          "target": [
+            258.8820189796388,
+            1947.622643187642
+          ],
+          "source_preview": [
+            550,
+            610
+          ],
+          "target_preview": [
+            85.96067299321294,
+            648.8742143958807
+          ],
+          "ncc": 0.972327709197998,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            636,
+            605
+          ],
+          "target_seed": [
+            174,
+            647
+          ],
+          "source": [
+            1909.0,
+            1816.0
+          ],
+          "target": [
+            517.8544590771198,
+            1935.1368997395039
+          ],
+          "source_preview": [
+            636,
+            605
+          ],
+          "target_preview": [
+            172.28481969237328,
+            644.712299913168
+          ],
+          "ncc": 0.8137084245681763,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            550,
+            640
+          ],
+          "target_seed": [
+            88,
+            681
+          ],
+          "source": [
+            1651.0,
+            1921.0
+          ],
+          "target": [
+            258.3814821988344,
+            2038.1020085439086
+          ],
+          "source_preview": [
+            550,
+            640
+          ],
+          "target_preview": [
+            85.79382739961147,
+            679.0340028479695
+          ],
+          "ncc": 0.9472682476043701,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            636,
+            634
+          ],
+          "target_seed": [
+            174,
+            676
+          ],
+          "source": [
+            1909.0,
+            1903.0
+          ],
+          "target": [
+            517.5541027188301,
+            2022.3004852980375
+          ],
+          "source_preview": [
+            636,
+            634
+          ],
+          "target_preview": [
+            172.1847009062767,
+            673.7668284326792
+          ],
+          "ncc": 0.9527727365493774,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            637,
+            680
+          ],
+          "target_seed": [
+            170,
+            718
+          ],
+          "source": [
+            1912.0,
+            2041.0
+          ],
+          "target": [
+            518.9521448016167,
+            2161.215180039406
+          ],
+          "source_preview": [
+            637,
+            680
+          ],
+          "target_preview": [
+            172.65071493387222,
+            720.0717266798019
+          ],
+          "ncc": 0.9493361711502075,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            826,
+            671
+          ],
+          "target_seed": [
+            363,
+            710
+          ],
+          "source": [
+            2479.0,
+            2014.0
+          ],
+          "target": [
+            1086.4771072864532,
+            2140.9528383016586
+          ],
+          "source_preview": [
+            826,
+            671
+          ],
+          "target_preview": [
+            361.82570242881775,
+            713.3176127672195
+          ],
+          "ncc": 0.9232601523399353,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            637,
+            710
+          ],
+          "target_seed": [
+            170,
+            750
+          ],
+          "source": [
+            1912.0,
+            2131.0
+          ],
+          "target": [
+            518.0995579957962,
+            2251.5965170264244
+          ],
+          "source_preview": [
+            637,
+            710
+          ],
+          "target_preview": [
+            172.36651933193207,
+            750.1988390088081
+          ],
+          "ncc": 0.938847005367279,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            826,
+            700
+          ],
+          "target_seed": [
+            363,
+            740
+          ],
+          "source": [
+            2479.0,
+            2101.0
+          ],
+          "target": [
+            1085.5545606017113,
+            2227.14978229627
+          ],
+          "source_preview": [
+            826,
+            700
+          ],
+          "target_preview": [
+            361.5181868672371,
+            742.04992743209
+          ],
+          "ncc": 0.9165776371955872,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            830,
+            601
+          ],
+          "target_seed": [
+            360,
+            639
+          ],
+          "source": [
+            2491.0,
+            1804.0
+          ],
+          "target": [
+            1101.5839009135962,
+            1931.9006511271
+          ],
+          "source_preview": [
+            830,
+            601
+          ],
+          "target_preview": [
+            366.86130030453205,
+            643.6335503757
+          ],
+          "ncc": 0.9002494812011719,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            915,
+            595
+          ],
+          "target_seed": [
+            450,
+            632
+          ],
+          "source": [
+            2746.0,
+            1786.0
+          ],
+          "target": [
+            1356.8665850013494,
+            1916.1448074877262
+          ],
+          "source_preview": [
+            915,
+            595
+          ],
+          "target_preview": [
+            451.95552833378315,
+            638.3816024959087
+          ],
+          "ncc": 0.8228495121002197,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            630,
+            921
+          ],
+          "target_seed": [
+            165,
+            956
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            1891.0,
+            2764.0
+          ],
+          "target": [
+            488.1419875025749,
+            2885.395358532667
+          ],
+          "source_preview": [
+            630,
+            921
+          ],
+          "target_preview": [
+            162.3806625008583,
+            961.465119510889
+          ],
+          "ncc": 0.9314188361167908,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            715,
+            915
+          ],
+          "target_seed": [
+            250,
+            950
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2146.0,
+            2746.0
+          ],
+          "target": [
+            744.0916319191456,
+            2868.858733829111
+          ],
+          "source_preview": [
+            715,
+            915
+          ],
+          "target_preview": [
+            247.6972106397152,
+            955.9529112763703
+          ],
+          "ncc": 0.9531061053276062,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            640,
+            927
+          ],
+          "target_seed": [
+            170,
+            968
+          ],
+          "source": [
+            1921.0,
+            2782.0
+          ],
+          "target": [
+            519.9650396350771,
+            2904.01265668869
+          ],
+          "source_preview": [
+            640,
+            927
+          ],
+          "target_preview": [
+            172.9883465450257,
+            967.6708855628967
+          ],
+          "ncc": 0.8928825259208679,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            550,
+            1118
+          ],
+          "target_seed": [
+            80,
+            1170
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            1651.0,
+            3355.0
+          ],
+          "target": [
+            240.8170153312385,
+            3472.489659741521
+          ],
+          "source_preview": [
+            550,
+            1118
+          ],
+          "target_preview": [
+            79.93900511041284,
+            1157.1632199138403
+          ],
+          "ncc": 0.9491122364997864,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            630,
+            951
+          ],
+          "target_seed": [
+            165,
+            986
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            1891.0,
+            2854.0
+          ],
+          "target": [
+            487.7064381092787,
+            2975.6160322725773
+          ],
+          "source_preview": [
+            630,
+            951
+          ],
+          "target_preview": [
+            162.23547936975956,
+            991.5386774241924
+          ],
+          "ncc": 0.9205158948898315,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            715,
+            945
+          ],
+          "target_seed": [
+            250,
+            980
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold.",
+          "source": [
+            2146.0,
+            2836.0
+          ],
+          "target": [
+            742.8098011910915,
+            2959.3011484369636
+          ],
+          "source_preview": [
+            715,
+            945
+          ],
+          "target_preview": [
+            247.26993373036385,
+            986.1003828123212
+          ],
+          "ncc": 0.9479532241821289,
+          "search_boundary": false
+        }
+      ],
+      "half_patch": 15
+    },
+    {
+      "id": "8447_8448",
+      "source": "IMG_8447.jpg",
+      "target": "IMG_8448.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        4284,
+        5712
+      ],
+      "template_scale": 0.88,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            800,
+            298
+          ],
+          "target_seed": [
+            406,
+            257
+          ],
+          "source": [
+            2401.0,
+            895.0
+          ],
+          "target": [
+            1734.6554791107774,
+            1094.2336764018983
+          ],
+          "source_preview": [
+            800,
+            298
+          ],
+          "target_preview": [
+            407.77187743782997,
+            257.0843944475055
+          ],
+          "ncc": 0.9393080472946167,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            906,
+            290
+          ],
+          "target_seed": [
+            500,
+            250
+          ],
+          "source": [
+            2719.0,
+            871.0
+          ],
+          "target": [
+            2126.82603054028,
+            1070.0279057323933
+          ],
+          "source_preview": [
+            906,
+            290
+          ],
+          "target_preview": [
+            500.0473013035953,
+            251.38891899585724
+          ],
+          "ncc": 0.9305040240287781,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            800,
+            328
+          ],
+          "target_seed": [
+            406,
+            284
+          ],
+          "source": [
+            2401.0,
+            985.0
+          ],
+          "target": [
+            1734.1245804652572,
+            1205.03231266886
+          ],
+          "source_preview": [
+            800,
+            328
+          ],
+          "target_preview": [
+            407.6469601094723,
+            283.15466180443764
+          ],
+          "ncc": 0.8713923096656799,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            906,
+            320
+          ],
+          "target_seed": [
+            500,
+            278
+          ],
+          "source": [
+            2719.0,
+            961.0
+          ],
+          "target": [
+            2125.651000354439,
+            1181.231954626739
+          ],
+          "source_preview": [
+            906,
+            320
+          ],
+          "target_preview": [
+            499.7708236128092,
+            277.5545775592327
+          ],
+          "ncc": 0.890328049659729,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            907,
+            366
+          ],
+          "target_seed": [
+            500,
+            312
+          ],
+          "source": [
+            2722.0,
+            1099.0
+          ],
+          "target": [
+            2127.0714549217373,
+            1351.9379977807403
+          ],
+          "source_preview": [
+            907,
+            366
+          ],
+          "target_preview": [
+            500.10504821687937,
+            317.7207053601742
+          ],
+          "ncc": 0.9474684000015259,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            990,
+            360
+          ],
+          "target_seed": [
+            600,
+            306
+          ],
+          "source": [
+            2971.0,
+            1081.0
+          ],
+          "target": [
+            2437.8428938165307,
+            1332.8860248588026
+          ],
+          "source_preview": [
+            990,
+            360
+          ],
+          "target_preview": [
+            573.2277397215366,
+            313.2378882020712
+          ],
+          "ncc": 0.85903000831604,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            688,
+            625
+          ],
+          "target_seed": [
+            303,
+            540
+          ],
+          "source": [
+            2065.0,
+            1876.0
+          ],
+          "target": [
+            1307.5365642309189,
+            2300.0051695480943
+          ],
+          "source_preview": [
+            688,
+            625
+          ],
+          "target_preview": [
+            307.27330923080444,
+            540.7953340113163
+          ],
+          "ncc": 0.8407297730445862,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            792,
+            620
+          ],
+          "target_seed": [
+            399,
+            537
+          ],
+          "source": [
+            2377.0,
+            1861.0
+          ],
+          "target": [
+            1693.1862649556715,
+            2285.2824104055762
+          ],
+          "source_preview": [
+            792,
+            620
+          ],
+          "target_preview": [
+            398.0144152836874,
+            537.3311553895473
+          ],
+          "ncc": 0.9446884393692017,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            688,
+            655
+          ],
+          "target_seed": [
+            303,
+            571
+          ],
+          "source": [
+            2065.0,
+            1966.0
+          ],
+          "target": [
+            1307.1579230986536,
+            2410.9524283800274
+          ],
+          "source_preview": [
+            688,
+            655
+          ],
+          "target_preview": [
+            307.1842171996832,
+            566.9005713835359
+          ],
+          "ncc": 0.9574624300003052,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            792,
+            648
+          ],
+          "target_seed": [
+            399,
+            563
+          ],
+          "source": [
+            2377.0,
+            1945.0
+          ],
+          "target": [
+            1692.4580058939755,
+            2389.2796052768826
+          ],
+          "source_preview": [
+            792,
+            648
+          ],
+          "target_preview": [
+            397.8430602103472,
+            561.8010835945606
+          ],
+          "ncc": 0.9500641822814941,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            576,
+            700
+          ],
+          "target_seed": [
+            207,
+            608
+          ],
+          "source": [
+            1729.0,
+            2101.0
+          ],
+          "target": [
+            890.1247813543305,
+            2572.363644687459
+          ],
+          "source_preview": [
+            576,
+            700
+          ],
+          "target_preview": [
+            209.05877208337188,
+            604.8796811029315
+          ],
+          "ncc": 0.9329121708869934,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            793,
+            692
+          ],
+          "target_seed": [
+            400,
+            601
+          ],
+          "source": [
+            2380.0,
+            2077.0
+          ],
+          "target": [
+            1693.8752604313195,
+            2551.3707562284544
+          ],
+          "source_preview": [
+            793,
+            692
+          ],
+          "target_preview": [
+            398.1765318661928,
+            599.9401779361069
+          ],
+          "ncc": 0.9102100729942322,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            576,
+            731
+          ],
+          "target_seed": [
+            207,
+            636
+          ],
+          "source": [
+            1729.0,
+            2194.0
+          ],
+          "target": [
+            889.621474089101,
+            2687.0279432944953
+          ],
+          "source_preview": [
+            576,
+            731
+          ],
+          "target_preview": [
+            208.94034684449434,
+            631.859516069293
+          ],
+          "ncc": 0.9411789774894714,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            793,
+            722
+          ],
+          "target_seed": [
+            400,
+            628
+          ],
+          "source": [
+            2380.0,
+            2167.0
+          ],
+          "target": [
+            1693.2319865841419,
+            2662.492864942178
+          ],
+          "source_preview": [
+            793,
+            722
+          ],
+          "target_preview": [
+            398.02517331391573,
+            626.0865564569831
+          ],
+          "ncc": 0.9515113234519958,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            902,
+            620
+          ],
+          "target_seed": [
+            493,
+            535
+          ],
+          "source": [
+            2707.0,
+            1861.0
+          ],
+          "target": [
+            2100.1785541325808,
+            2289.702872298658
+          ],
+          "source_preview": [
+            902,
+            620
+          ],
+          "target_preview": [
+            493.7773068547249,
+            538.3712640702724
+          ],
+          "ncc": 0.9432237148284912,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            990,
+            615
+          ],
+          "target_seed": [
+            590,
+            531
+          ],
+          "source": [
+            2971.0,
+            1846.0
+          ],
+          "target": [
+            2424.875361442566,
+            2275.2291443357244
+          ],
+          "source_preview": [
+            990,
+            615
+          ],
+          "target_preview": [
+            570.1765556335449,
+            534.9656810201705
+          ],
+          "ncc": 0.9837683439254761,
+          "search_boundary": false
+        }
+      ]
+    },
+    {
+      "id": "8448_8450",
+      "source": "IMG_8448.jpg",
+      "target": "IMG_8450.jpg",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.08,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            855,
+            235
+          ],
+          "target_seed": [
+            380,
+            380
+          ],
+          "source": [
+            3635.375,
+            1000.375
+          ],
+          "target": [
+            1126.2869580313563,
+            1153.3562952131033
+          ],
+          "source_preview": [
+            855,
+            235
+          ],
+          "target_preview": [
+            375.0956526771188,
+            384.11876507103443
+          ],
+          "ncc": 0.80037522315979,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            940,
+            228
+          ],
+          "target_seed": [
+            462,
+            373
+          ],
+          "source": [
+            3996.625,
+            970.625
+          ],
+          "target": [
+            1387.7478739470243,
+            1124.4421453773975
+          ],
+          "source_preview": [
+            940,
+            228
+          ],
+          "target_preview": [
+            462.2492913156748,
+            374.4807151257992
+          ],
+          "ncc": 0.8006163835525513,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            855,
+            263
+          ],
+          "target_seed": [
+            380,
+            408
+          ],
+          "source": [
+            3635.375,
+            1119.375
+          ],
+          "target": [
+            1129.3915022015572,
+            1240.947280317545
+          ],
+          "source_preview": [
+            855,
+            263
+          ],
+          "target_preview": [
+            376.1305007338524,
+            413.3157601058483
+          ],
+          "ncc": 0.7376096248626709,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            940,
+            255
+          ],
+          "target_seed": [
+            462,
+            400
+          ],
+          "source": [
+            3996.625,
+            1085.375
+          ],
+          "target": [
+            1390.9573730230331,
+            1207.8636434972286
+          ],
+          "source_preview": [
+            940,
+            255
+          ],
+          "target_preview": [
+            463.31912434101105,
+            402.2878811657429
+          ],
+          "ncc": 0.782513439655304,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            603,
+            599
+          ],
+          "target_seed": [
+            115,
+            768
+          ],
+          "source": [
+            2564.375,
+            2547.375
+          ],
+          "target": [
+            394.66292740404606,
+            2316.5679910779
+          ],
+          "source_preview": [
+            603,
+            599
+          ],
+          "target_preview": [
+            131.2209758013487,
+            771.8559970259666
+          ],
+          "ncc": 0.7907899022102356,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            690,
+            595
+          ],
+          "target_seed": [
+            220,
+            760
+          ],
+          "source": [
+            2934.125,
+            2530.375
+          ],
+          "target": [
+            664.5311327278614,
+            2293.5512741059065
+          ],
+          "source_preview": [
+            690,
+            595
+          ],
+          "target_preview": [
+            221.17704424262047,
+            764.1837580353022
+          ],
+          "ncc": 0.7831770777702332,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            603,
+            626
+          ],
+          "target_seed": [
+            115,
+            799
+          ],
+          "source": [
+            2564.375,
+            2662.125
+          ],
+          "target": [
+            396.9503177497536,
+            2400.6857557222247
+          ],
+          "source_preview": [
+            603,
+            626
+          ],
+          "target_preview": [
+            131.98343924991786,
+            799.8952519074082
+          ],
+          "ncc": 0.8109872937202454,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            690,
+            620
+          ],
+          "target_seed": [
+            220,
+            789
+          ],
+          "source": [
+            2934.125,
+            2636.625
+          ],
+          "target": [
+            666.6220073699951,
+            2370.3525862693787
+          ],
+          "source_preview": [
+            690,
+            620
+          ],
+          "target_preview": [
+            221.87400245666504,
+            789.7841954231262
+          ],
+          "ncc": 0.704371452331543,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            768,
+            590
+          ],
+          "target_seed": [
+            300,
+            753
+          ],
+          "source": [
+            3265.625,
+            2509.125
+          ],
+          "target": [
+            905.6635721027851,
+            2264.5450023710728
+          ],
+          "source_preview": [
+            768,
+            590
+          ],
+          "target_preview": [
+            301.5545240342617,
+            754.5150007903576
+          ],
+          "ncc": 0.6540156006813049,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            849,
+            585
+          ],
+          "target_seed": [
+            384,
+            748
+          ],
+          "source": [
+            3609.875,
+            2487.875
+          ],
+          "target": [
+            1156.6357457190752,
+            2239.247237019241
+          ],
+          "source_preview": [
+            849,
+            585
+          ],
+          "target_preview": [
+            385.21191523969173,
+            746.082412339747
+          ],
+          "ncc": 0.4902924597263336,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            768,
+            618
+          ],
+          "target_seed": [
+            300,
+            783
+          ],
+          "source": [
+            3265.625,
+            2628.125
+          ],
+          "target": [
+            909.0183712244034,
+            2352.7542726397514
+          ],
+          "source_preview": [
+            768,
+            618
+          ],
+          "target_preview": [
+            302.67279040813446,
+            783.9180908799171
+          ],
+          "ncc": 0.8040764331817627,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            849,
+            612
+          ],
+          "target_seed": [
+            384,
+            777
+          ],
+          "source": [
+            3609.875,
+            2602.625
+          ],
+          "target": [
+            1159.387180134654,
+            2324.909209251404
+          ],
+          "source_preview": [
+            849,
+            612
+          ],
+          "target_preview": [
+            386.1290600448847,
+            774.6364030838013
+          ],
+          "ncc": 0.626670241355896,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            930,
+            520
+          ],
+          "target_seed": [
+            462,
+            675
+          ],
+          "source": [
+            3954.125,
+            2211.625
+          ],
+          "target": [
+            1398.3778334110975,
+            2026.3021910339594
+          ],
+          "source_preview": [
+            930,
+            520
+          ],
+          "target_preview": [
+            465.7926111370325,
+            675.1007303446531
+          ],
+          "ncc": 0.8004172444343567,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            990,
+            516
+          ],
+          "target_seed": [
+            530,
+            667
+          ],
+          "source": [
+            4209.125,
+            2194.625
+          ],
+          "target": [
+            1582.223971761763,
+            2007.3285528719425
+          ],
+          "source_preview": [
+            990,
+            516
+          ],
+          "target_preview": [
+            527.074657253921,
+            668.7761842906475
+          ],
+          "ncc": 0.5301438570022583,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            930,
+            548
+          ],
+          "target_seed": [
+            462,
+            705
+          ],
+          "source": [
+            3954.125,
+            2330.625
+          ],
+          "target": [
+            1400.3830258250237,
+            2113.1549763940275
+          ],
+          "source_preview": [
+            930,
+            548
+          ],
+          "target_preview": [
+            466.4610086083412,
+            704.0516587980092
+          ],
+          "ncc": 0.8064565658569336,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            990,
+            545
+          ],
+          "target_seed": [
+            530,
+            695
+          ],
+          "source": [
+            4209.125,
+            2317.875
+          ],
+          "target": [
+            1586.0648447573185,
+            2098.164325736463
+          ],
+          "source_preview": [
+            990,
+            545
+          ],
+          "target_preview": [
+            528.3549482524395,
+            699.0547752454877
+          ],
+          "ncc": 0.7805905342102051,
+          "search_boundary": false
+        }
+      ]
+    },
+    {
+      "id": "8450_8451",
+      "source": "IMG_8450.jpg",
+      "target": "IMG_8451.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.02,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            601,
+            362
+          ],
+          "target_seed": [
+            185,
+            290
+          ],
+          "source": [
+            1804.0,
+            1087.0
+          ],
+          "target": [
+            562.5132187455893,
+            880.661848127842
+          ],
+          "source_preview": [
+            601,
+            362
+          ],
+          "target_preview": [
+            187.17107291519642,
+            293.220616042614
+          ],
+          "ncc": 0.9148929715156555,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            633,
+            371
+          ],
+          "target_seed": [
+            219,
+            302
+          ],
+          "source": [
+            1900.0,
+            1114.0
+          ],
+          "target": [
+            660.1192841529846,
+            910.1156295835972
+          ],
+          "source_preview": [
+            633,
+            371
+          ],
+          "target_preview": [
+            219.70642805099487,
+            303.0385431945324
+          ],
+          "ncc": 0.9324445724487305,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            601,
+            472
+          ],
+          "target_seed": [
+            187,
+            401
+          ],
+          "source": [
+            1804.0,
+            1417.0
+          ],
+          "target": [
+            561.5236200094223,
+            1212.9690924836323
+          ],
+          "source_preview": [
+            601,
+            472
+          ],
+          "target_preview": [
+            186.84120666980743,
+            403.9896974945441
+          ],
+          "ncc": 0.9756355881690979,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            633,
+            478
+          ],
+          "target_seed": [
+            219,
+            408
+          ],
+          "source": [
+            1900.0,
+            1435.0
+          ],
+          "target": [
+            657.7935509979725,
+            1231.3130039349198
+          ],
+          "source_preview": [
+            633,
+            478
+          ],
+          "target_preview": [
+            218.93118366599083,
+            410.1043346449733
+          ],
+          "ncc": 0.9606578350067139,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            734,
+            389
+          ],
+          "target_seed": [
+            303,
+            318
+          ],
+          "source": [
+            2203.0,
+            1168.0
+          ],
+          "target": [
+            960.4863069057465,
+            966.293920904398
+          ],
+          "source_preview": [
+            734,
+            389
+          ],
+          "target_preview": [
+            319.82876896858215,
+            321.764640301466
+          ],
+          "ncc": 0.8606680035591125,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            748,
+            391
+          ],
+          "target_seed": [
+            332,
+            325
+          ],
+          "source": [
+            2245.0,
+            1174.0
+          ],
+          "target": [
+            1003.8802768588066,
+            972.1683996915817
+          ],
+          "source_preview": [
+            748,
+            391
+          ],
+          "target_preview": [
+            334.2934256196022,
+            323.7227998971939
+          ],
+          "ncc": 0.8438666462898254,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            734,
+            496
+          ],
+          "target_seed": [
+            303,
+            429
+          ],
+          "source": [
+            2203.0,
+            1489.0
+          ],
+          "target": [
+            957.2895782738924,
+            1287.9796935250051
+          ],
+          "source_preview": [
+            734,
+            496
+          ],
+          "target_preview": [
+            318.76319275796413,
+            428.9932311750017
+          ],
+          "ncc": 0.9265256524085999,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            748,
+            498
+          ],
+          "target_seed": [
+            332,
+            437
+          ],
+          "source": [
+            2245.0,
+            1495.0
+          ],
+          "target": [
+            1001.8862686753273,
+            1294.2761206105351
+          ],
+          "source_preview": [
+            748,
+            498
+          ],
+          "target_preview": [
+            333.6287562251091,
+            431.0920402035117
+          ],
+          "ncc": 0.9171897768974304,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            693,
+            676
+          ],
+          "target_seed": [
+            282,
+            595
+          ],
+          "source": [
+            2080.0,
+            2029.0
+          ],
+          "target": [
+            831.8913861364126,
+            1827.345895677805
+          ],
+          "source_preview": [
+            693,
+            676
+          ],
+          "target_preview": [
+            276.9637953788042,
+            608.781965225935
+          ],
+          "ncc": 0.9518740773200989,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            712,
+            679
+          ],
+          "target_seed": [
+            300,
+            601
+          ],
+          "source": [
+            2137.0,
+            2038.0
+          ],
+          "target": [
+            891.0495121181011,
+            1836.8704406321049
+          ],
+          "source_preview": [
+            712,
+            679
+          ],
+          "target_preview": [
+            296.6831707060337,
+            611.956813544035
+          ],
+          "ncc": 0.9231027960777283,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            693,
+            787
+          ],
+          "target_seed": [
+            282,
+            715
+          ],
+          "source": [
+            2080.0,
+            2362.0
+          ],
+          "target": [
+            829.41657499969,
+            2161.0256497776136
+          ],
+          "source_preview": [
+            693,
+            787
+          ],
+          "target_preview": [
+            276.13885833323,
+            720.0085499258712
+          ],
+          "ncc": 0.96876060962677,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            712,
+            790
+          ],
+          "target_seed": [
+            300,
+            721
+          ],
+          "source": [
+            2137.0,
+            2371.0
+          ],
+          "target": [
+            888.0642039179802,
+            2170.5172501951456
+          ],
+          "source_preview": [
+            712,
+            790
+          ],
+          "target_preview": [
+            295.68806797266006,
+            723.1724167317152
+          ],
+          "ncc": 0.920464277267456,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            852,
+            700
+          ],
+          "target_seed": [
+            438,
+            640
+          ],
+          "source": [
+            2557.0,
+            2101.0
+          ],
+          "target": [
+            1305.4274756461382,
+            1900.7649023532867
+          ],
+          "source_preview": [
+            852,
+            700
+          ],
+          "target_preview": [
+            434.80915854871273,
+            633.2549674510956
+          ],
+          "ncc": 0.8746194243431091,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            916,
+            714
+          ],
+          "target_seed": [
+            500,
+            656
+          ],
+          "source": [
+            2749.0,
+            2143.0
+          ],
+          "target": [
+            1498.635505616665,
+            1944.4082299470901
+          ],
+          "source_preview": [
+            916,
+            714
+          ],
+          "target_preview": [
+            499.21183520555496,
+            647.8027433156967
+          ],
+          "ncc": 0.9684577584266663,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            850,
+            419
+          ],
+          "target_seed": [
+            434,
+            349
+          ],
+          "source": [
+            2551.0,
+            1258.0
+          ],
+          "target": [
+            1308.927453538403,
+            1059.5359040796757
+          ],
+          "source_preview": [
+            850,
+            419
+          ],
+          "target_preview": [
+            435.9758178461343,
+            352.8453013598919
+          ],
+          "ncc": 0.9662140607833862,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            928,
+            442
+          ],
+          "target_seed": [
+            513,
+            375
+          ],
+          "source": [
+            2785.0,
+            1327.0
+          ],
+          "target": [
+            1541.377157062292,
+            1130.5912840664387
+          ],
+          "source_preview": [
+            928,
+            442
+          ],
+          "target_preview": [
+            513.4590523540974,
+            376.5304280221462
+          ],
+          "ncc": 0.8936086297035217,
+          "search_boundary": false
+        }
+      ]
+    },
+    {
+      "id": "8451_8452",
+      "source": "IMG_8451.jpg",
+      "target": "IMG_8452.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.1,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            350,
+            328
+          ],
+          "target_seed": [
+            26,
+            302
+          ],
+          "source": [
+            1051.0,
+            985.0
+          ],
+          "target": [
+            80.67997524142265,
+            891.8775686137378
+          ],
+          "source_preview": [
+            350,
+            328
+          ],
+          "target_preview": [
+            26.559991747140884,
+            296.9591895379126
+          ],
+          "ncc": 0.9103670716285706,
+          "search_boundary": false
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            418,
+            342
+          ],
+          "target_seed": [
+            103,
+            320
+          ],
+          "source": [
+            1255.0,
+            1027.0
+          ],
+          "target": [
+            317.7588245868683,
+            943.6879873722792
+          ],
+          "source_preview": [
+            418,
+            342
+          ],
+          "target_preview": [
+            105.58627486228943,
+            314.22932912409306
+          ],
+          "ncc": 0.923010528087616,
+          "search_boundary": false
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            350,
+            438
+          ],
+          "target_seed": [
+            26,
+            414
+          ],
+          "source": [
+            1051.0,
+            1315.0
+          ],
+          "target": [
+            78.42639243602753,
+            1273.291166394949
+          ],
+          "source_preview": [
+            350,
+            438
+          ],
+          "target_preview": [
+            25.808797478675842,
+            424.097055464983
+          ],
+          "ncc": 0.802047073841095,
+          "search_boundary": false
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            418,
+            449
+          ],
+          "target_seed": [
+            103,
+            436
+          ],
+          "source": [
+            1255.0,
+            1348.0
+          ],
+          "target": [
+            315.3950513601303,
+            1314.7862588316202
+          ],
+          "source_preview": [
+            418,
+            449
+          ],
+          "target_preview": [
+            104.79835045337677,
+            437.9287529438734
+          ],
+          "ncc": 0.945709764957428,
+          "search_boundary": false
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            434,
+            349
+          ],
+          "target_seed": [
+            120,
+            330
+          ],
+          "source": [
+            1303.0,
+            1048.0
+          ],
+          "target": [
+            373.95912969112396,
+            969.6504449993372
+          ],
+          "source_preview": [
+            434,
+            349
+          ],
+          "target_preview": [
+            124.31970989704132,
+            322.88348166644573
+          ],
+          "ncc": 0.9689827561378479,
+          "search_boundary": false
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            469,
+            360
+          ],
+          "target_seed": [
+            166,
+            342
+          ],
+          "source": [
+            1408.0,
+            1081.0
+          ],
+          "target": [
+            496.07365153729916,
+            1009.3577999547124
+          ],
+          "source_preview": [
+            469,
+            360
+          ],
+          "target_preview": [
+            165.02455051243305,
+            336.1192666515708
+          ],
+          "ncc": 0.9665935635566711,
+          "search_boundary": false
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            434,
+            455
+          ],
+          "target_seed": [
+            120,
+            443
+          ],
+          "source": [
+            1303.0,
+            1366.0
+          ],
+          "target": [
+            369.1989224255085,
+            1336.7771627306938
+          ],
+          "source_preview": [
+            434,
+            455
+          ],
+          "target_preview": [
+            122.73297414183617,
+            445.2590542435646
+          ],
+          "ncc": 0.9536185264587402,
+          "search_boundary": false
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            469,
+            465
+          ],
+          "target_seed": [
+            166,
+            455
+          ],
+          "source": [
+            1408.0,
+            1396.0
+          ],
+          "target": [
+            492.30878610908985,
+            1373.1453625261784
+          ],
+          "source_preview": [
+            469,
+            465
+          ],
+          "target_preview": [
+            163.76959536969662,
+            457.3817875087261
+          ],
+          "ncc": 0.9224319458007812,
+          "search_boundary": false
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            550,
+            656
+          ],
+          "target_seed": [
+            261,
+            680
+          ],
+          "source": [
+            1651.0,
+            1969.0
+          ],
+          "target": [
+            768.6169108599424,
+            2042.9555455744267
+          ],
+          "source_preview": [
+            550,
+            656
+          ],
+          "target_preview": [
+            255.8723036199808,
+            680.6518485248089
+          ],
+          "ncc": 0.9182750582695007,
+          "search_boundary": false
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            603,
+            665
+          ],
+          "target_seed": [
+            315,
+            690
+          ],
+          "source": [
+            1810.0,
+            1996.0
+          ],
+          "target": [
+            952.3928041905165,
+            2076.271039649844
+          ],
+          "source_preview": [
+            603,
+            665
+          ],
+          "target_preview": [
+            317.13093473017216,
+            691.7570132166147
+          ],
+          "ncc": 0.8517408967018127,
+          "search_boundary": false
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            550,
+            751
+          ],
+          "target_seed": [
+            261,
+            795
+          ],
+          "source": [
+            1651.0,
+            2254.0
+          ],
+          "target": [
+            766.3557739928365,
+            2372.5133218169212
+          ],
+          "source_preview": [
+            550,
+            751
+          ],
+          "target_preview": [
+            255.1185913309455,
+            790.5044406056404
+          ],
+          "ncc": 0.875880777835846,
+          "search_boundary": false
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            603,
+            760
+          ],
+          "target_seed": [
+            315,
+            805
+          ],
+          "source": [
+            1810.0,
+            2281.0
+          ],
+          "target": [
+            949.5657150298357,
+            2405.5600033402443
+          ],
+          "source_preview": [
+            603,
+            760
+          ],
+          "target_preview": [
+            316.1885716766119,
+            801.5200011134148
+          ],
+          "ncc": 0.8298920392990112,
+          "search_boundary": false
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            617,
+            663
+          ],
+          "target_seed": [
+            336,
+            697
+          ],
+          "source": [
+            1852.0,
+            1990.0
+          ],
+          "target": [
+            1000.9680369496346,
+            2071.1617072075605
+          ],
+          "source_preview": [
+            617,
+            663
+          ],
+          "target_preview": [
+            333.3226789832115,
+            690.0539024025202
+          ],
+          "ncc": 0.8602360486984253,
+          "search_boundary": false
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            650,
+            672
+          ],
+          "target_seed": [
+            374,
+            710
+          ],
+          "source": [
+            1951.0,
+            2017.0
+          ],
+          "target": [
+            1114.3876819312572,
+            2101.9256632328033
+          ],
+          "source_preview": [
+            650,
+            672
+          ],
+          "target_preview": [
+            371.1292273104191,
+            700.3085544109344
+          ],
+          "ncc": 0.8221502304077148,
+          "search_boundary": false
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            681,
+            677
+          ],
+          "target_seed": [
+            408,
+            708
+          ],
+          "source": [
+            2044.0,
+            2032.0
+          ],
+          "target": [
+            1224.638490729034,
+            2124.0044651329517
+          ],
+          "source_preview": [
+            681,
+            677
+          ],
+          "target_preview": [
+            407.879496909678,
+            707.6681550443172
+          ],
+          "ncc": 0.9170499444007874,
+          "search_boundary": false
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            735,
+            690
+          ],
+          "target_seed": [
+            460,
+            726
+          ],
+          "source": [
+            2206.0,
+            2071.0
+          ],
+          "target": [
+            1411.5130087733269,
+            2171.053619712591
+          ],
+          "source_preview": [
+            735,
+            690
+          ],
+          "target_preview": [
+            470.1710029244423,
+            723.3512065708637
+          ],
+          "ncc": 0.9409371018409729,
+          "search_boundary": false
+        }
+      ]
+    }
+  ],
+  "refinement": {
+    "method": "Bounded local grayscale NCC with manually seeded per-pair template scale; quadratic subpixel peak",
+    "preview_size": [
+      1008,
+      1344
+    ],
+    "base_patch_size_px": 31,
+    "search_radius_preview_px": 32,
+    "scope": "Refines the manually seeded target only; no feature detector, global matcher, RANSAC, or H-based filtering."
+  }
+}

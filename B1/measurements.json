@@ -1,0 +1,371 @@
+{
+  "parameters": {
+    "working_size": [
+      1200,
+      1600
+    ],
+    "grayscale": "0.299R+0.587G+0.114B on RGB/255",
+    "derivative_sigma": 1.0,
+    "integration_sigma": 1.5,
+    "harris_k": 0.04,
+    "response": "det(M)-k*trace(M)^2",
+    "threshold_rel": 0.001,
+    "local_max_window": 3,
+    "border": 24,
+    "anms_robust": 0.9,
+    "requested_count": 500,
+    "anms_block_size": 128
+  },
+  "records": [
+    {
+      "image": "IMG_8443.jpg",
+      "original_size": [
+        4284,
+        5712
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 7136,
+      "selected_count": 500,
+      "unbounded_radius_count": 4,
+      "absolute_response_threshold": 1.673819351736723e-07,
+      "response_max": 0.0001673819351736723,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 7.615773105863909,
+        "occupied_grid_cells": 33,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 29.5296461204668,
+        "occupied_grid_cells": 38,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 24.186773244895647,
+      "H_original_to_working": [
+        [
+          0.2801120448179272,
+          0.0,
+          -0.3599439775910364
+        ],
+        [
+          0.0,
+          0.2801120448179272,
+          -0.3599439775910364
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8443.npz",
+      "points_json": "points/IMG_8443.json",
+      "seconds_including_io": 2.0063147000037134
+    },
+    {
+      "image": "IMG_8444.jpg",
+      "original_size": [
+        3024,
+        4032
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 3663,
+      "selected_count": 500,
+      "unbounded_radius_count": 2,
+      "absolute_response_threshold": 1.5924511081155102e-07,
+      "response_max": 0.000159245110811551,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 8.06225774829855,
+        "occupied_grid_cells": 35,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 27.622430910073053,
+        "occupied_grid_cells": 46,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 23.021728866442675,
+      "H_original_to_working": [
+        [
+          0.3968253968253968,
+          0.0,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.3968253968253968,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8444.npz",
+      "points_json": "points/IMG_8444.json",
+      "seconds_including_io": 0.904183000093326
+    },
+    {
+      "image": "IMG_8445.jpg",
+      "original_size": [
+        4284,
+        5712
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 7771,
+      "selected_count": 500,
+      "unbounded_radius_count": 1,
+      "absolute_response_threshold": 2.962430403708267e-07,
+      "response_max": 0.0002962430403708267,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 7.211102550927978,
+        "occupied_grid_cells": 33,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 31.725218763681447,
+        "occupied_grid_cells": 43,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 26.92582403567252,
+      "H_original_to_working": [
+        [
+          0.2801120448179272,
+          0.0,
+          -0.3599439775910364
+        ],
+        [
+          0.0,
+          0.2801120448179272,
+          -0.3599439775910364
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8445.npz",
+      "points_json": "points/IMG_8445.json",
+      "seconds_including_io": 1.7983224000781775
+    },
+    {
+      "image": "IMG_8446.jpg",
+      "original_size": [
+        3024,
+        4032
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 4829,
+      "selected_count": 500,
+      "unbounded_radius_count": 1,
+      "absolute_response_threshold": 1.7437088453322614e-07,
+      "response_max": 0.00017437088453322612,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 7.280109889280518,
+        "occupied_grid_cells": 37,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 32.38826948140329,
+        "occupied_grid_cells": 45,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 27.16615541441225,
+      "H_original_to_working": [
+        [
+          0.3968253968253968,
+          0.0,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.3968253968253968,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8446.npz",
+      "points_json": "points/IMG_8446.json",
+      "seconds_including_io": 1.039009700063616
+    },
+    {
+      "image": "IMG_8447.jpg",
+      "original_size": [
+        3024,
+        4032
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 4359,
+      "selected_count": 500,
+      "unbounded_radius_count": 1,
+      "absolute_response_threshold": 1.650606299288264e-07,
+      "response_max": 0.00016506062992882638,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 7.810249675906654,
+        "occupied_grid_cells": 37,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 32.57299494980466,
+        "occupied_grid_cells": 46,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 27.459060435491963,
+      "H_original_to_working": [
+        [
+          0.3968253968253968,
+          0.0,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.3968253968253968,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8447.npz",
+      "points_json": "points/IMG_8447.json",
+      "seconds_including_io": 0.9878408000804484
+    },
+    {
+      "image": "IMG_8448.jpg",
+      "original_size": [
+        4284,
+        5712
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 8400,
+      "selected_count": 500,
+      "unbounded_radius_count": 1,
+      "absolute_response_threshold": 2.47139108880347e-07,
+      "response_max": 0.00024713910888034697,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 8.51464255977805,
+        "occupied_grid_cells": 39,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 34.92849839314596,
+        "occupied_grid_cells": 47,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 31.064449134018133,
+      "H_original_to_working": [
+        [
+          0.2801120448179272,
+          0.0,
+          -0.3599439775910364
+        ],
+        [
+          0.0,
+          0.2801120448179272,
+          -0.3599439775910364
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8448.npz",
+      "points_json": "points/IMG_8448.json",
+      "seconds_including_io": 2.0116739000659436
+    },
+    {
+      "image": "IMG_8450.jpg",
+      "original_size": [
+        3024,
+        4032
+      ],
+      "working_size": [
+        1200,
+        1600
+      ],
+      "candidate_count": 4979,
+      "selected_count": 500,
+      "unbounded_radius_count": 1,
+      "absolute_response_threshold": 1.9166923609586854e-07,
+      "response_max": 0.00019166923609586855,
+      "strongest_metrics": {
+        "median_nearest_neighbor_px": 8.0,
+        "occupied_grid_cells": 36,
+        "grid_cells": 48
+      },
+      "anms_metrics": {
+        "median_nearest_neighbor_px": 34.61923145934185,
+        "occupied_grid_cells": 44,
+        "grid_cells": 48
+      },
+      "selected_finite_radius_min": 29.966648127543394,
+      "H_original_to_working": [
+        [
+          0.3968253968253968,
+          0.0,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.3968253968253968,
+          -0.3015873015873016
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "points_npz": "points/IMG_8450.npz",
+      "points_json": "points/IMG_8450.json",
+      "seconds_including_io": 1.0547055000206456
+    }
+  ],
+  "input_sha256": {
+    "A1\\images\\IMG_8443.jpg": "153da332a4162ec1e4aa9c0af7793e61e8deb4151396d950ae0b3784ebfcb9f1",
+    "A1\\images\\IMG_8444.jpg": "f9c189468e0443c1e11d7a7de5693542384378c13c2286e8460a07123ce38cbc",
+    "A1\\images\\IMG_8445.jpg": "ffd6f2df507f2b9388b17ef1c1c61a9c25b8231c336c606c4a60ff6331151643",
+    "A1\\images\\IMG_8446.jpg": "64ba1763ca05eba1442ef4d7d30a03f2235ff908dd80158ee2de651a39f61ef1",
+    "A1\\images\\IMG_8447.jpg": "d3f849e9115742e5282027c3da058e19ac75864035da8c0f4fe74e50e7bb72cc",
+    "A1\\images\\IMG_8448.jpg": "aaedfb20aeee16b39e17a42fc1f11f546134b1a59f9dfd0e5a4b040e07bfdb4e",
+    "A1\\images\\IMG_8450.jpg": "3f5027faae7d992c482d1030d49d5ee8b4eaab311946bbb3cd0acef0ee2ea889",
+    "A1\\images\\IMG_8451.jpg": "61fcff08ada862b0a5075a1c82ffa5fd173fe19cb675783ac4f8903c101c09bd",
+    "A1\\images\\IMG_8452.jpg": "017eb85618f926c14506603d57bf21c837570082fcf046e1706376ec2cdbc567",
+    "A2\\homographies.json": "7293296dbf55b24c2edba141820a5dcb97d87b333b7aa36342919f0d54fab961",
+    "A3\\warp.py": "0b94ddde64853c4f1d03c60ebb36ad87c10ad6da800c91c5e0a765bdfa9249e4",
+    "A4\\blend.py": "de45960b52333b9af32dfd5b2d6416b4557021235c3601f4d4657050b181e3be",
+    "A4\\results\\panorama.png": "13c8aae6aaa97afb1a5196ca9172c584aaf0210c8dfce69b6f80b28285508589",
+    "A4\\panorama_measurements.json": "26b128a2733e509fc3f16bac8c8a092cb0f0c1d0b7fc92d1e7c119e6dcda30d6"
+  },
+  "software": {
+    "numpy": "2.4.2",
+    "opencv": "4.13.0"
+  },
+  "reference": "https://www.microsoft.com/en-us/research/wp-content/uploads/2005/06/cvpr05.pdf"
+}

@@ -1,0 +1,104 @@
+{
+  "pair": "8443_8444",
+  "input_count": 47,
+  "inlier_count": 44,
+  "outlier_count": 3,
+  "median_inlier_error_working_px": 0.7772310878934992,
+  "rmse_inlier_error_working_px": 1.0593812629965649,
+  "max_inlier_error_working_px": 2.28181236219621,
+  "H_working": [
+    [
+      1.3731456522711671,
+      -0.0024890012549067028,
+      -780.5173811911294
+    ],
+    [
+      0.008736169438526332,
+      1.3684099245912063,
+      -323.06680397867615
+    ],
+    [
+      9.701718870645215e-06,
+      5.410670393986723e-07,
+      1.0
+    ]
+  ],
+  "H_original": [
+    [
+      0.9692849228958964,
+      -0.0017568333542913824,
+      -1967.3943230596153
+    ],
+    [
+      0.006168795934172579,
+      0.9659400937996874,
+      -814.6205047107165
+    ],
+    [
+      2.717578330351978e-06,
+      1.5155995356519158e-07,
+      1.0
+    ]
+  ],
+  "all_b3_ratio_count": 47,
+  "all_b3_under_threshold": 44,
+  "ransac": {
+    "seed": 1337,
+    "threshold": 3.0,
+    "draws": 100,
+    "hypotheses": 100,
+    "degenerate_draws": 0,
+    "solver_failures": 0,
+    "required_hypotheses": 100,
+    "confidence": 0.999,
+    "max_iterations": 5000,
+    "min_iterations": 100,
+    "updates": [
+      {
+        "draw": 1,
+        "hypotheses": 1,
+        "inliers": 27,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 5,
+        "hypotheses": 5,
+        "inliers": 34,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 12,
+        "hypotheses": 12,
+        "inliers": 43,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 13,
+        "hypotheses": 13,
+        "inliers": 44,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 41,
+        "hypotheses": 41,
+        "inliers": 44,
+        "required_hypotheses": 100
+      },
+      {
+        "draw": 50,
+        "hypotheses": 50,
+        "inliers": 44,
+        "required_hypotheses": 100
+      }
+    ],
+    "refit_history": [
+      {
+        "iteration": 1,
+        "fitted_count": 44,
+        "classified_count": 44
+      }
+    ],
+    "refit_converged": true,
+    "hit_draw_limit": false
+  }
+}

@@ -1,0 +1,6 @@
+.source-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
+.source-strip figure{min-width:0;margin:0}
+.source-strip figcaption{font-size:13px;font-weight:700;margin-top:8px}
+.source-strip img{width:100%;height:auto;display:block}
+.report-section details details{margin:12px 0}
+@media(max-width:640px){.source-strip{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.source-strip figcaption{font-size:11px}}

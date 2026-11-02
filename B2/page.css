@@ -1,0 +1,5 @@
+.example-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2.5fr);gap:26px;align-items:start}
+.example-layout figure{margin:0;min-width:0}
+.example-layout figcaption{font-size:13px;line-height:1.6}
+.location-map img{max-height:520px;object-fit:contain}
+@media(max-width:640px){.example-layout{grid-template-columns:minmax(0,1fr);gap:20px}.location-map img{max-height:420px}}

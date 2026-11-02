@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SYDE 671 Assignment 3: source photographs and handwritten homography recovery for stitching photo mosaics.">
+  <title>Stitching Photo Mosaics · James Xie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="shell">
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Stitching Photo Mosaics home">Stitching Photo<br>Mosaics</a>
+    <nav class="header-nav" aria-label="Project navigation">
+      <a href="#work">Project index <span>01</span></a>
+      <a href="#a1">Source photos <span>02</span></a>
+      <a href="A2/report.html">Homographies <span>03</span></a>
+      <a href="A3/report.html">Rectification <span>04</span></a>
+      <a href="A4/report.html">Mosaic <span>05</span></a>
+      <a href="B1/report.html">Corners <span>06</span></a>
+      <a href="B2/report.html">Descriptors <span>07</span></a>
+      <a href="B3/report.html">Matching <span>08</span></a>
+      <a href="B4/report.html">RANSAC mosaic <span>09</span></a>
+    </nav>
+  </header>
+
+  <section class="project-hero">
+    <p class="eyebrow">SYDE 671 · Assignment 3 · James Xie</p>
+    <h1>STITCHING<br>PHOTO MOSAICS</h1>
+    <p class="project-deck">Align overlapping photographs and blend them into mosaics.</p>
+    <div class="project-hero-rule"><span>Part A · Image warping &amp; mosaicing</span><span>9 selected photographs · 8 adjacent pairs</span></div>
+  </section>
+
+  <section class="project-index" id="work" aria-labelledby="work-title">
+    <div class="section-heading">
+      <div><p class="eyebrow">The project so far</p><h2 id="work-title">Images first.<br>Geometry next.</h2></div>
+      <p>Explore the source photographs and the recovered transformations between neighboring views.</p>
+    </div>
+    <article class="study-row">
+      <div class="study-copy">
+        <p class="eyebrow">A.1 · One source set prepared</p>
+        <h3>Shoot &amp; select<br>the pictures.</h3>
+        <p>Nine views cover the reflective front and right-hand facades. Window frames provide alignment points.</p>
+        <a class="solid-link" href="#a1">Explore the nine photographs <span aria-hidden="true">→</span></a>
+      </div>
+      <a class="study-image" href="A1/selected_photos.jpg" aria-label="Open the labeled source-photo overview"><img src="A1/selected_photos.jpg" alt="Nine selected building photographs ordered from left to right" width="1800" height="1000"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy">
+        <p class="eyebrow">A.2 · 8 homographies recovered</p>
+        <h3>Find the shared<br>point of view.</h3>
+        <p>Eight adjacent pairs connect through IMG_8448. Each H uses 12 fitting points and four check points.</p>
+        <a class="solid-link" href="A2/report.html">Read the homography report <span aria-hidden="true">→</span></a>
+      </div>
+      <a class="study-image" href="A2/report.html#pair-8443_8444" aria-label="Inspect the first image pair"><img src="A2/figures/8443_8444_correspondences.jpg" alt="Numbered corresponding architectural points between two adjacent photographs" width="2000" height="1080" loading="lazy"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy"><p class="eyebrow">A.3 · Warping &amp; rectification</p><h3>Reconstruct<br>the pixels.</h3><p>Rectify two windows and warp two adjacent views. Compare handwritten nearest-neighbor and bilinear sampling.</p><a class="solid-link" href="A3/report.html">Explore warping &amp; rectification <span aria-hidden="true">→</span></a></div>
+      <a class="study-image" href="A3/report.html#IMG_8451_rectification" aria-label="Inspect the side-window rectification"><img src="A3/figures/IMG_8451_rectification_comparison.jpg" alt="Nearest-neighbor and bilinear rectification of a real side-facade window" width="1800" height="1000" loading="lazy"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy"><p class="eyebrow">A.4 · Seven views, one mosaic</p><h3>Blend<br>the views.</h3><p>Blend seven views into one wider image. Compare feathering with direct overwrite.</p><a class="solid-link" href="A4/report.html">Explore the mosaic <span aria-hidden="true">→</span></a></div>
+      <a class="study-image" href="A4/report.html#result" aria-label="Inspect the seven-image panorama"><img src="A4/figures/panorama.jpg" alt="Seven-image feathered panorama spanning the reflective building facade" loading="lazy"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy"><p class="eyebrow">B.1 · Harris corners &amp; ANMS</p><h3>Find<br>the corners.</h3><p>Select 500 corners per image. Compare the strongest Harris responses with handwritten ANMS.</p><a class="solid-link" href="B1/report.html">Explore Harris &amp; ANMS <span aria-hidden="true">→</span></a></div>
+      <a class="study-image" href="B1/report.html#image-8446" aria-label="Compare Harris and ANMS on IMG 8446"><img src="B1/figures/IMG_8446_comparison.jpg" alt="Harris candidates, strongest 500 and ANMS 500 corner overlays" loading="lazy"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy"><p class="eyebrow">B.2 · 3,500 patch descriptors</p><h3>Describe<br>the patches.</h3><p>Convert 40 × 40 regions into normalized 8 × 8 patches and 64-dimensional descriptors.</p><a class="solid-link" href="B2/report.html">Explore feature descriptors <span aria-hidden="true">→</span></a></div>
+      <a class="study-image" href="B2/report.html#image-8446" aria-label="Inspect descriptor examples from IMG 8446"><img src="B2/figures/IMG_8446_examples.jpg" alt="Raw 40 by 40, blurred, sampled 8 by 8 and normalized feature patches" loading="lazy"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy"><p class="eyebrow">B.3 · Six adjacent image pairs</p><h3>Match<br>the features.</h3><p>Find 552 tentative matches using nearest neighbors and the ratio test. Inspect mutual-neighbor consistency.</p><a class="solid-link" href="B3/report.html">Explore descriptor matching <span aria-hidden="true">→</span></a></div>
+      <a class="study-image" href="B3/report.html#pair-8446_8447" aria-label="Inspect matches between IMG 8446 and IMG 8447"><img src="B3/figures/8446_8447_matches.jpg" alt="Descriptor-only feature match lines between two overlapping building photographs" loading="lazy"></a>
+    </article>
+    <article class="study-row">
+      <div class="study-copy"><p class="eyebrow">B.4 · One automatic seven-image mosaic</p><h3>Estimate robustly.<br>Stitch automatically.</h3><p>Estimate six H values with handwritten four-point RANSAC. Compare the seven-image automatic mosaic with the manual result.</p><a class="solid-link" href="B4/report.html">Explore the automatic mosaic <span aria-hidden="true">→</span></a></div>
+      <a class="study-image" href="B4/report.html#result" aria-label="Inspect the final automatic seven-image mosaic"><img src="B4/figures/automatic_mosaic.jpg" alt="Seven-image automatic mosaic generated using feature matching and RANSAC" loading="lazy"></a>
+    </article>
+  </section>
+
+  <section class="photo-section" id="a1" aria-labelledby="photos-title">
+    <div class="section-heading">
+      <div><p class="eyebrow">A.1 · Selected source photographs</p><h2 id="photos-title">Across the facade.</h2></div>
+      <p>Selected viewing order. Open each photograph at its original resolution; three images are 4284 × 5712 and six are 3024 × 4032.</p>
+    </div>
+    <div class="photo-grid">
+      <figure><a href="A1/images/IMG_8443.jpg"><img src="A1/images/IMG_8443.jpg" alt="Selected building view 1, IMG_8443" width="4284" height="5712" loading="lazy"></a><figcaption>01 / IMG_8443<span>4284 × 5712</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8444.jpg"><img src="A1/images/IMG_8444.jpg" alt="Selected building view 2, IMG_8444" width="3024" height="4032" loading="lazy"></a><figcaption>02 / IMG_8444<span>3024 × 4032</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8445.jpg"><img src="A1/images/IMG_8445.jpg" alt="Selected building view 3, IMG_8445" width="4284" height="5712" loading="lazy"></a><figcaption>03 / IMG_8445<span>4284 × 5712</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8446.jpg"><img src="A1/images/IMG_8446.jpg" alt="Selected building view 4, IMG_8446" width="3024" height="4032" loading="lazy"></a><figcaption>04 / IMG_8446<span>3024 × 4032</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8447.jpg"><img src="A1/images/IMG_8447.jpg" alt="Selected building view 5, IMG_8447" width="3024" height="4032" loading="lazy"></a><figcaption>05 / IMG_8447<span>3024 × 4032</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8448.jpg"><img src="A1/images/IMG_8448.jpg" alt="Selected building view 6, IMG_8448" width="4284" height="5712" loading="lazy"></a><figcaption>06 / IMG_8448<span>4284 × 5712</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8450.jpg"><img src="A1/images/IMG_8450.jpg" alt="Selected building view 7, IMG_8450" width="3024" height="4032" loading="lazy"></a><figcaption>07 / IMG_8450<span>3024 × 4032</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8451.jpg"><img src="A1/images/IMG_8451.jpg" alt="Selected building view 8, IMG_8451" width="3024" height="4032" loading="lazy"></a><figcaption>08 / IMG_8451<span>3024 × 4032</span></figcaption></figure>
+      <figure><a href="A1/images/IMG_8452.jpg"><img src="A1/images/IMG_8452.jpg" alt="Selected building view 9, IMG_8452" width="3024" height="4032" loading="lazy"></a><figcaption>09 / IMG_8452<span>3024 × 4032</span></figcaption></figure>
+    </div>
+    <p class="source-note">One nine-photo set is prepared; the original A.1 request for two sets remains unmet. The clarified Part A mosaic requirement is met in A.4. A fixed camera center is unverified.</p>
+    <p class="source-note"><strong>Bridge added:</strong> IMG_8447 → IMG_8448 → IMG_8450 connects the sequence. See the <a href="A2/report.html#pair-8447_8448">first bridge pair</a> and <a href="A2/report.html#pair-8448_8450">second bridge pair</a>.</p>
+    <p class="source-note"><a href="A1/README.md">Source selection notes</a> · <a href="A1/selected_photos.jpg">Labeled overview</a></p>
+  </section>
+
+  <section class="upcoming" aria-labelledby="pipeline-title">
+    <div class="section-heading"><div><p class="eyebrow">The Part B pipeline</p><h2 id="pipeline-title">From corners<br>to one mosaic.</h2></div><p>B.1–B.4 cover corner detection through automatic stitching. The final mosaic uses seven images; the clarified minimum is three.</p></div>
+  </section>
+  <footer class="site-footer"><span>SYDE 671 · Assignment 3</span><span>Stitching Photo Mosaics · James Xie</span></footer>
+</main>
+</body>
+</html>

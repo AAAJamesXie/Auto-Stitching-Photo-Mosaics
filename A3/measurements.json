@@ -1,0 +1,662 @@
+{
+  "pixel_convention": "Integer pixel centers. H maps source to target/world; origin records the top-left world center of the returned canvas.",
+  "timing_protocol": "One small ROI warm-up, three identical-ROI runs per method, median wall time. Includes input validation, allocation, inverse coordinates and sampling. Excludes image I/O, PNG encoding and presentation resizing.",
+  "software": {
+    "python": "3.14.3",
+    "numpy": "2.4.2",
+    "pillow": "12.1.0"
+  },
+  "cases": [
+    {
+      "id": "IMG_8448_rectification",
+      "image": "IMG_8448.jpg",
+      "label": "Front facade horizontal window",
+      "source_quad": [
+        [
+          3634,
+          979
+        ],
+        [
+          3995,
+          957
+        ],
+        [
+          3992,
+          1093
+        ],
+        [
+          3633,
+          1116
+        ]
+      ],
+      "target_quad": [
+        [
+          0,
+          0
+        ],
+        [
+          721,
+          0
+        ],
+        [
+          721,
+          273
+        ],
+        [
+          0,
+          273
+        ]
+      ],
+      "canvas": [
+        -32,
+        -32,
+        786,
+        338
+      ],
+      "aspect_note": "Chosen rectangle uses twice the mean visible opposite-edge lengths. This is a display/aspect choice, not a recovered physical aspect ratio or metric calibration.",
+      "annotation_note": "Four external frame corners visually selected in full-resolution inspection crops; order TL,TR,BR,BL.",
+      "kind": "rectification",
+      "H": [
+        [
+          1.7501155681961216,
+          0.012774566191207875,
+          -6372.4262751258975
+        ],
+        [
+          0.10669552508127338,
+          1.7507765706518057,
+          -2101.7418008134655
+        ],
+        [
+          -2.2367999240397556e-05,
+          -3.6319936413289834e-05,
+          1.0
+        ]
+      ],
+      "source_size": [
+        4284,
+        5712
+      ],
+      "benchmark": {
+        "canvas": [
+          105,
+          -32,
+          512,
+          338
+        ],
+        "destination_pixels": 173056,
+        "valid_pixels": 173056,
+        "runs_seconds": {
+          "nearest": [
+            0.041085600038059056,
+            0.04056200000923127,
+            0.04075480008032173
+          ],
+          "bilinear": [
+            0.06773080001585186,
+            0.06918989995028824,
+            0.06703210005071014
+          ]
+        },
+        "median_seconds": {
+          "nearest": 0.04075480008032173,
+          "bilinear": 0.06773080001585186
+        },
+        "bilinear_to_nearest_time_ratio": 1.6619097598899857,
+        "mean_absolute_sample_difference": 1.8076495163862125,
+        "max_absolute_sample_difference": 36.42047119140625,
+        "difference_note": "Difference between methods on the same valid ROI, before PNG quantization; not an accuracy or ground-truth error score."
+      },
+      "corner_fit_errors_px": [
+        1.1513756269336518e-12,
+        5.667936909046758e-13,
+        9.165725883006586e-13,
+        3.979039320256561e-13
+      ],
+      "annotated_source": "figures/IMG_8448_rectification_source.jpg",
+      "full_resolution": {
+        "nearest": {
+          "seconds_excluding_io": 0.04637240001466125,
+          "width": 786,
+          "height": 338,
+          "origin": [
+            -32,
+            -32
+          ],
+          "valid_pixels": 265668,
+          "alpha_sha256": "3bfad65cf015b233eb21453ee4a685ad4673046088fb6359cb583327b121484e",
+          "H_source_to_canvas": [
+            [
+              0.00027452648593974773,
+              1.8222773751514574e-06,
+              -0.9949783648145277
+            ],
+            [
+              1.6630988658003245e-05,
+              0.0002745601529382957,
+              -0.3247965078689866
+            ],
+            [
+              -3.510122875443646e-09,
+              -5.699545957096581e-09,
+              0.00015692609954600745
+            ]
+          ]
+        },
+        "bilinear": {
+          "seconds_excluding_io": 0.0871290999930352,
+          "width": 786,
+          "height": 338,
+          "origin": [
+            -32,
+            -32
+          ],
+          "valid_pixels": 265668,
+          "alpha_sha256": "3bfad65cf015b233eb21453ee4a685ad4673046088fb6359cb583327b121484e",
+          "H_source_to_canvas": [
+            [
+              0.00027452648593974773,
+              1.8222773751514574e-06,
+              -0.9949783648145277
+            ],
+            [
+              1.6630988658003245e-05,
+              0.0002745601529382957,
+              -0.3247965078689866
+            ],
+            [
+              -3.510122875443646e-09,
+              -5.699545957096581e-09,
+              0.00015692609954600745
+            ]
+          ]
+        }
+      },
+      "detail_canvas_box": [
+        12,
+        12,
+        132,
+        132
+      ],
+      "outputs": {
+        "nearest": "results/IMG_8448_rectification_nearest.png",
+        "bilinear": "results/IMG_8448_rectification_bilinear.png"
+      },
+      "masks": {
+        "nearest": "results/IMG_8448_rectification_nearest_mask.png",
+        "bilinear": "results/IMG_8448_rectification_bilinear_mask.png"
+      },
+      "overview": "figures/IMG_8448_rectification_comparison.jpg",
+      "detail": "figures/IMG_8448_rectification_details.jpg"
+    },
+    {
+      "id": "IMG_8451_rectification",
+      "image": "IMG_8451.jpg",
+      "label": "Side facade tall window",
+      "source_quad": [
+        [
+          1041,
+          984
+        ],
+        [
+          1250,
+          1028
+        ],
+        [
+          1251,
+          1336
+        ],
+        [
+          1090,
+          1307
+        ]
+      ],
+      "target_quad": [
+        [
+          0,
+          0
+        ],
+        [
+          377,
+          0
+        ],
+        [
+          377,
+          635
+        ],
+        [
+          0,
+          635
+        ]
+      ],
+      "canvas": [
+        -32,
+        -32,
+        442,
+        700
+      ],
+      "aspect_note": "Chosen rectangle uses twice the mean visible opposite-edge lengths. This is a display/aspect choice, not a recovered physical aspect ratio or metric calibration.",
+      "annotation_note": "Four external frame corners visually selected in full-resolution inspection crops; order TL,TR,BR,BL.",
+      "annotation_revision": "Full-resolution visual review moved the lower corners from the adjacent sill onto the exterior frame joints and tightened the upper-right frame corner.",
+      "kind": "rectification",
+      "H": [
+        [
+          1.1059707066953672,
+          -0.16777883785781156,
+          -986.2211292177906
+        ],
+        [
+          -0.19953638578715283,
+          0.9477978324889842,
+          -724.9156895647347
+        ],
+        [
+          3.3087599917514615e-05,
+          -0.00043561942694098587,
+          1.0
+        ]
+      ],
+      "source_size": [
+        3024,
+        4032
+      ],
+      "benchmark": {
+        "canvas": [
+          -32,
+          62,
+          442,
+          512
+        ],
+        "destination_pixels": 226304,
+        "valid_pixels": 226304,
+        "runs_seconds": {
+          "nearest": [
+            0.02623449999373406,
+            0.025536400033161044,
+            0.027557199937291443
+          ],
+          "bilinear": [
+            0.05873509997036308,
+            0.05924810003489256,
+            0.06099770008586347
+          ]
+        },
+        "median_seconds": {
+          "nearest": 0.02623449999373406,
+          "bilinear": 0.05924810003489256
+        },
+        "bilinear_to_nearest_time_ratio": 2.25840401185628,
+        "mean_absolute_sample_difference": 1.9224352798681723,
+        "max_absolute_sample_difference": 55.744110107421875,
+        "difference_note": "Difference between methods on the same valid ROI, before PNG quantization; not an accuracy or ground-truth error score."
+      },
+      "corner_fit_errors_px": [
+        7.737652032942006e-13,
+        1.1368683772161603e-13,
+        3.639754730461873e-13,
+        4.547473508864641e-13
+      ],
+      "annotated_source": "figures/IMG_8451_rectification_source.jpg",
+      "full_resolution": {
+        "nearest": {
+          "seconds_excluding_io": 0.02814180008135736,
+          "width": 442,
+          "height": 700,
+          "origin": [
+            -32,
+            -32
+          ],
+          "valid_pixels": 309400,
+          "alpha_sha256": "3d1cc7cca4f428fe00f9cde364d53f3191bd7b4dab7c4487bf205c5f832df348",
+          "H_source_to_canvas": [
+            [
+              0.001122496240544709,
+              -0.00018425752007975238,
+              -0.9675529158198218
+            ],
+            [
+              -0.00020125058844278914,
+              0.0009469052965510392,
+              -0.7025966784085355
+            ],
+            [
+              3.3549879370114134e-08,
+              -4.4170563176484786e-07,
+              0.001013971380630567
+            ]
+          ]
+        },
+        "bilinear": {
+          "seconds_excluding_io": 0.07128709997050464,
+          "width": 442,
+          "height": 700,
+          "origin": [
+            -32,
+            -32
+          ],
+          "valid_pixels": 309400,
+          "alpha_sha256": "3d1cc7cca4f428fe00f9cde364d53f3191bd7b4dab7c4487bf205c5f832df348",
+          "H_source_to_canvas": [
+            [
+              0.001122496240544709,
+              -0.00018425752007975238,
+              -0.9675529158198218
+            ],
+            [
+              -0.00020125058844278914,
+              0.0009469052965510392,
+              -0.7025966784085355
+            ],
+            [
+              3.3549879370114134e-08,
+              -4.4170563176484786e-07,
+              0.001013971380630567
+            ]
+          ]
+        }
+      },
+      "detail_canvas_box": [
+        12,
+        12,
+        132,
+        132
+      ],
+      "outputs": {
+        "nearest": "results/IMG_8451_rectification_nearest.png",
+        "bilinear": "results/IMG_8451_rectification_bilinear.png"
+      },
+      "masks": {
+        "nearest": "results/IMG_8451_rectification_nearest_mask.png",
+        "bilinear": "results/IMG_8451_rectification_bilinear_mask.png"
+      },
+      "overview": "figures/IMG_8451_rectification_comparison.jpg",
+      "detail": "figures/IMG_8451_rectification_details.jpg"
+    },
+    {
+      "id": "8447_8448_projection",
+      "kind": "projection",
+      "image": "IMG_8447.jpg",
+      "reference": "IMG_8448.jpg",
+      "label": "IMG_8447.jpg into IMG_8448.jpg coordinates",
+      "H": [
+        [
+          1.2435953505567718,
+          -0.009059931692260268,
+          -1236.0900691596541
+        ],
+        [
+          0.016991593892338456,
+          1.2426129681034515,
+          -53.79310940300263
+        ],
+        [
+          1.1535749343780655e-06,
+          1.6632654985287392e-06,
+          1.0
+        ]
+      ],
+      "canvas": [
+        -1265,
+        -54,
+        3781,
+        5012
+      ],
+      "detail_world_center": [
+        889.621474089101,
+        2687.0279432944953
+      ],
+      "A2_check_rmse_px": 0.837957044624879,
+      "source_size": [
+        3024,
+        4032
+      ],
+      "benchmark": {
+        "canvas": [
+          369,
+          2196,
+          512,
+          512
+        ],
+        "destination_pixels": 262144,
+        "valid_pixels": 262144,
+        "runs_seconds": {
+          "nearest": [
+            0.027892000041902065,
+            0.028826299938373268,
+            0.028548600035719573
+          ],
+          "bilinear": [
+            0.06378009996842593,
+            0.06275800010189414,
+            0.0647661000257358
+          ]
+        },
+        "median_seconds": {
+          "nearest": 0.028548600035719573,
+          "bilinear": 0.06378009996842593
+        },
+        "bilinear_to_nearest_time_ratio": 2.234088532839622,
+        "mean_absolute_sample_difference": 2.3590404299390526,
+        "max_absolute_sample_difference": 49.49915313720703,
+        "difference_note": "Difference between methods on the same valid ROI, before PNG quantization; not an accuracy or ground-truth error score."
+      },
+      "full_resolution": {
+        "nearest": {
+          "seconds_excluding_io": 1.5074079999467358,
+          "width": 3781,
+          "height": 5012,
+          "origin": [
+            -1265,
+            -54
+          ],
+          "valid_pixels": 18570258,
+          "alpha_sha256": "c626b527e18ed1cd9f0b7c814638a26b3155212121fa0effbcdfe9b38b350e88",
+          "H_source_to_canvas": [
+            [
+              0.0010072523466637027,
+              -5.627341413195177e-06,
+              0.02338820734964726
+            ],
+            [
+              1.3796637772835452e-05,
+              0.001005349703428338,
+              0.00016737501753251514
+            ],
+            [
+              9.332450467483443e-10,
+              1.3455860054433547e-09,
+              0.0008090025354542666
+            ]
+          ]
+        },
+        "bilinear": {
+          "seconds_excluding_io": 4.568174300016835,
+          "width": 3781,
+          "height": 5012,
+          "origin": [
+            -1265,
+            -54
+          ],
+          "valid_pixels": 18570258,
+          "alpha_sha256": "c626b527e18ed1cd9f0b7c814638a26b3155212121fa0effbcdfe9b38b350e88",
+          "H_source_to_canvas": [
+            [
+              0.0010072523466637027,
+              -5.627341413195177e-06,
+              0.02338820734964726
+            ],
+            [
+              1.3796637772835452e-05,
+              0.001005349703428338,
+              0.00016737501753251514
+            ],
+            [
+              9.332450467483443e-10,
+              1.3455860054433547e-09,
+              0.0008090025354542666
+            ]
+          ]
+        }
+      },
+      "detail_canvas_box": [
+        2135,
+        2721,
+        2255,
+        2841
+      ],
+      "outputs": {
+        "nearest": "results/8447_8448_projection_nearest.png",
+        "bilinear": "results/8447_8448_projection_bilinear.png"
+      },
+      "masks": {
+        "nearest": "results/8447_8448_projection_nearest_mask.png",
+        "bilinear": "results/8447_8448_projection_bilinear_mask.png"
+      },
+      "overview": "figures/8447_8448_projection_comparison.jpg",
+      "detail": "figures/8447_8448_projection_details.jpg"
+    },
+    {
+      "id": "8451_8452_projection",
+      "kind": "projection",
+      "image": "IMG_8451.jpg",
+      "reference": "IMG_8452.jpg",
+      "label": "IMG_8451.jpg into IMG_8452.jpg coordinates",
+      "H": [
+        [
+          1.1648617191479955,
+          -0.01078236686897088,
+          -1132.07445816786
+        ],
+        [
+          0.022767978408679373,
+          1.1579698696752079,
+          -272.05174518504
+        ],
+        [
+          2.6962246382006955e-06,
+          -1.3603613347152258e-06,
+          1.0
+        ]
+      ],
+      "canvas": [
+        -1183,
+        -273,
+        3554,
+        4727
+      ],
+      "detail_world_center": [
+        1000.9680369496346,
+        2071.1617072075605
+      ],
+      "A2_check_rmse_px": 1.9242090081357233,
+      "source_size": [
+        3024,
+        4032
+      ],
+      "benchmark": {
+        "canvas": [
+          338,
+          1834,
+          512,
+          512
+        ],
+        "destination_pixels": 262144,
+        "valid_pixels": 262144,
+        "runs_seconds": {
+          "nearest": [
+            0.028027000022120774,
+            0.02775169990491122,
+            0.0315919000422582
+          ],
+          "bilinear": [
+            0.07078079995699227,
+            0.06768570002168417,
+            0.06850099994335324
+          ]
+        },
+        "median_seconds": {
+          "nearest": 0.028027000022120774,
+          "bilinear": 0.06850099994335324
+        },
+        "bilinear_to_nearest_time_ratio": 2.4441074638487064,
+        "mean_absolute_sample_difference": 1.349971070747415,
+        "max_absolute_sample_difference": 59.27294921875,
+        "difference_note": "Difference between methods on the same valid ROI, before PNG quantization; not an accuracy or ground-truth error score."
+      },
+      "full_resolution": {
+        "nearest": {
+          "seconds_excluding_io": 1.3461557999253273,
+          "width": 3554,
+          "height": 4727,
+          "origin": [
+            -1183,
+            -273
+          ],
+          "valid_pixels": 16413362,
+          "alpha_sha256": "390f9faf914994242d667e616da777162ea7d0802101e96a0a36db510201e397",
+          "H_source_to_canvas": [
+            [
+              0.0010317796187941134,
+              -1.094598878945964e-05,
+              0.04498426889213401
+            ],
+            [
+              2.0761927420345585e-05,
+              0.0010225462492142773,
+              0.0008376258364619036
+            ],
+            [
+              2.381667229348362e-09,
+              -1.201653588154284e-09,
+              0.000883334124169175
+            ]
+          ]
+        },
+        "bilinear": {
+          "seconds_excluding_io": 3.9462765000062063,
+          "width": 3554,
+          "height": 4727,
+          "origin": [
+            -1183,
+            -273
+          ],
+          "valid_pixels": 16413362,
+          "alpha_sha256": "390f9faf914994242d667e616da777162ea7d0802101e96a0a36db510201e397",
+          "H_source_to_canvas": [
+            [
+              0.0010317796187941134,
+              -1.094598878945964e-05,
+              0.04498426889213401
+            ],
+            [
+              2.0761927420345585e-05,
+              0.0010225462492142773,
+              0.0008376258364619036
+            ],
+            [
+              2.381667229348362e-09,
+              -1.201653588154284e-09,
+              0.000883334124169175
+            ]
+          ]
+        }
+      },
+      "detail_canvas_box": [
+        2164,
+        2324,
+        2284,
+        2444
+      ],
+      "outputs": {
+        "nearest": "results/8451_8452_projection_nearest.png",
+        "bilinear": "results/8451_8452_projection_bilinear.png"
+      },
+      "masks": {
+        "nearest": "results/8451_8452_projection_nearest_mask.png",
+        "bilinear": "results/8451_8452_projection_bilinear_mask.png"
+      },
+      "overview": "figures/8451_8452_projection_comparison.jpg",
+      "detail": "figures/8451_8452_projection_details.jpg"
+    }
+  ]
+}

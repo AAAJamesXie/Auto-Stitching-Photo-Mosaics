@@ -1,0 +1,7024 @@
+{
+  "source": "IMG_8443.jpg",
+  "working_image": "../working/IMG_8443.png",
+  "coordinate_rule": "original=(working+.5)*original_size/working_size-.5",
+  "H_original_to_working": [
+    [
+      0.2801120448179272,
+      0.0,
+      -0.3599439775910364
+    ],
+    [
+      0.0,
+      0.2801120448179272,
+      -0.3599439775910364
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "selected_points": [
+    {
+      "candidate_index": 303,
+      "working_xy": [
+        625.0,
+        850.0
+      ],
+      "original_xy": [
+        2232.535,
+        3035.785
+      ],
+      "response": 0.0001673819351736723,
+      "suppression_radius": null,
+      "radius_unbounded": true
+    },
+    {
+      "candidate_index": 4114,
+      "working_xy": [
+        815.0,
+        1389.0
+      ],
+      "original_xy": [
+        2910.835,
+        4960.015
+      ],
+      "response": 0.0001583422800615186,
+      "suppression_radius": null,
+      "radius_unbounded": true
+    },
+    {
+      "candidate_index": 4315,
+      "working_xy": [
+        586.0,
+        1405.0
+      ],
+      "original_xy": [
+        2093.305,
+        5017.135
+      ],
+      "response": 0.00015625355994328027,
+      "suppression_radius": null,
+      "radius_unbounded": true
+    },
+    {
+      "candidate_index": 5150,
+      "working_xy": [
+        1060.0,
+        1458.0
+      ],
+      "original_xy": [
+        3785.485,
+        5206.345
+      ],
+      "response": 0.00015376686332582354,
+      "suppression_radius": null,
+      "radius_unbounded": true
+    },
+    {
+      "candidate_index": 69,
+      "working_xy": [
+        995.0,
+        529.0
+      ],
+      "original_xy": [
+        3553.435,
+        1889.815
+      ],
+      "response": 8.203134575086852e-05,
+      "suppression_radius": 475.6732071496144,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 212,
+      "working_xy": [
+        215.0,
+        744.0
+      ],
+      "original_xy": [
+        768.835,
+        2657.365
+      ],
+      "response": 0.00011778053831613139,
+      "suppression_radius": 423.4808142053191,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 48,
+      "working_xy": [
+        820.0,
+        499.0
+      ],
+      "original_xy": [
+        2928.685,
+        1782.715
+      ],
+      "response": 7.964987631031138e-05,
+      "suppression_radius": 395.47060573448437,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 216,
+      "working_xy": [
+        255.0,
+        749.0
+      ],
+      "original_xy": [
+        911.635,
+        2675.215
+      ],
+      "response": 0.00011199573002590685,
+      "suppression_radius": 383.5374818710682,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4942,
+      "working_xy": [
+        249.0,
+        1446.0
+      ],
+      "original_xy": [
+        890.215,
+        5163.505
+      ],
+      "response": 0.00013958353801875334,
+      "suppression_radius": 339.4849039353591,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 259,
+      "working_xy": [
+        1174.0,
+        826.0
+      ],
+      "original_xy": [
+        4192.465,
+        2950.105
+      ],
+      "response": 5.3477777096983485e-05,
+      "suppression_radius": 330.6433123473088,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 472,
+      "working_xy": [
+        334.0,
+        935.0
+      ],
+      "original_xy": [
+        1193.665,
+        3339.235
+      ],
+      "response": 0.00012335980512130312,
+      "suppression_radius": 303.1600237498341,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1080,
+      "working_xy": [
+        755.0,
+        1072.0
+      ],
+      "original_xy": [
+        2696.635,
+        3828.325
+      ],
+      "response": 0.00014282741342496884,
+      "suppression_radius": 257.26251184344756,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1287,
+      "working_xy": [
+        1171.0,
+        1102.0
+      ],
+      "original_xy": [
+        4181.755,
+        3935.425
+      ],
+      "response": 5.3027086738289476e-05,
+      "suppression_radius": 230.00869548780108,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 68,
+      "working_xy": [
+        299.0,
+        529.0
+      ],
+      "original_xy": [
+        1068.715,
+        1889.815
+      ],
+      "response": 5.405167531898566e-05,
+      "suppression_radius": 219.9659064491586,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1451,
+      "working_xy": [
+        249.0,
+        1125.0
+      ],
+      "original_xy": [
+        890.215,
+        4017.535
+      ],
+      "response": 7.472395923400278e-05,
+      "suppression_radius": 208.1465829649865,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1374,
+      "working_xy": [
+        249.0,
+        1114.0
+      ],
+      "original_xy": [
+        890.215,
+        3978.265
+      ],
+      "response": 6.925634180055971e-05,
+      "suppression_radius": 198.15650380444242,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1427,
+      "working_xy": [
+        381.0,
+        1122.0
+      ],
+      "original_xy": [
+        1361.455,
+        4006.825
+      ],
+      "response": 6.816515612302185e-05,
+      "suppression_radius": 192.81597444195333,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 128,
+      "working_xy": [
+        463.0,
+        594.0
+      ],
+      "original_xy": [
+        1654.195,
+        2121.865
+      ],
+      "response": 5.555617832282326e-05,
+      "suppression_radius": 191.04188022525324,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 162,
+      "working_xy": [
+        1169.0,
+        643.0
+      ],
+      "original_xy": [
+        4174.615,
+        2296.795
+      ],
+      "response": 4.497556338173286e-05,
+      "suppression_radius": 183.06829326784035,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6659,
+      "working_xy": [
+        80.0,
+        1548.0
+      ],
+      "original_xy": [
+        286.885,
+        5527.645
+      ],
+      "response": 3.1460950879753483e-05,
+      "suppression_radius": 178.05897899291685,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1371,
+      "working_xy": [
+        73.0,
+        1114.0
+      ],
+      "original_xy": [
+        261.895,
+        3978.265
+      ],
+      "response": 2.9581323274298952e-05,
+      "suppression_radius": 176.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 55,
+      "working_xy": [
+        660.0,
+        514.0
+      ],
+      "original_xy": [
+        2357.485,
+        1836.265
+      ],
+      "response": 6.792983263825071e-05,
+      "suppression_radius": 160.70158679988197,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2952,
+      "working_xy": [
+        1061.0,
+        1304.0
+      ],
+      "original_xy": [
+        3789.055,
+        4656.565
+      ],
+      "response": 6.614415956292675e-05,
+      "suppression_radius": 154.00324671902212,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 67,
+      "working_xy": [
+        508.0,
+        528.0
+      ],
+      "original_xy": [
+        1814.845,
+        1886.245
+      ],
+      "response": 5.181086448688704e-05,
+      "suppression_radius": 152.64337522473747,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 53,
+      "working_xy": [
+        508.0,
+        509.0
+      ],
+      "original_xy": [
+        1814.845,
+        1818.415
+      ],
+      "response": 5.410052746236579e-05,
+      "suppression_radius": 152.08221460775746,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 231,
+      "working_xy": [
+        459.0,
+        785.0
+      ],
+      "original_xy": [
+        1639.915,
+        2803.735
+      ],
+      "response": 6.710805742754739e-05,
+      "suppression_radius": 145.89036979869508,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1569,
+      "working_xy": [
+        579.0,
+        1140.0
+      ],
+      "original_xy": [
+        2068.315,
+        4071.085
+      ],
+      "response": 9.472465602434219e-05,
+      "suppression_radius": 138.97481786280562,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3410,
+      "working_xy": [
+        370.0,
+        1338.0
+      ],
+      "original_xy": [
+        1322.185,
+        4777.945
+      ],
+      "response": 7.184151482338094e-05,
+      "suppression_radius": 135.0148140020198,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 856,
+      "working_xy": [
+        1054.0,
+        1031.0
+      ],
+      "original_xy": [
+        3764.065,
+        3681.955
+      ],
+      "response": 1.3513930001040053e-05,
+      "suppression_radius": 133.3604139165742,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1422,
+      "working_xy": [
+        448.0,
+        1121.0
+      ],
+      "original_xy": [
+        1600.645,
+        4003.255
+      ],
+      "response": 7.117817931085124e-05,
+      "suppression_radius": 132.3706916201619,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 0,
+      "working_xy": [
+        1086.0,
+        316.0
+      ],
+      "original_xy": [
+        3878.305,
+        1129.405
+      ],
+      "response": 8.349539627207554e-06,
+      "suppression_radius": 130.8166656049603,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6270,
+      "working_xy": [
+        397.0,
+        1523.0
+      ],
+      "original_xy": [
+        1418.575,
+        5438.395
+      ],
+      "response": 4.018982073579646e-05,
+      "suppression_radius": 130.20752666416791,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 10,
+      "working_xy": [
+        509.0,
+        380.0
+      ],
+      "original_xy": [
+        1818.415,
+        1357.885
+      ],
+      "response": 9.316628647068612e-06,
+      "suppression_radius": 129.00387591076478,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 186,
+      "working_xy": [
+        818.0,
+        670.0
+      ],
+      "original_xy": [
+        2921.545,
+        2393.185
+      ],
+      "response": 4.805634695978485e-05,
+      "suppression_radius": 126.01587201618692,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 16,
+      "working_xy": [
+        299.0,
+        404.0
+      ],
+      "original_xy": [
+        1068.715,
+        1443.565
+      ],
+      "response": 4.625519643374322e-05,
+      "suppression_radius": 125.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6,
+      "working_xy": [
+        661.0,
+        364.0
+      ],
+      "original_xy": [
+        2361.055,
+        1300.765
+      ],
+      "response": 8.947836752631484e-06,
+      "suppression_radius": 124.01612798341996,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6518,
+      "working_xy": [
+        726.0,
+        1539.0
+      ],
+      "original_xy": [
+        2593.105,
+        5495.515
+      ],
+      "response": 3.21308236315343e-05,
+      "suppression_radius": 120.01666550941998,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 25,
+      "working_xy": [
+        1086.0,
+        454.0
+      ],
+      "original_xy": [
+        3878.305,
+        1622.065
+      ],
+      "response": 6.84227911820571e-05,
+      "suppression_radius": 117.92370414806346,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1922,
+      "working_xy": [
+        763.0,
+        1187.0
+      ],
+      "original_xy": [
+        2725.195,
+        4238.875
+      ],
+      "response": 0.00011521291788980262,
+      "suppression_radius": 115.27792503337315,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2234,
+      "working_xy": [
+        27.0,
+        1229.0
+      ],
+      "original_xy": [
+        97.675,
+        4388.815
+      ],
+      "response": 9.980702384035336e-06,
+      "suppression_radius": 115.26057435220423,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 486,
+      "working_xy": [
+        759.0,
+        942.0
+      ],
+      "original_xy": [
+        2710.915,
+        3364.225
+      ],
+      "response": 9.578023562593029e-05,
+      "suppression_radius": 113.22543883774529,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1899,
+      "working_xy": [
+        763.0,
+        1184.0
+      ],
+      "original_xy": [
+        2725.195,
+        4228.165
+      ],
+      "response": 0.0001082253814409146,
+      "suppression_radius": 112.28535078094559,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 815,
+      "working_xy": [
+        654.0,
+        1023.0
+      ],
+      "original_xy": [
+        2336.065,
+        3653.395
+      ],
+      "response": 0.00011470658512885511,
+      "suppression_radius": 112.25862995778988,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6692,
+      "working_xy": [
+        710.0,
+        1549.0
+      ],
+      "original_xy": [
+        2535.985,
+        5531.215
+      ],
+      "response": 3.2195379023322276e-05,
+      "suppression_radius": 110.45361017187261,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3342,
+      "working_xy": [
+        218.0,
+        1333.0
+      ],
+      "original_xy": [
+        779.545,
+        4760.095
+      ],
+      "response": 6.171761680273022e-05,
+      "suppression_radius": 109.04127658827184,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3,
+      "working_xy": [
+        821.0,
+        346.0
+      ],
+      "original_xy": [
+        2932.255,
+        1236.505
+      ],
+      "response": 1.017950407979072e-05,
+      "suppression_radius": 108.85311203635843,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 106,
+      "working_xy": [
+        739.0,
+        570.0
+      ],
+      "original_xy": [
+        2639.515,
+        2036.185
+      ],
+      "response": 6.903980508996403e-05,
+      "suppression_radius": 107.71258050942797,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3386,
+      "working_xy": [
+        505.0,
+        1336.0
+      ],
+      "original_xy": [
+        1804.135,
+        4770.805
+      ],
+      "response": 0.00012273572710446324,
+      "suppression_radius": 106.4048871058092,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 34,
+      "working_xy": [
+        1086.0,
+        474.0
+      ],
+      "original_xy": [
+        3878.305,
+        1693.465
+      ],
+      "response": 7.163991272021268e-05,
+      "suppression_radius": 106.3296760081587,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 286,
+      "working_xy": [
+        737.0,
+        840.0
+      ],
+      "original_xy": [
+        2632.375,
+        3000.085
+      ],
+      "response": 8.523871861481347e-05,
+      "suppression_radius": 103.31021246711285,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3453,
+      "working_xy": [
+        506.0,
+        1341.0
+      ],
+      "original_xy": [
+        1807.705,
+        4788.655
+      ],
+      "response": 0.00012177085892614408,
+      "suppression_radius": 102.44998779892558,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 18,
+      "working_xy": [
+        994.0,
+        409.0
+      ],
+      "original_xy": [
+        3549.865,
+        1461.415
+      ],
+      "response": 2.027836929711227e-05,
+      "suppression_radius": 102.41581909060729,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5066,
+      "working_xy": [
+        117.0,
+        1454.0
+      ],
+      "original_xy": [
+        418.975,
+        5192.065
+      ],
+      "response": 2.4627354554793995e-05,
+      "suppression_radius": 101.01980003939822,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6653,
+      "working_xy": [
+        981.0,
+        1547.0
+      ],
+      "original_xy": [
+        3503.455,
+        5524.075
+      ],
+      "response": 3.602088810126097e-05,
+      "suppression_radius": 100.71742649611338,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 30,
+      "working_xy": [
+        391.0,
+        469.0
+      ],
+      "original_xy": [
+        1397.155,
+        1675.615
+      ],
+      "response": 1.5282748733885314e-05,
+      "suppression_radius": 98.812954616285,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2084,
+      "working_xy": [
+        1074.0,
+        1207.0
+      ],
+      "original_xy": [
+        3835.465,
+        4310.275
+      ],
+      "response": 1.2785865511528899e-05,
+      "suppression_radius": 97.49358953285082,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2083,
+      "working_xy": [
+        1069.0,
+        1207.0
+      ],
+      "original_xy": [
+        3817.615,
+        4310.275
+      ],
+      "response": 1.3881181067355125e-05,
+      "suppression_radius": 97.32933781753577,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 87,
+      "working_xy": [
+        739.0,
+        551.0
+      ],
+      "original_xy": [
+        2639.515,
+        1968.355
+      ],
+      "response": 6.750412385123398e-05,
+      "suppression_radius": 96.25487000666512,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 221,
+      "working_xy": [
+        1084.0,
+        766.0
+      ],
+      "original_xy": [
+        3871.165,
+        2735.905
+      ],
+      "response": 1.8595703196793435e-05,
+      "suppression_radius": 95.85927185202274,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2026,
+      "working_xy": [
+        394.0,
+        1199.0
+      ],
+      "original_xy": [
+        1407.865,
+        4281.715
+      ],
+      "response": 6.196965361085664e-05,
+      "suppression_radius": 94.86832980505137,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6320,
+      "working_xy": [
+        171.0,
+        1527.0
+      ],
+      "original_xy": [
+        611.755,
+        5452.675
+      ],
+      "response": 2.648919166782206e-05,
+      "suppression_radius": 93.39164844888434,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4993,
+      "working_xy": [
+        24.0,
+        1449.0
+      ],
+      "original_xy": [
+        86.965,
+        5174.215
+      ],
+      "response": 2.1546177095596573e-05,
+      "suppression_radius": 93.13431161500041,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4952,
+      "working_xy": [
+        968.0,
+        1446.0
+      ],
+      "original_xy": [
+        3457.045,
+        5163.505
+      ],
+      "response": 8.326647666801958e-05,
+      "suppression_radius": 92.77930803794561,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 174,
+      "working_xy": [
+        296.0,
+        662.0
+      ],
+      "original_xy": [
+        1058.005,
+        2364.625
+      ],
+      "response": 4.407845026612001e-05,
+      "suppression_radius": 92.61209424259879,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6453,
+      "working_xy": [
+        948.0,
+        1535.0
+      ],
+      "original_xy": [
+        3385.645,
+        5481.235
+      ],
+      "response": 3.472640619693958e-05,
+      "suppression_radius": 91.21951545584969,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 894,
+      "working_xy": [
+        485.0,
+        1039.0
+      ],
+      "original_xy": [
+        1732.735,
+        3710.515
+      ],
+      "response": 6.22705280986061e-05,
+      "suppression_radius": 89.96110270555825,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7,
+      "working_xy": [
+        218.0,
+        368.0
+      ],
+      "original_xy": [
+        779.545,
+        1315.045
+      ],
+      "response": 1.9872401362585524e-05,
+      "suppression_radius": 88.63972021616495,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 23,
+      "working_xy": [
+        1172.0,
+        445.0
+      ],
+      "original_xy": [
+        4185.325,
+        1589.935
+      ],
+      "response": 3.483966193117558e-05,
+      "suppression_radius": 86.46964785403026,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 439,
+      "working_xy": [
+        674.0,
+        925.0
+      ],
+      "original_xy": [
+        2407.465,
+        3303.535
+      ],
+      "response": 6.703842460784799e-05,
+      "suppression_radius": 85.44588931013593,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 155,
+      "working_xy": [
+        817.0,
+        629.0
+      ],
+      "original_xy": [
+        2917.975,
+        2246.815
+      ],
+      "response": 4.6432661268381603e-05,
+      "suppression_radius": 85.05292469985967,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1,
+      "working_xy": [
+        996.0,
+        326.0
+      ],
+      "original_xy": [
+        3557.005,
+        1165.105
+      ],
+      "response": 7.099454632956691e-06,
+      "suppression_radius": 83.02409288875127,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 31,
+      "working_xy": [
+        902.0,
+        471.0
+      ],
+      "original_xy": [
+        3221.425,
+        1682.755
+      ],
+      "response": 3.8142223715191786e-05,
+      "suppression_radius": 81.39410298049853,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 182,
+      "working_xy": [
+        314.0,
+        668.0
+      ],
+      "original_xy": [
+        1122.265,
+        2386.045
+      ],
+      "response": 4.4398070201484136e-05,
+      "suppression_radius": 80.77747210701756,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6531,
+      "working_xy": [
+        160.0,
+        1540.0
+      ],
+      "original_xy": [
+        572.485,
+        5499.085
+      ],
+      "response": 2.4276127551709672e-05,
+      "suppression_radius": 80.39900496896712,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1455,
+      "working_xy": [
+        1072.0,
+        1125.0
+      ],
+      "original_xy": [
+        3828.325,
+        4017.535
+      ],
+      "response": 3.5632556689353797e-06,
+      "suppression_radius": 80.11242100947892,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3364,
+      "working_xy": [
+        262.0,
+        1335.0
+      ],
+      "original_xy": [
+        936.625,
+        4767.235
+      ],
+      "response": 5.67009888446515e-05,
+      "suppression_radius": 80.06247560499239,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 213,
+      "working_xy": [
+        335.0,
+        746.0
+      ],
+      "original_xy": [
+        1197.235,
+        2664.505
+      ],
+      "response": 6.231574600504421e-05,
+      "suppression_radius": 80.05623023850174,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1405,
+      "working_xy": [
+        1072.0,
+        1118.0
+      ],
+      "original_xy": [
+        3828.325,
+        3992.545
+      ],
+      "response": 3.267991908898774e-06,
+      "suppression_radius": 80.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4,
+      "working_xy": [
+        740.0,
+        355.0
+      ],
+      "original_xy": [
+        2643.085,
+        1268.635
+      ],
+      "response": 7.525901710947012e-06,
+      "suppression_radius": 79.51100552753688,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 346,
+      "working_xy": [
+        387.0,
+        869.0
+      ],
+      "original_xy": [
+        1382.875,
+        3103.615
+      ],
+      "response": 4.010773233814343e-05,
+      "suppression_radius": 79.30952023559341,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 160,
+      "working_xy": [
+        657.0,
+        643.0
+      ],
+      "original_xy": [
+        2346.775,
+        2296.795
+      ],
+      "response": 3.083254693190872e-05,
+      "suppression_radius": 79.22752047110903,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6298,
+      "working_xy": [
+        284.0,
+        1525.0
+      ],
+      "original_xy": [
+        1015.165,
+        5445.535
+      ],
+      "response": 3.1736432696818435e-05,
+      "suppression_radius": 78.587530817554,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2,
+      "working_xy": [
+        908.0,
+        336.0
+      ],
+      "original_xy": [
+        3242.845,
+        1200.805
+      ],
+      "response": 9.367216980376953e-06,
+      "suppression_radius": 78.02563681252464,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 452,
+      "working_xy": [
+        500.0,
+        928.0
+      ],
+      "original_xy": [
+        1786.285,
+        3314.245
+      ],
+      "response": 4.1560903539119603e-05,
+      "suppression_radius": 77.92945527847606,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 165,
+      "working_xy": [
+        580.0,
+        649.0
+      ],
+      "original_xy": [
+        2071.885,
+        2318.215
+      ],
+      "response": 2.3245349689880526e-05,
+      "suppression_radius": 77.23341245859851,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3365,
+      "working_xy": [
+        269.0,
+        1335.0
+      ],
+      "original_xy": [
+        961.615,
+        4767.235
+      ],
+      "response": 6.0266512036106246e-05,
+      "suppression_radius": 77.07788269017254,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 8,
+      "working_xy": [
+        585.0,
+        373.0
+      ],
+      "original_xy": [
+        2089.735,
+        1332.895
+      ],
+      "response": 4.998339867485669e-06,
+      "suppression_radius": 76.32168761236873,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 13,
+      "working_xy": [
+        393.0,
+        393.0
+      ],
+      "original_xy": [
+        1404.295,
+        1404.295
+      ],
+      "response": 8.51068036061518e-06,
+      "suppression_radius": 76.02631123499285,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4816,
+      "working_xy": [
+        893.0,
+        1438.0
+      ],
+      "original_xy": [
+        3189.295,
+        5134.945
+      ],
+      "response": 5.751410908591277e-05,
+      "suppression_radius": 75.4254598925323,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 459,
+      "working_xy": [
+        582.0,
+        930.0
+      ],
+      "original_xy": [
+        2079.025,
+        3321.385
+      ],
+      "response": 5.925022197316715e-05,
+      "suppression_radius": 75.16648189186454,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 201,
+      "working_xy": [
+        656.0,
+        717.0
+      ],
+      "original_xy": [
+        2343.205,
+        2560.975
+      ],
+      "response": 8.235495724579455e-06,
+      "suppression_radius": 74.00675644831355,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 374,
+      "working_xy": [
+        951.0,
+        899.0
+      ],
+      "original_xy": [
+        3396.355,
+        3210.715
+      ],
+      "response": 4.491503247704544e-07,
+      "suppression_radius": 73.79024325749306,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2031,
+      "working_xy": [
+        535.0,
+        1199.0
+      ],
+      "original_xy": [
+        1911.235,
+        4281.715
+      ],
+      "response": 5.252880845670644e-05,
+      "suppression_radius": 73.60027173862879,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4695,
+      "working_xy": [
+        888.0,
+        1430.0
+      ],
+      "original_xy": [
+        3171.445,
+        5106.385
+      ],
+      "response": 6.373236454842677e-05,
+      "suppression_radius": 73.37574531137656,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5872,
+      "working_xy": [
+        592.0,
+        1499.0
+      ],
+      "original_xy": [
+        2114.725,
+        5352.715
+      ],
+      "response": 6.871530570024654e-05,
+      "suppression_radius": 73.33484846919642,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 132,
+      "working_xy": [
+        390.0,
+        600.0
+      ],
+      "original_xy": [
+        1393.585,
+        2143.285
+      ],
+      "response": 4.262976513395291e-05,
+      "suppression_radius": 73.24616030891995,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 120,
+      "working_xy": [
+        391.0,
+        582.0
+      ],
+      "original_xy": [
+        1397.155,
+        2079.025
+      ],
+      "response": 4.683479975966932e-05,
+      "suppression_radius": 72.99315036357864,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 169,
+      "working_xy": [
+        504.0,
+        654.0
+      ],
+      "original_xy": [
+        1800.565,
+        2336.065
+      ],
+      "response": 2.4087292053738593e-05,
+      "suppression_radius": 72.67048919609665,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 9,
+      "working_xy": [
+        1121.0,
+        379.0
+      ],
+      "original_xy": [
+        4003.255,
+        1354.315
+      ],
+      "response": 2.5685548864657524e-06,
+      "suppression_radius": 72.069410986909,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 222,
+      "working_xy": [
+        737.0,
+        768.0
+      ],
+      "original_xy": [
+        2632.375,
+        2743.045
+      ],
+      "response": 6.214277030858371e-05,
+      "suppression_radius": 72.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 50,
+      "working_xy": [
+        579.0,
+        502.0
+      ],
+      "original_xy": [
+        2068.315,
+        1793.425
+      ],
+      "response": 2.1209972783129324e-05,
+      "suppression_radius": 71.34423592694787,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1227,
+      "working_xy": [
+        142.0,
+        1096.0
+      ],
+      "original_xy": [
+        508.225,
+        3914.005
+      ],
+      "response": 1.9430245840316866e-05,
+      "suppression_radius": 71.30918594402827,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6348,
+      "working_xy": [
+        1109.0,
+        1528.0
+      ],
+      "original_xy": [
+        3960.415,
+        5456.245
+      ],
+      "response": 1.8148567841727157e-05,
+      "suppression_radius": 70.21395872616783,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1577,
+      "working_xy": [
+        381.0,
+        1141.0
+      ],
+      "original_xy": [
+        1361.455,
+        4074.655
+      ],
+      "response": 6.147215983252727e-05,
+      "suppression_radius": 69.92138442565336,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6330,
+      "working_xy": [
+        866.0,
+        1527.0
+      ],
+      "original_xy": [
+        3092.905,
+        5452.675
+      ],
+      "response": 1.3723638092596303e-05,
+      "suppression_radius": 69.3757882838098,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 226,
+      "working_xy": [
+        575.0,
+        778.0
+      ],
+      "original_xy": [
+        2054.035,
+        2778.745
+      ],
+      "response": 3.2209127397801174e-05,
+      "suppression_radius": 69.26037828369117,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 260,
+      "working_xy": [
+        805.0,
+        828.0
+      ],
+      "original_xy": [
+        2875.135,
+        2957.245
+      ],
+      "response": 3.855187238354386e-05,
+      "suppression_radius": 69.05070600652827,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2015,
+      "working_xy": [
+        542.0,
+        1198.0
+      ],
+      "original_xy": [
+        1936.225,
+        4278.145
+      ],
+      "response": 5.091153965039292e-05,
+      "suppression_radius": 68.79680225126747,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1210,
+      "working_xy": [
+        138.0,
+        1093.0
+      ],
+      "original_xy": [
+        493.945,
+        3903.295
+      ],
+      "response": 1.9002105270735846e-05,
+      "suppression_radius": 68.30812543175226,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 648,
+      "working_xy": [
+        1106.0,
+        987.0
+      ],
+      "original_xy": [
+        3949.705,
+        3524.875
+      ],
+      "response": 1.0633714168223184e-05,
+      "suppression_radius": 68.11754546370561,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 361,
+      "working_xy": [
+        1173.0,
+        894.0
+      ],
+      "original_xy": [
+        4188.895,
+        3192.865
+      ],
+      "response": 4.809865346896718e-05,
+      "suppression_radius": 68.00735254367721,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6984,
+      "working_xy": [
+        576.0,
+        1565.0
+      ],
+      "original_xy": [
+        2057.605,
+        5588.335
+      ],
+      "response": 2.7843359774769117e-05,
+      "suppression_radius": 67.91170738539859,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1995,
+      "working_xy": [
+        541.0,
+        1196.0
+      ],
+      "original_xy": [
+        1932.655,
+        4271.005
+      ],
+      "response": 4.792458740495009e-05,
+      "suppression_radius": 67.67569726275453,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6108,
+      "working_xy": [
+        464.0,
+        1514.0
+      ],
+      "original_xy": [
+        1657.765,
+        5406.265
+      ],
+      "response": 3.3671595581451714e-05,
+      "suppression_radius": 67.60177512462228,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4832,
+      "working_xy": [
+        438.0,
+        1439.0
+      ],
+      "original_xy": [
+        1564.945,
+        5138.515
+      ],
+      "response": 3.240084924427713e-05,
+      "suppression_radius": 67.53517601961218,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 157,
+      "working_xy": [
+        736.0,
+        637.0
+      ],
+      "original_xy": [
+        2628.805,
+        2275.375
+      ],
+      "response": 4.8467495019659454e-05,
+      "suppression_radius": 67.06713054842886,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 119,
+      "working_xy": [
+        657.0,
+        581.0
+      ],
+      "original_xy": [
+        2346.775,
+        2075.455
+      ],
+      "response": 2.974927342045309e-05,
+      "suppression_radius": 67.06713054842886,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2671,
+      "working_xy": [
+        542.0,
+        1281.0
+      ],
+      "original_xy": [
+        1936.225,
+        4574.455
+      ],
+      "response": 6.842826893969808e-05,
+      "suppression_radius": 66.2872536767062,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 146,
+      "working_xy": [
+        992.0,
+        614.0
+      ],
+      "original_xy": [
+        3542.725,
+        2193.265
+      ],
+      "response": 1.301259903356213e-05,
+      "suppression_radius": 66.06814663663572,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 76,
+      "working_xy": [
+        901.0,
+        537.0
+      ],
+      "original_xy": [
+        3217.855,
+        1918.375
+      ],
+      "response": 3.052878811003919e-05,
+      "suppression_radius": 66.007575322837,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 821,
+      "working_xy": [
+        249.0,
+        1025.0
+      ],
+      "original_xy": [
+        890.215,
+        3660.535
+      ],
+      "response": 2.491381000048815e-07,
+      "suppression_radius": 65.76473218982953,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 220,
+      "working_xy": [
+        813.0,
+        763.0
+      ],
+      "original_xy": [
+        2903.695,
+        2725.195
+      ],
+      "response": 9.87110310519415e-06,
+      "suppression_radius": 65.49045732013177,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6386,
+      "working_xy": [
+        1103.0,
+        1531.0
+      ],
+      "original_xy": [
+        3938.995,
+        5466.955
+      ],
+      "response": 1.9401736556474483e-05,
+      "suppression_radius": 65.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 269,
+      "working_xy": [
+        984.0,
+        833.0
+      ],
+      "original_xy": [
+        3514.165,
+        2975.095
+      ],
+      "response": 6.382047733553307e-07,
+      "suppression_radius": 64.1404708432983,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 40,
+      "working_xy": [
+        735.0,
+        487.0
+      ],
+      "original_xy": [
+        2625.235,
+        1739.875
+      ],
+      "response": 2.4692541702671492e-05,
+      "suppression_radius": 64.1248781675256,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 177,
+      "working_xy": [
+        388.0,
+        664.0
+      ],
+      "original_xy": [
+        1386.445,
+        2371.765
+      ],
+      "response": 2.0518718503539413e-05,
+      "suppression_radius": 64.03124237432849,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 431,
+      "working_xy": [
+        1107.0,
+        923.0
+      ],
+      "original_xy": [
+        3953.275,
+        3296.395
+      ],
+      "response": 8.071591362385162e-06,
+      "suppression_radius": 64.00781202322104,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7100,
+      "working_xy": [
+        1067.0,
+        1573.0
+      ],
+      "original_xy": [
+        3810.475,
+        5616.895
+      ],
+      "response": 1.9946874109787392e-05,
+      "suppression_radius": 63.953107821277925,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 180,
+      "working_xy": [
+        1110.0,
+        667.0
+      ],
+      "original_xy": [
+        3963.985,
+        2382.475
+      ],
+      "response": 5.584968915240054e-06,
+      "suppression_radius": 63.694583757176716,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2006,
+      "working_xy": [
+        552.0,
+        1197.0
+      ],
+      "original_xy": [
+        1971.925,
+        4274.575
+      ],
+      "response": 4.8335884096848536e-05,
+      "suppression_radius": 63.071388124885914,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 384,
+      "working_xy": [
+        810.0,
+        905.0
+      ],
+      "original_xy": [
+        2892.985,
+        3232.135
+      ],
+      "response": 5.040177054169674e-05,
+      "suppression_radius": 63.00793600809346,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 689,
+      "working_xy": [
+        555.0,
+        996.0
+      ],
+      "original_xy": [
+        1982.635,
+        3557.005
+      ],
+      "response": 4.311103744447489e-05,
+      "suppression_radius": 62.625873247404705,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1006,
+      "working_xy": [
+        377.0,
+        1060.0
+      ],
+      "original_xy": [
+        1347.175,
+        3785.485
+      ],
+      "response": 5.8306019480868816e-05,
+      "suppression_radius": 62.12889826803627,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 141,
+      "working_xy": [
+        1083.0,
+        607.0
+      ],
+      "original_xy": [
+        3867.595,
+        2168.275
+      ],
+      "response": 1.1792532444406542e-05,
+      "suppression_radius": 62.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3863,
+      "working_xy": [
+        67.0,
+        1371.0
+      ],
+      "original_xy": [
+        240.475,
+        4895.755
+      ],
+      "response": 1.544677379968661e-05,
+      "suppression_radius": 61.68468205316454,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1153,
+      "working_xy": [
+        646.0,
+        1084.0
+      ],
+      "original_xy": [
+        2307.505,
+        3871.165
+      ],
+      "response": 9.913077612446993e-05,
+      "suppression_radius": 61.5223536610881,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2093,
+      "working_xy": [
+        119.0,
+        1209.0
+      ],
+      "original_xy": [
+        426.115,
+        4317.415
+      ],
+      "response": 4.679171941368707e-06,
+      "suppression_radius": 61.1310068623117,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 150,
+      "working_xy": [
+        904.0,
+        621.0
+      ],
+      "original_xy": [
+        3228.565,
+        2218.255
+      ],
+      "response": 8.954898916625544e-06,
+      "suppression_radius": 61.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 690,
+      "working_xy": [
+        561.0,
+        996.0
+      ],
+      "original_xy": [
+        2004.055,
+        3557.005
+      ],
+      "response": 4.6860235497305984e-05,
+      "suppression_radius": 60.876925020897694,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6160,
+      "working_xy": [
+        1038.0,
+        1516.0
+      ],
+      "original_xy": [
+        3706.945,
+        5413.405
+      ],
+      "response": 2.257938497235406e-05,
+      "suppression_radius": 60.530983801686226,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 749,
+      "working_xy": [
+        432.0,
+        1010.0
+      ],
+      "original_xy": [
+        1543.525,
+        3606.985
+      ],
+      "response": 5.2985840294260086e-05,
+      "suppression_radius": 60.41522986797286,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1891,
+      "working_xy": [
+        1170.0,
+        1183.0
+      ],
+      "original_xy": [
+        4178.185,
+        4224.595
+      ],
+      "response": 3.972895307592151e-05,
+      "suppression_radius": 60.00833275470999,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6133,
+      "working_xy": [
+        1040.0,
+        1515.0
+      ],
+      "original_xy": [
+        3714.085,
+        5409.835
+      ],
+      "response": 2.249083067273144e-05,
+      "suppression_radius": 59.30430001273095,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 561,
+      "working_xy": [
+        656.0,
+        964.0
+      ],
+      "original_xy": [
+        2343.205,
+        3442.765
+      ],
+      "response": 7.200147163166298e-05,
+      "suppression_radius": 59.033888572581766,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 125,
+      "working_xy": [
+        581.0,
+        590.0
+      ],
+      "original_xy": [
+        2075.455,
+        2107.585
+      ],
+      "response": 6.72642670685837e-06,
+      "suppression_radius": 59.00847396772772,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3239,
+      "working_xy": [
+        1118.0,
+        1325.0
+      ],
+      "original_xy": [
+        3992.545,
+        4731.535
+      ],
+      "response": 1.791282046244221e-05,
+      "suppression_radius": 58.59180830116101,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 46,
+      "working_xy": [
+        1140.0,
+        497.0
+      ],
+      "original_xy": [
+        4071.085,
+        1775.575
+      ],
+      "response": 3.1572098941761394e-07,
+      "suppression_radius": 58.18934610390462,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2220,
+      "working_xy": [
+        649.0,
+        1227.0
+      ],
+      "original_xy": [
+        2318.215,
+        4381.675
+      ],
+      "response": 3.142776354599605e-05,
+      "suppression_radius": 58.008620049092706,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 19,
+      "working_xy": [
+        906.0,
+        414.0
+      ],
+      "original_xy": [
+        3235.705,
+        1479.265
+      ],
+      "response": 1.67605518680468e-05,
+      "suppression_radius": 57.14017850864661,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6241,
+      "working_xy": [
+        537.0,
+        1521.0
+      ],
+      "original_xy": [
+        1918.375,
+        5431.255
+      ],
+      "response": 2.027480960915186e-05,
+      "suppression_radius": 56.61271941887264,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 239,
+      "working_xy": [
+        1039.0,
+        800.0
+      ],
+      "original_xy": [
+        3710.515,
+        2857.285
+      ],
+      "response": 1.7660798697151292e-06,
+      "suppression_radius": 56.4003546088143,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6159,
+      "working_xy": [
+        1034.0,
+        1516.0
+      ],
+      "original_xy": [
+        3692.665,
+        5413.405
+      ],
+      "response": 2.0859676936069456e-05,
+      "suppression_radius": 55.94640292279746,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4514,
+      "working_xy": [
+        1099.0,
+        1418.0
+      ],
+      "original_xy": [
+        3924.715,
+        5063.545
+      ],
+      "response": 5.95582574034882e-05,
+      "suppression_radius": 55.86591089385369,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3444,
+      "working_xy": [
+        791.0,
+        1340.0
+      ],
+      "original_xy": [
+        2825.155,
+        4785.085
+      ],
+      "response": 9.838196958784845e-05,
+      "suppression_radius": 54.56189146281496,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2729,
+      "working_xy": [
+        679.0,
+        1286.0
+      ],
+      "original_xy": [
+        2425.315,
+        4592.305
+      ],
+      "response": 4.6157844637065854e-05,
+      "suppression_radius": 53.85164807134504,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 391,
+      "working_xy": [
+        578.0,
+        908.0
+      ],
+      "original_xy": [
+        2064.745,
+        3242.845
+      ],
+      "response": 5.794974419982783e-05,
+      "suppression_radius": 53.75872022286245,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3366,
+      "working_xy": [
+        423.0,
+        1335.0
+      ],
+      "original_xy": [
+        1511.395,
+        4767.235
+      ],
+      "response": 4.3200406823109434e-05,
+      "suppression_radius": 53.08483775994799,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 232,
+      "working_xy": [
+        736.0,
+        787.0
+      ],
+      "original_xy": [
+        2628.805,
+        2810.875
+      ],
+      "response": 6.31149282572781e-05,
+      "suppression_radius": 53.009433122794285,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 199,
+      "working_xy": [
+        737.0,
+        715.0
+      ],
+      "original_xy": [
+        2632.375,
+        2553.835
+      ],
+      "response": 1.986432651806603e-05,
+      "suppression_radius": 53.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3693,
+      "working_xy": [
+        1001.0,
+        1358.0
+      ],
+      "original_xy": [
+        3574.855,
+        4849.345
+      ],
+      "response": 2.5472767463607174e-05,
+      "suppression_radius": 52.49761899362675,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 387,
+      "working_xy": [
+        580.0,
+        907.0
+      ],
+      "original_xy": [
+        2071.885,
+        3239.275
+      ],
+      "response": 6.392500402878912e-05,
+      "suppression_radius": 52.46903848937962,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 209,
+      "working_xy": [
+        387.0,
+        739.0
+      ],
+      "original_xy": [
+        1382.875,
+        2639.515
+      ],
+      "response": 1.002080619042119e-05,
+      "suppression_radius": 52.46903848937962,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 202,
+      "working_xy": [
+        1108.0,
+        719.0
+      ],
+      "original_xy": [
+        3956.845,
+        2568.115
+      ],
+      "response": 8.195601056791796e-07,
+      "suppression_radius": 52.03844732503075,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4549,
+      "working_xy": [
+        725.0,
+        1421.0
+      ],
+      "original_xy": [
+        2589.535,
+        5074.255
+      ],
+      "response": 1.1185827718300442e-05,
+      "suppression_radius": 51.97114584074513,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6554,
+      "working_xy": [
+        630.0,
+        1541.0
+      ],
+      "original_xy": [
+        2250.385,
+        5502.655
+      ],
+      "response": 3.080578715679202e-05,
+      "suppression_radius": 51.92301994298868,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 897,
+      "working_xy": [
+        605.0,
+        1039.0
+      ],
+      "original_xy": [
+        2161.135,
+        3710.515
+      ],
+      "response": 9.660500661641915e-05,
+      "suppression_radius": 51.54609587543949,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2985,
+      "working_xy": [
+        626.0,
+        1307.0
+      ],
+      "original_xy": [
+        2236.105,
+        4667.275
+      ],
+      "response": 6.957091057901581e-05,
+      "suppression_radius": 51.07837115648854,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2305,
+      "working_xy": [
+        513.0,
+        1239.0
+      ],
+      "original_xy": [
+        1832.695,
+        4424.515
+      ],
+      "response": 4.810360871432319e-05,
+      "suppression_radius": 51.03920062069938,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 924,
+      "working_xy": [
+        608.0,
+        1045.0
+      ],
+      "original_xy": [
+        2171.845,
+        3731.935
+      ],
+      "response": 9.798047678740924e-05,
+      "suppression_radius": 50.99019513592785,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1224,
+      "working_xy": [
+        520.0,
+        1095.0
+      ],
+      "original_xy": [
+        1857.685,
+        3910.435
+      ],
+      "response": 3.5640175728975775e-05,
+      "suppression_radius": 50.99019513592785,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5061,
+      "working_xy": [
+        767.0,
+        1453.0
+      ],
+      "original_xy": [
+        2739.475,
+        5188.495
+      ],
+      "response": 1.5318585741408374e-05,
+      "suppression_radius": 50.21951811795888,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4609,
+      "working_xy": [
+        726.0,
+        1425.0
+      ],
+      "original_xy": [
+        2593.105,
+        5088.535
+      ],
+      "response": 1.2110720097477037e-05,
+      "suppression_radius": 49.64876634922564,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7103,
+      "working_xy": [
+        1148.0,
+        1573.0
+      ],
+      "original_xy": [
+        4099.645,
+        5616.895
+      ],
+      "response": 8.344505170559013e-06,
+      "suppression_radius": 49.64876634922564,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4586,
+      "working_xy": [
+        391.0,
+        1424.0
+      ],
+      "original_xy": [
+        1397.155,
+        5084.965
+      ],
+      "response": 2.6406233546361948e-05,
+      "suppression_radius": 49.33558553417604,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5718,
+      "working_xy": [
+        928.0,
+        1490.0
+      ],
+      "original_xy": [
+        3314.245,
+        5320.585
+      ],
+      "response": 2.1194125231447473e-05,
+      "suppression_radius": 49.24428900898052,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2808,
+      "working_xy": [
+        42.0,
+        1294.0
+      ],
+      "original_xy": [
+        151.225,
+        4620.865
+      ],
+      "response": 4.523492828861308e-06,
+      "suppression_radius": 49.040799340956916,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 468,
+      "working_xy": [
+        383.0,
+        934.0
+      ],
+      "original_xy": [
+        1368.595,
+        3335.665
+      ],
+      "response": 2.719057527195056e-05,
+      "suppression_radius": 49.01020301937138,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6898,
+      "working_xy": [
+        127.0,
+        1560.0
+      ],
+      "original_xy": [
+        454.675,
+        5570.485
+      ],
+      "response": 2.239249023825144e-05,
+      "suppression_radius": 48.507731342539614,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 345,
+      "working_xy": [
+        1107.0,
+        868.0
+      ],
+      "original_xy": [
+        3953.275,
+        3100.045
+      ],
+      "response": 2.0258775356321867e-06,
+      "suppression_radius": 48.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 60,
+      "working_xy": [
+        1079.0,
+        521.0
+      ],
+      "original_xy": [
+        3853.315,
+        1861.255
+      ],
+      "response": 3.337700451169236e-05,
+      "suppression_radius": 47.51841748206689,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6050,
+      "working_xy": [
+        796.0,
+        1510.0
+      ],
+      "original_xy": [
+        2843.005,
+        5391.985
+      ],
+      "response": 1.2753287217951684e-05,
+      "suppression_radius": 47.51841748206689,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 230,
+      "working_xy": [
+        506.0,
+        784.0
+      ],
+      "original_xy": [
+        1807.705,
+        2800.165
+      ],
+      "response": 5.039577145885915e-05,
+      "suppression_radius": 47.01063709417264,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 900,
+      "working_xy": [
+        335.0,
+        1040.0
+      ],
+      "original_xy": [
+        1197.235,
+        3714.085
+      ],
+      "response": 3.855220243366227e-05,
+      "suppression_radius": 46.51881339845203,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2064,
+      "working_xy": [
+        304.0,
+        1204.0
+      ],
+      "original_xy": [
+        1086.565,
+        4299.565
+      ],
+      "response": 8.741903340672924e-06,
+      "suppression_radius": 46.2709412050371,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4470,
+      "working_xy": [
+        147.0,
+        1416.0
+      ],
+      "original_xy": [
+        526.075,
+        5056.405
+      ],
+      "response": 4.888975141701884e-06,
+      "suppression_radius": 45.65084884205331,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1401,
+      "working_xy": [
+        766.0,
+        1116.0
+      ],
+      "original_xy": [
+        2735.905,
+        3985.405
+      ],
+      "response": 0.00010418562554492624,
+      "suppression_radius": 45.35416188179427,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5871,
+      "working_xy": [
+        546.0,
+        1499.0
+      ],
+      "original_xy": [
+        1950.505,
+        5352.715
+      ],
+      "response": 2.219535633489969e-05,
+      "suppression_radius": 45.27692569068709,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 12,
+      "working_xy": [
+        464.0,
+        385.0
+      ],
+      "original_xy": [
+        1657.765,
+        1375.735
+      ],
+      "response": 7.705588074669188e-06,
+      "suppression_radius": 45.27692569068709,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2003,
+      "working_xy": [
+        488.0,
+        1197.0
+      ],
+      "original_xy": [
+        1743.445,
+        4274.575
+      ],
+      "response": 2.5755296361053943e-05,
+      "suppression_radius": 45.18849411078001,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 461,
+      "working_xy": [
+        455.0,
+        931.0
+      ],
+      "original_xy": [
+        1625.635,
+        3324.955
+      ],
+      "response": 3.0781068440946394e-05,
+      "suppression_radius": 45.09988913511872,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2872,
+      "working_xy": [
+        928.0,
+        1298.0
+      ],
+      "original_xy": [
+        3314.245,
+        4635.145
+      ],
+      "response": 1.5473766939566575e-05,
+      "suppression_radius": 45.044422518220834,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 79,
+      "working_xy": [
+        820.0,
+        544.0
+      ],
+      "original_xy": [
+        2928.685,
+        1943.365
+      ],
+      "response": 5.524904523345445e-05,
+      "suppression_radius": 45.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6182,
+      "working_xy": [
+        1152.0,
+        1517.0
+      ],
+      "original_xy": [
+        4113.925,
+        5416.975
+      ],
+      "response": 1.385273139775677e-05,
+      "suppression_radius": 44.384682042344295,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 37,
+      "working_xy": [
+        315.0,
+        481.0
+      ],
+      "original_xy": [
+        1125.835,
+        1718.455
+      ],
+      "response": 1.0970541036338198e-05,
+      "suppression_radius": 44.384682042344295,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4994,
+      "working_xy": [
+        73.0,
+        1449.0
+      ],
+      "original_xy": [
+        261.895,
+        5174.215
+      ],
+      "response": 1.8063777500266117e-05,
+      "suppression_radius": 44.28317965096906,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 185,
+      "working_xy": [
+        1032.0,
+        669.0
+      ],
+      "original_xy": [
+        3685.525,
+        2389.615
+      ],
+      "response": 2.9593908551201035e-07,
+      "suppression_radius": 44.28317965096906,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 172,
+      "working_xy": [
+        460.0,
+        658.0
+      ],
+      "original_xy": [
+        1643.485,
+        2350.345
+      ],
+      "response": 2.0767303184291718e-05,
+      "suppression_radius": 44.181444068749045,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3382,
+      "working_xy": [
+        326.0,
+        1336.0
+      ],
+      "original_xy": [
+        1165.105,
+        4770.805
+      ],
+      "response": 6.282837623701012e-05,
+      "suppression_radius": 44.04543109109048,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 147,
+      "working_xy": [
+        295.0,
+        618.0
+      ],
+      "original_xy": [
+        1054.435,
+        2207.545
+      ],
+      "response": 4.838994844122736e-07,
+      "suppression_radius": 44.01136216933077,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2024,
+      "working_xy": [
+        350.0,
+        1199.0
+      ],
+      "original_xy": [
+        1250.785,
+        4281.715
+      ],
+      "response": 2.6882616057702242e-05,
+      "suppression_radius": 44.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3939,
+      "working_xy": [
+        169.0,
+        1376.0
+      ],
+      "original_xy": [
+        604.615,
+        4913.605
+      ],
+      "response": 1.3024594725960464e-05,
+      "suppression_radius": 43.93176527297759,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 253,
+      "working_xy": [
+        1081.0,
+        812.0
+      ],
+      "original_xy": [
+        3860.455,
+        2900.125
+      ],
+      "response": 7.604992282348415e-07,
+      "suppression_radius": 43.68065933568311,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 134,
+      "working_xy": [
+        1175.0,
+        600.0
+      ],
+      "original_xy": [
+        4196.035,
+        2143.285
+      ],
+      "response": 3.790962922668502e-05,
+      "suppression_radius": 43.41658669218482,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 992,
+      "working_xy": [
+        439.0,
+        1056.0
+      ],
+      "original_xy": [
+        1568.515,
+        3771.205
+      ],
+      "response": 3.7164004155888014e-05,
+      "suppression_radius": 43.289721643826724,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 237,
+      "working_xy": [
+        382.0,
+        798.0
+      ],
+      "original_xy": [
+        1365.025,
+        2850.145
+      ],
+      "response": 2.106185789881661e-07,
+      "suppression_radius": 43.289721643826724,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1996,
+      "working_xy": [
+        619.0,
+        1196.0
+      ],
+      "original_xy": [
+        2211.115,
+        4271.005
+      ],
+      "response": 1.547433562170072e-05,
+      "suppression_radius": 43.139309220245984,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4327,
+      "working_xy": [
+        299.0,
+        1406.0
+      ],
+      "original_xy": [
+        1068.715,
+        5020.705
+      ],
+      "response": 7.307416588073727e-05,
+      "suppression_radius": 43.08131845707603,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2392,
+      "working_xy": [
+        1071.0,
+        1250.0
+      ],
+      "original_xy": [
+        3824.755,
+        4463.785
+      ],
+      "response": 7.049043297507362e-06,
+      "suppression_radius": 43.04648650006177,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2934,
+      "working_xy": [
+        1018.0,
+        1303.0
+      ],
+      "original_xy": [
+        3635.545,
+        4652.995
+      ],
+      "response": 5.5462205736935076e-05,
+      "suppression_radius": 43.01162633521314,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3326,
+      "working_xy": [
+        152.0,
+        1332.0
+      ],
+      "original_xy": [
+        543.925,
+        4756.525
+      ],
+      "response": 2.162155094219456e-05,
+      "suppression_radius": 43.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 445,
+      "working_xy": [
+        1033.0,
+        926.0
+      ],
+      "original_xy": [
+        3689.095,
+        3307.105
+      ],
+      "response": 1.0922865760955378e-06,
+      "suppression_radius": 42.95346318982906,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4364,
+      "working_xy": [
+        1017.0,
+        1408.0
+      ],
+      "original_xy": [
+        3631.975,
+        5027.845
+      ],
+      "response": 2.874803012480446e-05,
+      "suppression_radius": 42.485291572496,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2320,
+      "working_xy": [
+        463.0,
+        1240.0
+      ],
+      "original_xy": [
+        1654.195,
+        4428.085
+      ],
+      "response": 1.7590008385626038e-05,
+      "suppression_radius": 42.43819034784589,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2904,
+      "working_xy": [
+        849.0,
+        1301.0
+      ],
+      "original_xy": [
+        3032.215,
+        4645.855
+      ],
+      "response": 5.149542475691737e-05,
+      "suppression_radius": 42.20189569201838,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1158,
+      "working_xy": [
+        595.0,
+        1085.0
+      ],
+      "original_xy": [
+        2125.435,
+        3874.735
+      ],
+      "response": 6.890402293966742e-05,
+      "suppression_radius": 42.05948168962618,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1464,
+      "working_xy": [
+        1030.0,
+        1126.0
+      ],
+      "original_xy": [
+        3678.385,
+        4021.105
+      ],
+      "response": 1.5873514914848562e-06,
+      "suppression_radius": 42.01190307520001,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 627,
+      "working_xy": [
+        516.0,
+        981.0
+      ],
+      "original_xy": [
+        1843.405,
+        3503.455
+      ],
+      "response": 3.437949720266646e-05,
+      "suppression_radius": 41.78516483155236,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2651,
+      "working_xy": [
+        499.0,
+        1279.0
+      ],
+      "original_xy": [
+        1782.715,
+        4567.315
+      ],
+      "response": 1.9790332721132203e-05,
+      "suppression_radius": 41.773197148410844,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 325,
+      "working_xy": [
+        950.0,
+        857.0
+      ],
+      "original_xy": [
+        3392.785,
+        3060.775
+      ],
+      "response": 3.2583328168232415e-07,
+      "suppression_radius": 41.617304093369626,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3484,
+      "working_xy": [
+        566.0,
+        1343.0
+      ],
+      "original_xy": [
+        2021.905,
+        4795.795
+      ],
+      "response": 4.8462369605132495e-05,
+      "suppression_radius": 41.48493702538308,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 568,
+      "working_xy": [
+        719.0,
+        967.0
+      ],
+      "original_xy": [
+        2568.115,
+        3453.475
+      ],
+      "response": 4.294720185984127e-05,
+      "suppression_radius": 41.43669871020132,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3897,
+      "working_xy": [
+        1060.0,
+        1372.0
+      ],
+      "original_xy": [
+        3785.485,
+        4899.325
+      ],
+      "response": 2.030008630826654e-05,
+      "suppression_radius": 41.43669871020132,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 575,
+      "working_xy": [
+        791.0,
+        968.0
+      ],
+      "original_xy": [
+        2825.155,
+        3457.045
+      ],
+      "response": 2.8634880929427865e-05,
+      "suppression_radius": 41.23105625617661,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 311,
+      "working_xy": [
+        498.0,
+        853.0
+      ],
+      "original_xy": [
+        1779.145,
+        3046.495
+      ],
+      "response": 1.026436417575792e-06,
+      "suppression_radius": 41.23105625617661,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6195,
+      "working_xy": [
+        683.0,
+        1518.0
+      ],
+      "original_xy": [
+        2439.595,
+        5420.545
+      ],
+      "response": 2.7545222042613474e-05,
+      "suppression_radius": 41.10960958218893,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 129,
+      "working_xy": [
+        504.0,
+        594.0
+      ],
+      "original_xy": [
+        1800.565,
+        2121.865
+      ],
+      "response": 2.022386872329468e-05,
+      "suppression_radius": 41.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2328,
+      "working_xy": [
+        391.0,
+        1241.0
+      ],
+      "original_xy": [
+        1397.155,
+        4431.655
+      ],
+      "response": 1.9624727037782747e-05,
+      "suppression_radius": 40.19950248448356,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1690,
+      "working_xy": [
+        54.0,
+        1156.0
+      ],
+      "original_xy": [
+        194.065,
+        4128.205
+      ],
+      "response": 6.7262232091539684e-06,
+      "suppression_radius": 40.19950248448356,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 54,
+      "working_xy": [
+        737.0,
+        511.0
+      ],
+      "original_xy": [
+        2632.375,
+        1825.555
+      ],
+      "response": 2.402836159370865e-05,
+      "suppression_radius": 40.049968789001575,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 293,
+      "working_xy": [
+        458.0,
+        843.0
+      ],
+      "original_xy": [
+        1636.345,
+        3010.795
+      ],
+      "response": 1.5245371628753028e-05,
+      "suppression_radius": 40.049968789001575,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2386,
+      "working_xy": [
+        1031.0,
+        1249.0
+      ],
+      "original_xy": [
+        3681.955,
+        4460.215
+      ],
+      "response": 2.2314921215564077e-06,
+      "suppression_radius": 40.01249804748511,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2313,
+      "working_xy": [
+        335.0,
+        1240.0
+      ],
+      "original_xy": [
+        1197.235,
+        4428.085
+      ],
+      "response": 8.063985119733857e-06,
+      "suppression_radius": 40.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 295,
+      "working_xy": [
+        332.0,
+        844.0
+      ],
+      "original_xy": [
+        1186.525,
+        3014.365
+      ],
+      "response": 7.390894654237425e-07,
+      "suppression_radius": 40.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6880,
+      "working_xy": [
+        525.0,
+        1559.0
+      ],
+      "original_xy": [
+        1875.535,
+        5566.915
+      ],
+      "response": 1.7137669417192284e-05,
+      "suppression_radius": 39.84971769034255,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1170,
+      "working_xy": [
+        31.0,
+        1087.0
+      ],
+      "original_xy": [
+        111.955,
+        3881.875
+      ],
+      "response": 1.6358989142388966e-05,
+      "suppression_radius": 39.6232255123179,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6998,
+      "working_xy": [
+        873.0,
+        1566.0
+      ],
+      "original_xy": [
+        3117.895,
+        5591.905
+      ],
+      "response": 1.0254270868808916e-05,
+      "suppression_radius": 39.6232255123179,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4622,
+      "working_xy": [
+        1170.0,
+        1425.0
+      ],
+      "original_xy": [
+        4178.185,
+        5088.535
+      ],
+      "response": 2.1845959011262294e-05,
+      "suppression_radius": 39.56008088970496,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5641,
+      "working_xy": [
+        62.0,
+        1487.0
+      ],
+      "original_xy": [
+        222.625,
+        5309.875
+      ],
+      "response": 1.1222142769552013e-05,
+      "suppression_radius": 39.56008088970496,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6686,
+      "working_xy": [
+        446.0,
+        1549.0
+      ],
+      "original_xy": [
+        1593.505,
+        5531.215
+      ],
+      "response": 1.7805923730521314e-05,
+      "suppression_radius": 39.35733730830886,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 109,
+      "working_xy": [
+        502.0,
+        572.0
+      ],
+      "original_xy": [
+        1793.425,
+        2043.325
+      ],
+      "response": 1.9404616104971087e-05,
+      "suppression_radius": 39.20459156782532,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2694,
+      "working_xy": [
+        595.0,
+        1283.0
+      ],
+      "original_xy": [
+        2125.435,
+        4581.595
+      ],
+      "response": 1.481388133605601e-05,
+      "suppression_radius": 39.20459156782532,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3643,
+      "working_xy": [
+        606.0,
+        1354.0
+      ],
+      "original_xy": [
+        2164.705,
+        4835.065
+      ],
+      "response": 7.932744041746687e-05,
+      "suppression_radius": 39.11521443121589,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 569,
+      "working_xy": [
+        729.0,
+        967.0
+      ],
+      "original_xy": [
+        2603.815,
+        3453.475
+      ],
+      "response": 4.15505044202948e-05,
+      "suppression_radius": 39.05124837953327,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 716,
+      "working_xy": [
+        808.0,
+        1002.0
+      ],
+      "original_xy": [
+        2885.845,
+        3578.425
+      ],
+      "response": 3.121122449517428e-05,
+      "suppression_radius": 39.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6875,
+      "working_xy": [
+        314.0,
+        1559.0
+      ],
+      "original_xy": [
+        1122.265,
+        5566.915
+      ],
+      "response": 1.2938036097741106e-05,
+      "suppression_radius": 38.948684188300895,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3962,
+      "working_xy": [
+        518.0,
+        1378.0
+      ],
+      "original_xy": [
+        1850.545,
+        4920.745
+      ],
+      "response": 4.9867246227567905e-05,
+      "suppression_radius": 38.897300677553446,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5607,
+      "working_xy": [
+        875.0,
+        1484.0
+      ],
+      "original_xy": [
+        3125.035,
+        5299.165
+      ],
+      "response": 1.2740974820322662e-05,
+      "suppression_radius": 38.897300677553446,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2601,
+      "working_xy": [
+        358.0,
+        1273.0
+      ],
+      "original_xy": [
+        1279.345,
+        4545.895
+      ],
+      "response": 1.1330314223438862e-05,
+      "suppression_radius": 38.8329756778952,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1625,
+      "working_xy": [
+        712.0,
+        1147.0
+      ],
+      "original_xy": [
+        2543.125,
+        4096.075
+      ],
+      "response": 7.877724808746516e-05,
+      "suppression_radius": 38.600518131237564,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2073,
+      "working_xy": [
+        58.0,
+        1206.0
+      ],
+      "original_xy": [
+        208.345,
+        4306.705
+      ],
+      "response": 4.882907150427448e-06,
+      "suppression_radius": 38.600518131237564,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 206,
+      "working_xy": [
+        576.0,
+        735.0
+      ],
+      "original_xy": [
+        2057.605,
+        2625.235
+      ],
+      "response": 5.025434125033115e-07,
+      "suppression_radius": 38.2099463490856,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2735,
+      "working_xy": [
+        264.0,
+        1287.0
+      ],
+      "original_xy": [
+        943.765,
+        4595.875
+      ],
+      "response": 1.0947086083917137e-05,
+      "suppression_radius": 38.118237105091836,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 759,
+      "working_xy": [
+        520.0,
+        1011.0
+      ],
+      "original_xy": [
+        1857.685,
+        3610.555
+      ],
+      "response": 3.4939175642375277e-05,
+      "suppression_radius": 38.07886552931954,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3067,
+      "working_xy": [
+        760.0,
+        1313.0
+      ],
+      "original_xy": [
+        2714.485,
+        4688.695
+      ],
+      "response": 2.3941748786984304e-05,
+      "suppression_radius": 38.01315561749642,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2233,
+      "working_xy": [
+        1170.0,
+        1228.0
+      ],
+      "original_xy": [
+        4178.185,
+        4385.245
+      ],
+      "response": 2.3821684815280947e-05,
+      "suppression_radius": 38.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1713,
+      "working_xy": [
+        343.0,
+        1159.0
+      ],
+      "original_xy": [
+        1225.795,
+        4138.915
+      ],
+      "response": 3.090209755912605e-06,
+      "suppression_radius": 37.69615364994153,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4099,
+      "working_xy": [
+        401.0,
+        1388.0
+      ],
+      "original_xy": [
+        1432.855,
+        4956.445
+      ],
+      "response": 1.269809007806861e-05,
+      "suppression_radius": 37.36308338453881,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4432,
+      "working_xy": [
+        1054.0,
+        1413.0
+      ],
+      "original_xy": [
+        3764.065,
+        5045.695
+      ],
+      "response": 2.538685815766591e-05,
+      "suppression_radius": 37.33630940518894,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6761,
+      "working_xy": [
+        838.0,
+        1553.0
+      ],
+      "original_xy": [
+        2992.945,
+        5545.495
+      ],
+      "response": 7.978318640485048e-06,
+      "suppression_radius": 37.33630940518894,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 956,
+      "working_xy": [
+        725.0,
+        1050.0
+      ],
+      "original_xy": [
+        2589.535,
+        3749.785
+      ],
+      "response": 0.000110548336784135,
+      "suppression_radius": 37.20215047547655,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3538,
+      "working_xy": [
+        1172.0,
+        1346.0
+      ],
+      "original_xy": [
+        4185.325,
+        4806.505
+      ],
+      "response": 4.265854136830656e-06,
+      "suppression_radius": 37.20215047547655,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3876,
+      "working_xy": [
+        688.0,
+        1371.0
+      ],
+      "original_xy": [
+        2457.445,
+        4895.755
+      ],
+      "response": 8.26692946731572e-06,
+      "suppression_radius": 37.12142238654117,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3918,
+      "working_xy": [
+        132.0,
+        1375.0
+      ],
+      "original_xy": [
+        472.525,
+        4910.035
+      ],
+      "response": 5.349929646482594e-06,
+      "suppression_radius": 37.013511046643494,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2091,
+      "working_xy": [
+        1032.0,
+        1208.0
+      ],
+      "original_xy": [
+        3685.525,
+        4313.845
+      ],
+      "response": 2.6395759022576985e-06,
+      "suppression_radius": 37.013511046643494,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6725,
+      "working_xy": [
+        838.0,
+        1551.0
+      ],
+      "original_xy": [
+        2992.945,
+        5538.355
+      ],
+      "response": 8.257802192488328e-06,
+      "suppression_radius": 36.87817782917155,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3959,
+      "working_xy": [
+        1145.0,
+        1377.0
+      ],
+      "original_xy": [
+        4088.935,
+        4917.175
+      ],
+      "response": 2.6949586504698305e-05,
+      "suppression_radius": 36.796738985948195,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3197,
+      "working_xy": [
+        663.0,
+        1323.0
+      ],
+      "original_xy": [
+        2368.195,
+        4724.395
+      ],
+      "response": 3.250720273146388e-05,
+      "suppression_radius": 36.6742416417845,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3913,
+      "working_xy": [
+        941.0,
+        1374.0
+      ],
+      "original_xy": [
+        3360.655,
+        4906.465
+      ],
+      "response": 1.7802735883287903e-05,
+      "suppression_radius": 36.49657518178932,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5322,
+      "working_xy": [
+        645.0,
+        1469.0
+      ],
+      "original_xy": [
+        2303.935,
+        5245.615
+      ],
+      "response": 3.232398015987354e-05,
+      "suppression_radius": 36.40054944640259,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1910,
+      "working_xy": [
+        501.0,
+        1186.0
+      ],
+      "original_xy": [
+        1789.855,
+        4235.305
+      ],
+      "response": 2.6246293869150825e-05,
+      "suppression_radius": 36.40054944640259,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2310,
+      "working_xy": [
+        138.0,
+        1240.0
+      ],
+      "original_xy": [
+        493.945,
+        4428.085
+      ],
+      "response": 2.9791010775741143e-06,
+      "suppression_radius": 36.359317925395686,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3476,
+      "working_xy": [
+        44.0,
+        1343.0
+      ],
+      "original_xy": [
+        158.365,
+        4795.795
+      ],
+      "response": 1.2325299883472714e-05,
+      "suppression_radius": 36.235341863986875,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4358,
+      "working_xy": [
+        498.0,
+        1408.0
+      ],
+      "original_xy": [
+        1779.145,
+        5027.845
+      ],
+      "response": 4.0884774401618064e-05,
+      "suppression_radius": 36.05551275463989,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2866,
+      "working_xy": [
+        713.0,
+        1298.0
+      ],
+      "original_xy": [
+        2546.695,
+        4635.145
+      ],
+      "response": 1.746177329115758e-05,
+      "suppression_radius": 36.05551275463989,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4308,
+      "working_xy": [
+        83.0,
+        1405.0
+      ],
+      "original_xy": [
+        297.595,
+        5017.135
+      ],
+      "response": 6.857009340270811e-06,
+      "suppression_radius": 36.05551275463989,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3426,
+      "working_xy": [
+        430.0,
+        1339.0
+      ],
+      "original_xy": [
+        1536.385,
+        4781.515
+      ],
+      "response": 3.9129143203286934e-05,
+      "suppression_radius": 36.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 167,
+      "working_xy": [
+        992.0,
+        650.0
+      ],
+      "original_xy": [
+        3542.725,
+        2321.785
+      ],
+      "response": 8.644090887212443e-06,
+      "suppression_radius": 36.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 171,
+      "working_xy": [
+        904.0,
+        657.0
+      ],
+      "original_xy": [
+        3228.565,
+        2346.775
+      ],
+      "response": 7.388178425336775e-06,
+      "suppression_radius": 36.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 161,
+      "working_xy": [
+        1083.0,
+        643.0
+      ],
+      "original_xy": [
+        3867.595,
+        2296.795
+      ],
+      "response": 5.7671248280512185e-06,
+      "suppression_radius": 36.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3851,
+      "working_xy": [
+        277.0,
+        1370.0
+      ],
+      "original_xy": [
+        990.175,
+        4892.185
+      ],
+      "response": 4.096470007449834e-05,
+      "suppression_radius": 35.90264614203248,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6181,
+      "working_xy": [
+        1143.0,
+        1517.0
+      ],
+      "original_xy": [
+        4081.795,
+        5416.975
+      ],
+      "response": 1.4605225859235564e-05,
+      "suppression_radius": 35.73513677041127,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1018,
+      "working_xy": [
+        307.0,
+        1062.0
+      ],
+      "original_xy": [
+        1097.275,
+        3792.625
+      ],
+      "response": 3.125450139661137e-05,
+      "suppression_radius": 35.608987629529715,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6630,
+      "working_xy": [
+        230.0,
+        1546.0
+      ],
+      "original_xy": [
+        822.385,
+        5520.505
+      ],
+      "response": 7.5046400731617715e-06,
+      "suppression_radius": 35.510561809129406,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2648,
+      "working_xy": [
+        303.0,
+        1279.0
+      ],
+      "original_xy": [
+        1082.995,
+        4567.315
+      ],
+      "response": 3.568804757652797e-06,
+      "suppression_radius": 35.4400902933387,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 623,
+      "working_xy": [
+        457.0,
+        980.0
+      ],
+      "original_xy": [
+        1632.775,
+        3499.885
+      ],
+      "response": 9.31117974643066e-06,
+      "suppression_radius": 35.35533905932738,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 643,
+      "working_xy": [
+        1071.0,
+        985.0
+      ],
+      "original_xy": [
+        3824.755,
+        3517.735
+      ],
+      "response": 5.628495858058052e-06,
+      "suppression_radius": 35.05709628591621,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5750,
+      "working_xy": [
+        346.0,
+        1492.0
+      ],
+      "original_xy": [
+        1236.505,
+        5327.725
+      ],
+      "response": 6.833656808681369e-06,
+      "suppression_radius": 35.014282800023196,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7015,
+      "working_xy": [
+        806.0,
+        1567.0
+      ],
+      "original_xy": [
+        2878.705,
+        5595.475
+      ],
+      "response": 6.70122273906236e-06,
+      "suppression_radius": 34.92849839314596,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3831,
+      "working_xy": [
+        905.0,
+        1368.0
+      ],
+      "original_xy": [
+        3232.135,
+        4885.045
+      ],
+      "response": 2.3627235600468282e-05,
+      "suppression_radius": 34.713109915419565,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6180,
+      "working_xy": [
+        998.0,
+        1517.0
+      ],
+      "original_xy": [
+        3564.145,
+        5416.975
+      ],
+      "response": 2.2325843567531163e-05,
+      "suppression_radius": 34.48187929913333,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1356,
+      "working_xy": [
+        666.0,
+        1112.0
+      ],
+      "original_xy": [
+        2378.905,
+        3971.125
+      ],
+      "response": 6.179246955484826e-05,
+      "suppression_radius": 34.40930106817051,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2848,
+      "working_xy": [
+        883.0,
+        1296.0
+      ],
+      "original_xy": [
+        3153.595,
+        4628.005
+      ],
+      "response": 2.0546852747109938e-05,
+      "suppression_radius": 34.36568055487916,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1988,
+      "working_xy": [
+        661.0,
+        1195.0
+      ],
+      "original_xy": [
+        2361.055,
+        4267.435
+      ],
+      "response": 9.635380574190426e-06,
+      "suppression_radius": 34.17601498127012,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6832,
+      "working_xy": [
+        411.0,
+        1557.0
+      ],
+      "original_xy": [
+        1468.555,
+        5559.775
+      ],
+      "response": 1.6025637419192227e-05,
+      "suppression_radius": 34.132096331752024,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7116,
+      "working_xy": [
+        58.0,
+        1575.0
+      ],
+      "original_xy": [
+        208.345,
+        5624.035
+      ],
+      "response": 1.2317807190055211e-05,
+      "suppression_radius": 34.132096331752024,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1211,
+      "working_xy": [
+        176.0,
+        1093.0
+      ],
+      "original_xy": [
+        629.605,
+        3903.295
+      ],
+      "response": 9.440911107628804e-06,
+      "suppression_radius": 34.132096331752024,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2340,
+      "working_xy": [
+        301.0,
+        1243.0
+      ],
+      "original_xy": [
+        1075.855,
+        4438.795
+      ],
+      "response": 6.963982982086842e-06,
+      "suppression_radius": 34.132096331752024,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1180,
+      "working_xy": [
+        36.0,
+        1090.0
+      ],
+      "original_xy": [
+        129.805,
+        3892.585
+      ],
+      "response": 1.5160481375125078e-05,
+      "suppression_radius": 34.058772731852805,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5334,
+      "working_xy": [
+        180.0,
+        1470.0
+      ],
+      "original_xy": [
+        643.885,
+        5249.185
+      ],
+      "response": 1.2869748222554876e-05,
+      "suppression_radius": 34.0147027033899,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6196,
+      "working_xy": [
+        783.0,
+        1518.0
+      ],
+      "original_xy": [
+        2796.595,
+        5420.545
+      ],
+      "response": 1.2329497999694495e-05,
+      "suppression_radius": 34.0147027033899,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1752,
+      "working_xy": [
+        248.0,
+        1165.0
+      ],
+      "original_xy": [
+        886.645,
+        4160.335
+      ],
+      "response": 1.0839119933788386e-06,
+      "suppression_radius": 34.0147027033899,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1746,
+      "working_xy": [
+        1104.0,
+        1164.0
+      ],
+      "original_xy": [
+        3942.565,
+        4156.765
+      ],
+      "response": 6.275869381406206e-07,
+      "suppression_radius": 34.0147027033899,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4944,
+      "working_xy": [
+        283.0,
+        1446.0
+      ],
+      "original_xy": [
+        1011.595,
+        5163.505
+      ],
+      "response": 0.00011009080766386214,
+      "suppression_radius": 34.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1174,
+      "working_xy": [
+        39.0,
+        1088.0
+      ],
+      "original_xy": [
+        140.515,
+        3885.445
+      ],
+      "response": 1.59638459489835e-05,
+      "suppression_radius": 33.83784863137726,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1159,
+      "working_xy": [
+        724.0,
+        1085.0
+      ],
+      "original_xy": [
+        2585.965,
+        3874.735
+      ],
+      "response": 0.00011076765042841832,
+      "suppression_radius": 33.61547262794322,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3039,
+      "working_xy": [
+        808.0,
+        1311.0
+      ],
+      "original_xy": [
+        2885.845,
+        4681.555
+      ],
+      "response": 6.880297614739916e-05,
+      "suppression_radius": 33.61547262794322,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4614,
+      "working_xy": [
+        921.0,
+        1425.0
+      ],
+      "original_xy": [
+        3289.255,
+        5088.535
+      ],
+      "response": 5.6328942051741004e-05,
+      "suppression_radius": 33.37663853655727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2176,
+      "working_xy": [
+        758.0,
+        1220.0
+      ],
+      "original_xy": [
+        2707.345,
+        4356.685
+      ],
+      "response": 4.454386352942513e-05,
+      "suppression_radius": 33.37663853655727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1600,
+      "working_xy": [
+        415.0,
+        1144.0
+      ],
+      "original_xy": [
+        1482.835,
+        4085.365
+      ],
+      "response": 6.24343759421599e-06,
+      "suppression_radius": 33.37663853655727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 248,
+      "working_xy": [
+        382.0,
+        808.0
+      ],
+      "original_xy": [
+        1365.025,
+        2885.845
+      ],
+      "response": 1.9981913976736516e-07,
+      "suppression_radius": 33.37663853655727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2990,
+      "working_xy": [
+        95.0,
+        1308.0
+      ],
+      "original_xy": [
+        340.435,
+        4670.845
+      ],
+      "response": 3.7535877130554215e-06,
+      "suppression_radius": 33.301651610693426,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2164,
+      "working_xy": [
+        783.0,
+        1218.0
+      ],
+      "original_xy": [
+        2796.595,
+        4349.545
+      ],
+      "response": 4.847218978456792e-05,
+      "suppression_radius": 33.24154027718932,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 984,
+      "working_xy": [
+        576.0,
+        1055.0
+      ],
+      "original_xy": [
+        2057.605,
+        3767.635
+      ],
+      "response": 6.782717556047619e-05,
+      "suppression_radius": 33.12099032335839,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4177,
+      "working_xy": [
+        987.0,
+        1394.0
+      ],
+      "original_xy": [
+        3524.875,
+        4977.865
+      ],
+      "response": 1.9066894580557475e-05,
+      "suppression_radius": 33.1058907144937,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1437,
+      "working_xy": [
+        1105.0,
+        1123.0
+      ],
+      "original_xy": [
+        3946.135,
+        4010.395
+      ],
+      "response": 1.9552525307020803e-06,
+      "suppression_radius": 33.06055050963308,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2149,
+      "working_xy": [
+        739.0,
+        1216.0
+      ],
+      "original_xy": [
+        2639.515,
+        4342.405
+      ],
+      "response": 4.7053645084613586e-05,
+      "suppression_radius": 33.015148038438355,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1553,
+      "working_xy": [
+        806.0,
+        1138.0
+      ],
+      "original_xy": [
+        2878.705,
+        4063.945
+      ],
+      "response": 2.5301516573642295e-05,
+      "suppression_radius": 33.015148038438355,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2483,
+      "working_xy": [
+        832.0,
+        1258.0
+      ],
+      "original_xy": [
+        2971.525,
+        4492.345
+      ],
+      "response": 2.9204065546251204e-06,
+      "suppression_radius": 33.015148038438355,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2257,
+      "working_xy": [
+        246.0,
+        1232.0
+      ],
+      "original_xy": [
+        879.505,
+        4399.525
+      ],
+      "response": 2.1836725251793123e-06,
+      "suppression_radius": 33.015148038438355,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 677,
+      "working_xy": [
+        363.0,
+        994.0
+      ],
+      "original_xy": [
+        1297.195,
+        3549.865
+      ],
+      "response": 1.7774943311254043e-05,
+      "suppression_radius": 32.7566787083184,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1872,
+      "working_xy": [
+        220.0,
+        1182.0
+      ],
+      "original_xy": [
+        786.685,
+        4221.025
+      ],
+      "response": 8.534264591768332e-07,
+      "suppression_radius": 32.7566787083184,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6741,
+      "working_xy": [
+        546.0,
+        1552.0
+      ],
+      "original_xy": [
+        1950.505,
+        5541.925
+      ],
+      "response": 1.8248273823819056e-05,
+      "suppression_radius": 32.69556544854363,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2019,
+      "working_xy": [
+        1105.0,
+        1198.0
+      ],
+      "original_xy": [
+        3946.135,
+        4278.145
+      ],
+      "response": 1.047086910866514e-05,
+      "suppression_radius": 32.28002478313795,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5932,
+      "working_xy": [
+        967.0,
+        1503.0
+      ],
+      "original_xy": [
+        3453.475,
+        5366.995
+      ],
+      "response": 1.9032807777840436e-05,
+      "suppression_radius": 32.202484376209235,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2203,
+      "working_xy": [
+        84.0,
+        1225.0
+      ],
+      "original_xy": [
+        301.165,
+        4374.535
+      ],
+      "response": 3.24959068063948e-06,
+      "suppression_radius": 32.202484376209235,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1607,
+      "working_xy": [
+        132.0,
+        1145.0
+      ],
+      "original_xy": [
+        472.525,
+        4088.935
+      ],
+      "response": 8.267018771550561e-06,
+      "suppression_radius": 32.0624390837628,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 367,
+      "working_xy": [
+        734.0,
+        896.0
+      ],
+      "original_xy": [
+        2621.665,
+        3200.005
+      ],
+      "response": 4.6240053264074864e-05,
+      "suppression_radius": 32.01562118716424,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2041,
+      "working_xy": [
+        426.0,
+        1200.0
+      ],
+      "original_xy": [
+        1522.105,
+        4285.285
+      ],
+      "response": 3.198720956629491e-05,
+      "suppression_radius": 32.01562118716424,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3820,
+      "working_xy": [
+        24.0,
+        1368.0
+      ],
+      "original_xy": [
+        86.965,
+        4885.045
+      ],
+      "response": 6.2833239268645515e-06,
+      "suppression_radius": 32.01562118716424,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3071,
+      "working_xy": [
+        67.0,
+        1314.0
+      ],
+      "original_xy": [
+        240.475,
+        4692.265
+      ],
+      "response": 3.9656991062112e-06,
+      "suppression_radius": 32.01562118716424,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 414,
+      "working_xy": [
+        1075.0,
+        917.0
+      ],
+      "original_xy": [
+        3839.035,
+        3274.975
+      ],
+      "response": 1.5445738820268386e-06,
+      "suppression_radius": 32.01562118716424,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1767,
+      "working_xy": [
+        1038.0,
+        1167.0
+      ],
+      "original_xy": [
+        3706.945,
+        4167.475
+      ],
+      "response": 2.2132772196213385e-07,
+      "suppression_radius": 32.01562118716424,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1400,
+      "working_xy": [
+        646.0,
+        1116.0
+      ],
+      "original_xy": [
+        2307.505,
+        3985.405
+      ],
+      "response": 6.607560747780831e-05,
+      "suppression_radius": 32.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7040,
+      "working_xy": [
+        471.0,
+        1569.0
+      ],
+      "original_xy": [
+        1682.755,
+        5602.615
+      ],
+      "response": 1.1651874984533335e-05,
+      "suppression_radius": 31.76476034853718,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 388,
+      "working_xy": [
+        648.0,
+        907.0
+      ],
+      "original_xy": [
+        2314.645,
+        3239.275
+      ],
+      "response": 5.1063871796499244e-05,
+      "suppression_radius": 31.622776601683793,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5113,
+      "working_xy": [
+        732.0,
+        1456.0
+      ],
+      "original_xy": [
+        2614.525,
+        5199.205
+      ],
+      "response": 8.084334208298612e-06,
+      "suppression_radius": 31.575306807693888,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4684,
+      "working_xy": [
+        49.0,
+        1430.0
+      ],
+      "original_xy": [
+        176.215,
+        5106.385
+      ],
+      "response": 1.8233662683121458e-05,
+      "suppression_radius": 31.400636936215164,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 26,
+      "working_xy": [
+        846.0,
+        457.0
+      ],
+      "original_xy": [
+        3021.505,
+        1632.775
+      ],
+      "response": 3.972176378349979e-07,
+      "suppression_radius": 31.38470965295043,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5950,
+      "working_xy": [
+        89.0,
+        1505.0
+      ],
+      "original_xy": [
+        319.015,
+        5374.135
+      ],
+      "response": 4.752038559883081e-06,
+      "suppression_radius": 31.240998703626616,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2794,
+      "working_xy": [
+        143.0,
+        1293.0
+      ],
+      "original_xy": [
+        511.79499999999996,
+        4617.295
+      ],
+      "response": 4.3429596043285024e-06,
+      "suppression_radius": 31.064449134018133,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5982,
+      "working_xy": [
+        139.0,
+        1507.0
+      ],
+      "original_xy": [
+        497.515,
+        5381.275
+      ],
+      "response": 3.4669374128020254e-06,
+      "suppression_radius": 31.064449134018133,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2675,
+      "working_xy": [
+        78.0,
+        1282.0
+      ],
+      "original_xy": [
+        279.745,
+        4578.025
+      ],
+      "response": 3.2731594688265345e-06,
+      "suppression_radius": 31.064449134018133,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 944,
+      "working_xy": [
+        778.0,
+        1048.0
+      ],
+      "original_xy": [
+        2778.745,
+        3742.645
+      ],
+      "response": 5.143075561299398e-05,
+      "suppression_radius": 31.016124838541646,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7112,
+      "working_xy": [
+        1020.0,
+        1574.0
+      ],
+      "original_xy": [
+        3642.685,
+        5620.465
+      ],
+      "response": 8.633880984447884e-06,
+      "suppression_radius": 31.016124838541646,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2380,
+      "working_xy": [
+        1105.0,
+        1248.0
+      ],
+      "original_xy": [
+        3946.135,
+        4456.645
+      ],
+      "response": 1.8549917554908838e-06,
+      "suppression_radius": 31.016124838541646,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 29,
+      "working_xy": [
+        581.0,
+        467.0
+      ],
+      "original_xy": [
+        2075.455,
+        1668.475
+      ],
+      "response": 1.5876670104058533e-06,
+      "suppression_radius": 31.016124838541646,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5601,
+      "working_xy": [
+        519.0,
+        1484.0
+      ],
+      "original_xy": [
+        1854.115,
+        5299.165
+      ],
+      "response": 1.8027177625577626e-05,
+      "suppression_radius": 30.886890422961002,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 909,
+      "working_xy": [
+        808.0,
+        1041.0
+      ],
+      "original_xy": [
+        2885.845,
+        3717.655
+      ],
+      "response": 4.569118667061976e-05,
+      "suppression_radius": 30.805843601498726,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7041,
+      "working_xy": [
+        651.0,
+        1569.0
+      ],
+      "original_xy": [
+        2325.355,
+        5602.615
+      ],
+      "response": 1.56086141490423e-05,
+      "suppression_radius": 30.805843601498726,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5618,
+      "working_xy": [
+        401.0,
+        1485.0
+      ],
+      "original_xy": [
+        1432.855,
+        5302.735
+      ],
+      "response": 7.740638290967058e-06,
+      "suppression_radius": 30.805843601498726,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 700,
+      "working_xy": [
+        673.0,
+        999.0
+      ],
+      "original_xy": [
+        2403.895,
+        3567.715
+      ],
+      "response": 2.4380398823654163e-05,
+      "suppression_radius": 30.610455730027933,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6409,
+      "working_xy": [
+        488.0,
+        1533.0
+      ],
+      "original_xy": [
+        1743.445,
+        5474.095
+      ],
+      "response": 1.617228583182566e-05,
+      "suppression_radius": 30.610455730027933,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6474,
+      "working_xy": [
+        837.0,
+        1536.0
+      ],
+      "original_xy": [
+        2989.375,
+        5484.805
+      ],
+      "response": 8.696701673562267e-06,
+      "suppression_radius": 30.364452901377952,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3839,
+      "working_xy": [
+        342.0,
+        1369.0
+      ],
+      "original_xy": [
+        1222.225,
+        4888.615
+      ],
+      "response": 1.7391251466902965e-05,
+      "suppression_radius": 30.265491900843113,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3924,
+      "working_xy": [
+        342.0,
+        1375.0
+      ],
+      "original_xy": [
+        1222.225,
+        4910.035
+      ],
+      "response": 1.766410485731828e-05,
+      "suppression_radius": 30.066592756745816,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1388,
+      "working_xy": [
+        616.0,
+        1115.0
+      ],
+      "original_xy": [
+        2200.405,
+        3981.835
+      ],
+      "response": 3.980956273146682e-05,
+      "suppression_radius": 30.01666203960727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3983,
+      "working_xy": [
+        571.0,
+        1379.0
+      ],
+      "original_xy": [
+        2039.755,
+        4924.315
+      ],
+      "response": 3.357223215851487e-05,
+      "suppression_radius": 30.01666203960727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1229,
+      "working_xy": [
+        550.0,
+        1096.0
+      ],
+      "original_xy": [
+        1964.785,
+        3914.005
+      ],
+      "response": 2.1038909469663666e-05,
+      "suppression_radius": 30.01666203960727,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3534,
+      "working_xy": [
+        726.0,
+        1346.0
+      ],
+      "original_xy": [
+        2593.105,
+        4806.505
+      ],
+      "response": 3.931670662523334e-06,
+      "suppression_radius": 30.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 966,
+      "working_xy": [
+        647.0,
+        1052.0
+      ],
+      "original_xy": [
+        2311.075,
+        3756.925
+      ],
+      "response": 8.928935341507672e-05,
+      "suppression_radius": 29.832867780352597,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 804,
+      "working_xy": [
+        715.0,
+        1022.0
+      ],
+      "original_xy": [
+        2553.835,
+        3649.825
+      ],
+      "response": 7.480209839523032e-05,
+      "suppression_radius": 29.732137494637012,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 531,
+      "working_xy": [
+        439.0,
+        956.0
+      ],
+      "original_xy": [
+        1568.515,
+        3414.205
+      ],
+      "response": 2.8654326530272875e-06,
+      "suppression_radius": 29.68164415931166,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3777,
+      "working_xy": [
+        868.0,
+        1364.0
+      ],
+      "original_xy": [
+        3100.045,
+        4870.765
+      ],
+      "response": 1.828047489134394e-05,
+      "suppression_radius": 29.546573405388315,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 455,
+      "working_xy": [
+        733.0,
+        928.0
+      ],
+      "original_xy": [
+        2618.095,
+        3314.245
+      ],
+      "response": 5.581639096049012e-05,
+      "suppression_radius": 29.5296461204668,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5961,
+      "working_xy": [
+        836.0,
+        1505.0
+      ],
+      "original_xy": [
+        2985.805,
+        5374.135
+      ],
+      "response": 4.51586996402309e-06,
+      "suppression_radius": 29.410882339705484,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1176,
+      "working_xy": [
+        104.0,
+        1088.0
+      ],
+      "original_xy": [
+        372.565,
+        3885.445
+      ],
+      "response": 1.5128138159593163e-05,
+      "suppression_radius": 29.206163733020468,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5355,
+      "working_xy": [
+        554.0,
+        1471.0
+      ],
+      "original_xy": [
+        1979.065,
+        5252.755
+      ],
+      "response": 1.4626051820106798e-05,
+      "suppression_radius": 29.120439557122072,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 967,
+      "working_xy": [
+        652.0,
+        1052.0
+      ],
+      "original_xy": [
+        2328.925,
+        3756.925
+      ],
+      "response": 8.462454055198029e-05,
+      "suppression_radius": 29.068883707497267,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5612,
+      "working_xy": [
+        33.0,
+        1485.0
+      ],
+      "original_xy": [
+        119.095,
+        5302.735
+      ],
+      "response": 6.885953313559264e-06,
+      "suppression_radius": 29.068883707497267,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2715,
+      "working_xy": [
+        650.0,
+        1285.0
+      ],
+      "original_xy": [
+        2321.785,
+        4588.735
+      ],
+      "response": 3.6645913972744187e-05,
+      "suppression_radius": 29.017236257093817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 310,
+      "working_xy": [
+        416.0,
+        853.0
+      ],
+      "original_xy": [
+        1486.405,
+        3046.495
+      ],
+      "response": 4.972826533998883e-06,
+      "suppression_radius": 29.017236257093817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 753,
+      "working_xy": [
+        335.0,
+        1011.0
+      ],
+      "original_xy": [
+        1197.235,
+        3610.555
+      ],
+      "response": 2.3634363959296276e-05,
+      "suppression_radius": 29.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1817,
+      "working_xy": [
+        33.0,
+        1176.0
+      ],
+      "original_xy": [
+        119.095,
+        4199.605
+      ],
+      "response": 2.9703014284988015e-06,
+      "suppression_radius": 29.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 619,
+      "working_xy": [
+        833.0,
+        979.0
+      ],
+      "original_xy": [
+        2975.095,
+        3496.315
+      ],
+      "response": 3.858293342514406e-07,
+      "suppression_radius": 29.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1669,
+      "working_xy": [
+        831.0,
+        1152.0
+      ],
+      "original_xy": [
+        2967.955,
+        4113.925
+      ],
+      "response": 8.200284468322914e-07,
+      "suppression_radius": 28.653097563788805,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1847,
+      "working_xy": [
+        735.0,
+        1178.0
+      ],
+      "original_xy": [
+        2625.235,
+        4206.745
+      ],
+      "response": 9.25116007987371e-05,
+      "suppression_radius": 28.635642126552707,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5359,
+      "working_xy": [
+        829.0,
+        1471.0
+      ],
+      "original_xy": [
+        2960.815,
+        5252.755
+      ],
+      "response": 1.3381753663569452e-05,
+      "suppression_radius": 28.635642126552707,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2354,
+      "working_xy": [
+        58.0,
+        1245.0
+      ],
+      "original_xy": [
+        208.345,
+        4445.935
+      ],
+      "response": 2.850937399332249e-06,
+      "suppression_radius": 28.635642126552707,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 188,
+      "working_xy": [
+        974.0,
+        672.0
+      ],
+      "original_xy": [
+        3478.465,
+        2400.325
+      ],
+      "response": 2.1745479281914637e-07,
+      "suppression_radius": 28.42534080710379,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6349,
+      "working_xy": [
+        59.0,
+        1529.0
+      ],
+      "original_xy": [
+        211.915,
+        5459.815
+      ],
+      "response": 1.9537785024758722e-05,
+      "suppression_radius": 28.319604517012593,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6037,
+      "working_xy": [
+        148.0,
+        1510.0
+      ],
+      "original_xy": [
+        529.645,
+        5391.985
+      ],
+      "response": 3.7386353561748018e-06,
+      "suppression_radius": 28.319604517012593,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 244,
+      "working_xy": [
+        836.0,
+        806.0
+      ],
+      "original_xy": [
+        2985.805,
+        2878.705
+      ],
+      "response": 6.96934502949833e-07,
+      "suppression_radius": 28.30194339616981,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3775,
+      "working_xy": [
+        750.0,
+        1364.0
+      ],
+      "original_xy": [
+        2678.785,
+        4870.765
+      ],
+      "response": 6.234760471855145e-06,
+      "suppression_radius": 28.178005607210743,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6503,
+      "working_xy": [
+        905.0,
+        1538.0
+      ],
+      "original_xy": [
+        3232.135,
+        5491.945
+      ],
+      "response": 5.818851185873542e-06,
+      "suppression_radius": 28.178005607210743,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3491,
+      "working_xy": [
+        819.0,
+        1343.0
+      ],
+      "original_xy": [
+        2925.115,
+        4795.795
+      ],
+      "response": 4.7157867378354006e-05,
+      "suppression_radius": 28.160255680657446,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6553,
+      "working_xy": [
+        456.0,
+        1541.0
+      ],
+      "original_xy": [
+        1629.205,
+        5502.655
+      ],
+      "response": 1.686938278423954e-05,
+      "suppression_radius": 28.160255680657446,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1445,
+      "working_xy": [
+        478.0,
+        1124.0
+      ],
+      "original_xy": [
+        1707.745,
+        4013.965
+      ],
+      "response": 1.5485397292664123e-06,
+      "suppression_radius": 28.160255680657446,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2140,
+      "working_xy": [
+        765.0,
+        1215.0
+      ],
+      "original_xy": [
+        2732.335,
+        4338.835
+      ],
+      "response": 4.5122252079092584e-05,
+      "suppression_radius": 28.071337695236398,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1492,
+      "working_xy": [
+        1171.0,
+        1130.0
+      ],
+      "original_xy": [
+        4181.755,
+        4035.385
+      ],
+      "response": 4.1573029414046146e-05,
+      "suppression_radius": 28.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4698,
+      "working_xy": [
+        1060.0,
+        1430.0
+      ],
+      "original_xy": [
+        3785.485,
+        5106.385
+      ],
+      "response": 2.8047620122748546e-05,
+      "suppression_radius": 28.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5724,
+      "working_xy": [
+        141.0,
+        1491.0
+      ],
+      "original_xy": [
+        504.655,
+        5324.155
+      ],
+      "response": 3.817317404716708e-06,
+      "suppression_radius": 28.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 205,
+      "working_xy": [
+        819.0,
+        725.0
+      ],
+      "original_xy": [
+        2925.115,
+        2589.535
+      ],
+      "response": 1.0914693016289694e-06,
+      "suppression_radius": 28.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4284,
+      "working_xy": [
+        202.0,
+        1403.0
+      ],
+      "original_xy": [
+        722.425,
+        5009.995
+      ],
+      "response": 8.071461884592684e-06,
+      "suppression_radius": 27.80287754891569,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 543,
+      "working_xy": [
+        474.0,
+        958.0
+      ],
+      "original_xy": [
+        1693.465,
+        3421.345
+      ],
+      "response": 3.4512977895619985e-06,
+      "suppression_radius": 27.80287754891569,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1799,
+      "working_xy": [
+        32.0,
+        1173.0
+      ],
+      "original_xy": [
+        115.525,
+        4188.895
+      ],
+      "response": 2.8049650823975024e-06,
+      "suppression_radius": 27.80287754891569,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4604,
+      "working_xy": [
+        465.0,
+        1425.0
+      ],
+      "original_xy": [
+        1661.335,
+        5088.535
+      ],
+      "response": 2.297667280836022e-05,
+      "suppression_radius": 27.65863337187866,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5421,
+      "working_xy": [
+        785.0,
+        1474.0
+      ],
+      "original_xy": [
+        2803.735,
+        5263.465
+      ],
+      "response": 7.513772716999873e-06,
+      "suppression_radius": 27.65863337187866,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 196,
+      "working_xy": [
+        841.0,
+        685.0
+      ],
+      "original_xy": [
+        3003.655,
+        2446.735
+      ],
+      "response": 6.409120416696856e-06,
+      "suppression_radius": 27.459060435491963,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 527,
+      "working_xy": [
+        442.0,
+        955.0
+      ],
+      "original_xy": [
+        1579.225,
+        3410.635
+      ],
+      "response": 3.1101395062747432e-06,
+      "suppression_radius": 27.294688127912362,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3220,
+      "working_xy": [
+        705.0,
+        1324.0
+      ],
+      "original_xy": [
+        2518.135,
+        4727.965
+      ],
+      "response": 1.2764900185824314e-05,
+      "suppression_radius": 27.202941017470888,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3627,
+      "working_xy": [
+        961.0,
+        1353.0
+      ],
+      "original_xy": [
+        3432.055,
+        4831.495
+      ],
+      "response": 1.0027351101974e-05,
+      "suppression_radius": 27.202941017470888,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5053,
+      "working_xy": [
+        1173.0,
+        1452.0
+      ],
+      "original_xy": [
+        4188.895,
+        5184.925
+      ],
+      "response": 1.8291102502908845e-05,
+      "suppression_radius": 27.16615541441225,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5713,
+      "working_xy": [
+        750.0,
+        1490.0
+      ],
+      "original_xy": [
+        2678.785,
+        5320.585
+      ],
+      "response": 1.120476142017877e-05,
+      "suppression_radius": 27.018512172212592,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 499,
+      "working_xy": [
+        808.0,
+        947.0
+      ],
+      "original_xy": [
+        2885.845,
+        3382.075
+      ],
+      "response": 3.837626859311474e-06,
+      "suppression_radius": 27.018512172212592,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 89,
+      "working_xy": [
+        766.0,
+        552.0
+      ],
+      "original_xy": [
+        2735.905,
+        1971.925
+      ],
+      "response": 2.0518834610504516e-06,
+      "suppression_radius": 27.018512172212592,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 238,
+      "working_xy": [
+        1174.0,
+        799.0
+      ],
+      "original_xy": [
+        4192.465,
+        2853.715
+      ],
+      "response": 4.6737844935988576e-05,
+      "suppression_radius": 27.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7124,
+      "working_xy": [
+        192.0,
+        1575.0
+      ],
+      "original_xy": [
+        686.725,
+        5624.035
+      ],
+      "response": 4.301235187572525e-06,
+      "suppression_radius": 27.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3894,
+      "working_xy": [
+        791.0,
+        1372.0
+      ],
+      "original_xy": [
+        2825.155,
+        4899.325
+      ],
+      "response": 5.898322555218797e-05,
+      "suppression_radius": 26.92582403567252,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3214,
+      "working_xy": [
+        453.0,
+        1324.0
+      ],
+      "original_xy": [
+        1618.495,
+        4727.965
+      ],
+      "response": 2.911842714473202e-05,
+      "suppression_radius": 26.92582403567252,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5764,
+      "working_xy": [
+        270.0,
+        1493.0
+      ],
+      "original_xy": [
+        965.185,
+        5331.295
+      ],
+      "response": 1.1691333291248563e-05,
+      "suppression_radius": 26.92582403567252,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6613,
+      "working_xy": [
+        266.0,
+        1545.0
+      ],
+      "original_xy": [
+        950.905,
+        5516.935
+      ],
+      "response": 8.824647628634645e-06,
+      "suppression_radius": 26.90724809414742,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4385,
+      "working_xy": [
+        671.0,
+        1410.0
+      ],
+      "original_xy": [
+        2396.755,
+        5034.985
+      ],
+      "response": 1.3202335531502356e-05,
+      "suppression_radius": 26.832815729997478,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6543,
+      "working_xy": [
+        906.0,
+        1540.0
+      ],
+      "original_xy": [
+        3235.705,
+        5499.085
+      ],
+      "response": 5.792901483307655e-06,
+      "suppression_radius": 26.832815729997478,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 501,
+      "working_xy": [
+        612.0,
+        948.0
+      ],
+      "original_xy": [
+        2186.125,
+        3385.645
+      ],
+      "response": 3.1375914951422185e-06,
+      "suppression_radius": 26.570660511172846,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5069,
+      "working_xy": [
+        393.0,
+        1454.0
+      ],
+      "original_xy": [
+        1404.295,
+        5192.065
+      ],
+      "response": 1.3355161196364601e-05,
+      "suppression_radius": 26.476404589747453,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3853,
+      "working_xy": [
+        427.0,
+        1370.0
+      ],
+      "original_xy": [
+        1525.675,
+        4892.185
+      ],
+      "response": 6.538062251817049e-06,
+      "suppression_radius": 26.476404589747453,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1145,
+      "working_xy": [
+        676.0,
+        1082.0
+      ],
+      "original_xy": [
+        2414.605,
+        3864.025
+      ],
+      "response": 5.94304178323224e-05,
+      "suppression_radius": 26.40075756488817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4172,
+      "working_xy": [
+        539.0,
+        1394.0
+      ],
+      "original_xy": [
+        1925.515,
+        4977.865
+      ],
+      "response": 4.312209737128627e-05,
+      "suppression_radius": 26.40075756488817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6011,
+      "working_xy": [
+        964.0,
+        1508.0
+      ],
+      "original_xy": [
+        3442.765,
+        5384.845
+      ],
+      "response": 1.7904571508162972e-05,
+      "suppression_radius": 26.40075756488817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2972,
+      "working_xy": [
+        334.0,
+        1306.0
+      ],
+      "original_xy": [
+        1193.665,
+        4663.705
+      ],
+      "response": 9.67088312129466e-06,
+      "suppression_radius": 26.40075756488817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5406,
+      "working_xy": [
+        964.0,
+        1473.0
+      ],
+      "original_xy": [
+        3442.765,
+        5259.895
+      ],
+      "response": 7.744973707606492e-06,
+      "suppression_radius": 26.40075756488817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1507,
+      "working_xy": [
+        331.0,
+        1132.0
+      ],
+      "original_xy": [
+        1182.955,
+        4042.525
+      ],
+      "response": 2.1761463871429445e-06,
+      "suppression_radius": 26.40075756488817,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2925,
+      "working_xy": [
+        487.0,
+        1303.0
+      ],
+      "original_xy": [
+        1739.875,
+        4652.995
+      ],
+      "response": 1.7266297110004073e-05,
+      "suppression_radius": 26.30589287593181,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5664,
+      "working_xy": [
+        460.0,
+        1488.0
+      ],
+      "original_xy": [
+        1643.485,
+        5313.445
+      ],
+      "response": 1.1283166619242717e-05,
+      "suppression_radius": 26.30589287593181,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5244,
+      "working_xy": [
+        937.0,
+        1464.0
+      ],
+      "original_xy": [
+        3346.375,
+        5227.765
+      ],
+      "response": 1.0971824481281828e-05,
+      "suppression_radius": 26.30589287593181,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3679,
+      "working_xy": [
+        96.0,
+        1358.0
+      ],
+      "original_xy": [
+        344.005,
+        4849.345
+      ],
+      "response": 1.6990178858516331e-06,
+      "suppression_radius": 26.30589287593181,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4561,
+      "working_xy": [
+        458.0,
+        1422.0
+      ],
+      "original_xy": [
+        1636.345,
+        5077.825
+      ],
+      "response": 2.2888693184835326e-05,
+      "suppression_radius": 26.248809496813376,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 676,
+      "working_xy": [
+        355.0,
+        994.0
+      ],
+      "original_xy": [
+        1268.635,
+        3549.865
+      ],
+      "response": 1.8512690760823217e-05,
+      "suppression_radius": 26.248809496813376,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1691,
+      "working_xy": [
+        557.0,
+        1156.0
+      ],
+      "original_xy": [
+        1989.775,
+        4128.205
+      ],
+      "response": 2.8788567445868915e-05,
+      "suppression_radius": 26.1725046566048,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 108,
+      "working_xy": [
+        1080.0,
+        571.0
+      ],
+      "original_xy": [
+        3856.885,
+        2039.755
+      ],
+      "response": 5.840283566594276e-07,
+      "suppression_radius": 26.1725046566048,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5230,
+      "working_xy": [
+        1115.0,
+        1463.0
+      ],
+      "original_xy": [
+        3981.835,
+        5224.195
+      ],
+      "response": 1.4051897801734752e-05,
+      "suppression_radius": 26.076809620810597,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1350,
+      "working_xy": [
+        112.0,
+        1112.0
+      ],
+      "original_xy": [
+        401.125,
+        3971.125
+      ],
+      "response": 1.3812096145330442e-05,
+      "suppression_radius": 26.019223662515376,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 557,
+      "working_xy": [
+        336.0,
+        963.0
+      ],
+      "original_xy": [
+        1200.805,
+        3439.195
+      ],
+      "response": 5.365097484537882e-06,
+      "suppression_radius": 26.019223662515376,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1214,
+      "working_xy": [
+        832.0,
+        1093.0
+      ],
+      "original_xy": [
+        2971.525,
+        3903.295
+      ],
+      "response": 4.4026221861170406e-07,
+      "suppression_radius": 26.019223662515376,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2111,
+      "working_xy": [
+        830.0,
+        1210.0
+      ],
+      "original_xy": [
+        2964.385,
+        4320.985
+      ],
+      "response": 6.059172462495775e-07,
+      "suppression_radius": 26.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1862,
+      "working_xy": [
+        830.0,
+        1180.0
+      ],
+      "original_xy": [
+        2964.385,
+        4213.885
+      ],
+      "response": 4.745031779157118e-07,
+      "suppression_radius": 26.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5418,
+      "working_xy": [
+        585.0,
+        1474.0
+      ],
+      "original_xy": [
+        2089.735,
+        5263.465
+      ],
+      "response": 1.7260296573374444e-05,
+      "suppression_radius": 25.96150997149434,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4157,
+      "working_xy": [
+        609.0,
+        1393.0
+      ],
+      "original_xy": [
+        2175.415,
+        4974.295
+      ],
+      "response": 0.0001310907390495312,
+      "suppression_radius": 25.942243542145693,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5189,
+      "working_xy": [
+        146.0,
+        1461.0
+      ],
+      "original_xy": [
+        522.505,
+        5217.055
+      ],
+      "response": 3.4626668644469064e-06,
+      "suppression_radius": 25.80697580112788,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2201,
+      "working_xy": [
+        758.0,
+        1224.0
+      ],
+      "original_xy": [
+        2707.345,
+        4370.965
+      ],
+      "response": 4.310720662132737e-05,
+      "suppression_radius": 25.709920264364882,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4601,
+      "working_xy": [
+        219.0,
+        1425.0
+      ],
+      "original_xy": [
+        783.115,
+        5088.535
+      ],
+      "response": 1.3281730987037538e-05,
+      "suppression_radius": 25.632011235952593,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2610,
+      "working_xy": [
+        937.0,
+        1274.0
+      ],
+      "original_xy": [
+        3346.375,
+        4549.465
+      ],
+      "response": 5.911235702562034e-07,
+      "suppression_radius": 25.632011235952593,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1566,
+      "working_xy": [
+        273.0,
+        1140.0
+      ],
+      "original_xy": [
+        975.895,
+        4071.085
+      ],
+      "response": 2.2448225643123552e-07,
+      "suppression_radius": 25.632011235952593,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 608,
+      "working_xy": [
+        404.0,
+        977.0
+      ],
+      "original_xy": [
+        1443.565,
+        3489.175
+      ],
+      "response": 6.288533135579053e-06,
+      "suppression_radius": 25.553864678361276,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5746,
+      "working_xy": [
+        111.0,
+        1492.0
+      ],
+      "original_xy": [
+        397.555,
+        5327.725
+      ],
+      "response": 3.555009890485129e-06,
+      "suppression_radius": 25.553864678361276,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5571,
+      "working_xy": [
+        1098.0,
+        1482.0
+      ],
+      "original_xy": [
+        3921.145,
+        5292.025
+      ],
+      "response": 7.298149197582346e-06,
+      "suppression_radius": 25.495097567963924,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4151,
+      "working_xy": [
+        29.0,
+        1393.0
+      ],
+      "original_xy": [
+        104.815,
+        4974.295
+      ],
+      "response": 4.014222599613215e-06,
+      "suppression_radius": 25.495097567963924,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 882,
+      "working_xy": [
+        833.0,
+        1036.0
+      ],
+      "original_xy": [
+        2975.095,
+        3699.805
+      ],
+      "response": 5.752590021184565e-07,
+      "suppression_radius": 25.495097567963924,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 419,
+      "working_xy": [
+        835.0,
+        920.0
+      ],
+      "original_xy": [
+        2982.235,
+        3285.685
+      ],
+      "response": 3.9151121487319335e-07,
+      "suppression_radius": 25.495097567963924,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4543,
+      "working_xy": [
+        456.0,
+        1421.0
+      ],
+      "original_xy": [
+        1629.205,
+        5074.255
+      ],
+      "response": 2.333964401121365e-05,
+      "suppression_radius": 25.45584412271571,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2193,
+      "working_xy": [
+        546.0,
+        1223.0
+      ],
+      "original_xy": [
+        1950.505,
+        4367.395
+      ],
+      "response": 3.869037340751007e-05,
+      "suppression_radius": 25.317977802344327,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6322,
+      "working_xy": [
+        441.0,
+        1527.0
+      ],
+      "original_xy": [
+        1575.655,
+        5452.675
+      ],
+      "response": 1.6651480072042087e-05,
+      "suppression_radius": 25.317977802344327,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3940,
+      "working_xy": [
+        248.0,
+        1376.0
+      ],
+      "original_xy": [
+        886.645,
+        4913.605
+      ],
+      "response": 4.3014491125716425e-06,
+      "suppression_radius": 25.317977802344327,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1029,
+      "working_xy": [
+        676.0,
+        1063.0
+      ],
+      "original_xy": [
+        2414.605,
+        3796.195
+      ],
+      "response": 6.222316210129505e-05,
+      "suppression_radius": 25.298221281347036,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5735,
+      "working_xy": [
+        616.0,
+        1491.0
+      ],
+      "original_xy": [
+        2200.405,
+        5324.155
+      ],
+      "response": 4.158781880471524e-05,
+      "suppression_radius": 25.298221281347036,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2961,
+      "working_xy": [
+        475.0,
+        1305.0
+      ],
+      "original_xy": [
+        1697.035,
+        4660.135
+      ],
+      "response": 1.9153983321782843e-05,
+      "suppression_radius": 25.298221281347036,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6276,
+      "working_xy": [
+        538.0,
+        1523.0
+      ],
+      "original_xy": [
+        1921.945,
+        5438.395
+      ],
+      "response": 1.8737703117338065e-05,
+      "suppression_radius": 25.298221281347036,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2764,
+      "working_xy": [
+        752.0,
+        1289.0
+      ],
+      "original_xy": [
+        2685.925,
+        4603.015
+      ],
+      "response": 1.674956437654282e-05,
+      "suppression_radius": 25.298221281347036,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 5574,
+      "working_xy": [
+        219.0,
+        1483.0
+      ],
+      "original_xy": [
+        783.115,
+        5295.595
+      ],
+      "response": 5.801603982321055e-06,
+      "suppression_radius": 25.298221281347036,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4744,
+      "working_xy": [
+        659.0,
+        1434.0
+      ],
+      "original_xy": [
+        2353.915,
+        5120.665
+      ],
+      "response": 2.6425544583750967e-05,
+      "suppression_radius": 25.238858928247925,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 137,
+      "working_xy": [
+        740.0,
+        603.0
+      ],
+      "original_xy": [
+        2643.085,
+        2153.995
+      ],
+      "response": 9.133627402168767e-07,
+      "suppression_radius": 25.179356624028344,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2711,
+      "working_xy": [
+        458.0,
+        1285.0
+      ],
+      "original_xy": [
+        1636.345,
+        4588.735
+      ],
+      "response": 9.575743009957157e-06,
+      "suppression_radius": 25.079872407968907,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2169,
+      "working_xy": [
+        609.0,
+        1219.0
+      ],
+      "original_xy": [
+        2175.415,
+        4353.115
+      ],
+      "response": 9.001583875978969e-06,
+      "suppression_radius": 25.079872407968907,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 313,
+      "working_xy": [
+        412.0,
+        854.0
+      ],
+      "original_xy": [
+        1472.125,
+        3050.065
+      ],
+      "response": 5.505250408166922e-06,
+      "suppression_radius": 25.079872407968907,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1460,
+      "working_xy": [
+        503.0,
+        1126.0
+      ],
+      "original_xy": [
+        1796.995,
+        4021.105
+      ],
+      "response": 1.283031598650133e-06,
+      "suppression_radius": 25.079872407968907,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 198,
+      "working_xy": [
+        819.0,
+        697.0
+      ],
+      "original_xy": [
+        2925.115,
+        2489.575
+      ],
+      "response": 6.642118053483555e-07,
+      "suppression_radius": 25.059928172283335,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4973,
+      "working_xy": [
+        993.0,
+        1447.0
+      ],
+      "original_xy": [
+        3546.295,
+        5167.075
+      ],
+      "response": 7.439826043408828e-05,
+      "suppression_radius": 25.019992006393608,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1151,
+      "working_xy": [
+        671.0,
+        1083.0
+      ],
+      "original_xy": [
+        2396.755,
+        3867.595
+      ],
+      "response": 6.397308207115165e-05,
+      "suppression_radius": 25.019992006393608,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 92,
+      "working_xy": [
+        298.0,
+        554.0
+      ],
+      "original_xy": [
+        1065.145,
+        1979.065
+      ],
+      "response": 4.6294268088248305e-05,
+      "suppression_radius": 25.019992006393608,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6177,
+      "working_xy": [
+        749.0,
+        1517.0
+      ],
+      "original_xy": [
+        2675.215,
+        5416.975
+      ],
+      "response": 1.4753425500983417e-05,
+      "suppression_radius": 25.019992006393608,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4083,
+      "working_xy": [
+        788.0,
+        1386.0
+      ],
+      "original_xy": [
+        2814.445,
+        4949.305
+      ],
+      "response": 6.420593587660729e-05,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1285,
+      "working_xy": [
+        787.0,
+        1102.0
+      ],
+      "original_xy": [
+        2810.875,
+        3935.425
+      ],
+      "response": 4.4621708734062315e-05,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 471,
+      "working_xy": [
+        309.0,
+        935.0
+      ],
+      "original_xy": [
+        1104.415,
+        3339.235
+      ],
+      "response": 2.9061527126586153e-05,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6183,
+      "working_xy": [
+        260.0,
+        1518.0
+      ],
+      "original_xy": [
+        929.485,
+        5420.545
+      ],
+      "response": 1.4473781906628925e-05,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3236,
+      "working_xy": [
+        856.0,
+        1325.0
+      ],
+      "original_xy": [
+        3057.205,
+        4731.535
+      ],
+      "response": 1.1657203075638154e-05,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1172,
+      "working_xy": [
+        332.0,
+        1087.0
+      ],
+      "original_xy": [
+        1186.525,
+        3881.875
+      ],
+      "response": 1.0808651977577187e-05,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6057,
+      "working_xy": [
+        236.0,
+        1511.0
+      ],
+      "original_xy": [
+        843.805,
+        5395.555
+      ],
+      "response": 8.707713143812852e-06,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7075,
+      "working_xy": [
+        362.0,
+        1572.0
+      ],
+      "original_xy": [
+        1293.625,
+        5613.325
+      ],
+      "response": 6.078339100110674e-06,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2420,
+      "working_xy": [
+        597.0,
+        1253.0
+      ],
+      "original_xy": [
+        2132.575,
+        4474.495
+      ],
+      "response": 3.27648688726879e-06,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1436,
+      "working_xy": [
+        831.0,
+        1123.0
+      ],
+      "original_xy": [
+        2967.955,
+        4010.395
+      ],
+      "response": 4.4243283329794657e-07,
+      "suppression_radius": 25.0,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6902,
+      "working_xy": [
+        204.0,
+        1560.0
+      ],
+      "original_xy": [
+        729.565,
+        5570.485
+      ],
+      "response": 4.235313415695238e-06,
+      "suppression_radius": 24.839484696748443,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 645,
+      "working_xy": [
+        469.0,
+        986.0
+      ],
+      "original_xy": [
+        1675.615,
+        3521.305
+      ],
+      "response": 8.807706037962602e-06,
+      "suppression_radius": 24.73863375370596,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2279,
+      "working_xy": [
+        189.0,
+        1237.0
+      ],
+      "original_xy": [
+        676.015,
+        4417.375
+      ],
+      "response": 1.912149128607691e-07,
+      "suppression_radius": 24.73863375370596,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3095,
+      "working_xy": [
+        977.0,
+        1315.0
+      ],
+      "original_xy": [
+        3489.175,
+        4695.835
+      ],
+      "response": 1.6137837623530363e-05,
+      "suppression_radius": 24.698178070456937,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 2411,
+      "working_xy": [
+        117.0,
+        1253.0
+      ],
+      "original_xy": [
+        418.975,
+        4474.495
+      ],
+      "response": 1.325248073426027e-06,
+      "suppression_radius": 24.698178070456937,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1243,
+      "working_xy": [
+        789.0,
+        1098.0
+      ],
+      "original_xy": [
+        2818.015,
+        3921.145
+      ],
+      "response": 4.884326423570126e-05,
+      "suppression_radius": 24.596747752497688,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3609,
+      "working_xy": [
+        650.0,
+        1352.0
+      ],
+      "original_xy": [
+        2321.785,
+        4827.925
+      ],
+      "response": 2.4288337454534604e-05,
+      "suppression_radius": 24.515301344262525,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 957,
+      "working_xy": [
+        415.0,
+        1051.0
+      ],
+      "original_xy": [
+        1482.835,
+        3753.355
+      ],
+      "response": 2.1363583491813567e-05,
+      "suppression_radius": 24.515301344262525,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 3087,
+      "working_xy": [
+        399.0,
+        1315.0
+      ],
+      "original_xy": [
+        1425.715,
+        4695.835
+      ],
+      "response": 8.948368830756677e-06,
+      "suppression_radius": 24.515301344262525,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6193,
+      "working_xy": [
+        571.0,
+        1518.0
+      ],
+      "original_xy": [
+        2039.755,
+        5420.545
+      ],
+      "response": 2.066479636827865e-05,
+      "suppression_radius": 24.413111231467404,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1731,
+      "working_xy": [
+        306.0,
+        1162.0
+      ],
+      "original_xy": [
+        1093.705,
+        4149.625
+      ],
+      "response": 6.27184108678503e-07,
+      "suppression_radius": 24.413111231467404,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 81,
+      "working_xy": [
+        1083.0,
+        545.0
+      ],
+      "original_xy": [
+        3867.595,
+        1946.935
+      ],
+      "response": 2.314931935979847e-05,
+      "suppression_radius": 24.331050121192877,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 4498,
+      "working_xy": [
+        358.0,
+        1418.0
+      ],
+      "original_xy": [
+        1279.345,
+        5063.545
+      ],
+      "response": 1.0970834497038742e-05,
+      "suppression_radius": 24.331050121192877,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 143,
+      "working_xy": [
+        653.0,
+        611.0
+      ],
+      "original_xy": [
+        2332.495,
+        2182.555
+      ],
+      "response": 3.9098534725230194e-07,
+      "suppression_radius": 24.331050121192877,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 1572,
+      "working_xy": [
+        649.0,
+        1140.0
+      ],
+      "original_xy": [
+        2318.215,
+        4071.085
+      ],
+      "response": 5.2589842955199174e-05,
+      "suppression_radius": 24.186773244895647,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 6574,
+      "working_xy": [
+        750.0,
+        1542.0
+      ],
+      "original_xy": [
+        2678.785,
+        5506.225
+      ],
+      "response": 2.283259705648598e-05,
+      "suppression_radius": 24.186773244895647,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 45,
+      "working_xy": [
+        905.0,
+        495.0
+      ],
+      "original_xy": [
+        3232.135,
+        1768.435
+      ],
+      "response": 2.1094051071957175e-05,
+      "suppression_radius": 24.186773244895647,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7037,
+      "working_xy": [
+        432.0,
+        1569.0
+      ],
+      "original_xy": [
+        1543.525,
+        5602.615
+      ],
+      "response": 1.3454299068746002e-05,
+      "suppression_radius": 24.186773244895647,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7062,
+      "working_xy": [
+        504.0,
+        1571.0
+      ],
+      "original_xy": [
+        1800.565,
+        5609.755
+      ],
+      "response": 1.1950534043419898e-05,
+      "suppression_radius": 24.186773244895647,
+      "radius_unbounded": false
+    },
+    {
+      "candidate_index": 7044,
+      "working_xy": [
+        735.0,
+        1569.0
+      ],
+      "original_xy": [
+        2625.235,
+        5602.615
+      ],
+      "response": 7.212266685887274e-06,
+      "suppression_radius": 24.186773244895647,
+      "radius_unbounded": false
+    }
+  ]
+}

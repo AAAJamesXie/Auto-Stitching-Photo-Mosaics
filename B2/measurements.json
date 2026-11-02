@@ -1,0 +1,235 @@
+{
+  "parameters": {
+    "gray": "RGB/255 dot (.299,.587,.114)",
+    "patch_size": 40,
+    "patch_center_offsets": [
+      -19.5,
+      19.5
+    ],
+    "blur_sigma": 2.0,
+    "blur_kernel": [
+      13,
+      13
+    ],
+    "blur_boundary": "OpenCV REFLECT_101 at working-image boundary; smooth whole image",
+    "sample_region_indices": [
+      2,
+      7,
+      12,
+      17,
+      22,
+      27,
+      32,
+      37
+    ],
+    "sample_world_offsets": [
+      -17.5,
+      -12.5,
+      -7.5,
+      -2.5,
+      2.5,
+      7.5,
+      12.5,
+      17.5
+    ],
+    "normalization": "population std ddof0; valid iff support inside and std>1e-6; no clipping",
+    "flatten_order": "C row-major",
+    "std_threshold": 1e-06,
+    "rotation": "axis aligned, no rotation",
+    "display_normalized_range": [
+      -3,
+      3
+    ]
+  },
+  "records": [
+    {
+      "image": "IMG_8443.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.00910364641625715,
+      "max_abs_valid_descriptor_mean": 1.033895191682177e-14,
+      "max_abs_valid_descriptor_std_error": 4.440892098500626e-16,
+      "example_b1_rows": [
+        34,
+        345,
+        51,
+        300,
+        26,
+        215
+      ],
+      "seconds_including_io": 0.5696390000002793
+    },
+    {
+      "image": "IMG_8444.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.012132653226853083,
+      "max_abs_valid_descriptor_mean": 2.448735658688861e-14,
+      "max_abs_valid_descriptor_std_error": 4.440892098500626e-16,
+      "example_b1_rows": [
+        412,
+        382,
+        62,
+        173,
+        152,
+        182
+      ],
+      "seconds_including_io": 0.2758950999996159
+    },
+    {
+      "image": "IMG_8445.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.009782775754878795,
+      "max_abs_valid_descriptor_mean": 9.131584377541913e-15,
+      "max_abs_valid_descriptor_std_error": 4.440892098500626e-16,
+      "example_b1_rows": [
+        96,
+        124,
+        369,
+        472,
+        403,
+        247
+      ],
+      "seconds_including_io": 0.2802999000005002
+    },
+    {
+      "image": "IMG_8446.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.011973537782178263,
+      "max_abs_valid_descriptor_mean": 1.8235413179468196e-14,
+      "max_abs_valid_descriptor_std_error": 4.440892098500626e-16,
+      "example_b1_rows": [
+        68,
+        22,
+        135,
+        425,
+        407,
+        359
+      ],
+      "seconds_including_io": 0.2842856999996002
+    },
+    {
+      "image": "IMG_8447.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.014828071832361758,
+      "max_abs_valid_descriptor_mean": 1.2934098236883074e-14,
+      "max_abs_valid_descriptor_std_error": 3.3306690738754696e-16,
+      "example_b1_rows": [
+        299,
+        208,
+        144,
+        475,
+        58,
+        56
+      ],
+      "seconds_including_io": 0.27817489999961253
+    },
+    {
+      "image": "IMG_8448.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.013965906362705175,
+      "max_abs_valid_descriptor_mean": 2.373101715136272e-14,
+      "max_abs_valid_descriptor_std_error": 4.440892098500626e-16,
+      "example_b1_rows": [
+        121,
+        338,
+        98,
+        169,
+        205,
+        31
+      ],
+      "seconds_including_io": 0.2900061000000278
+    },
+    {
+      "image": "IMG_8450.jpg",
+      "input_points": 500,
+      "valid_count": 500,
+      "invalid_support": 0,
+      "invalid_low_variance": 0,
+      "descriptor_shape": [
+        500,
+        64
+      ],
+      "std_min_in_bounds": 0.01984183142725027,
+      "max_abs_valid_descriptor_mean": 1.6778245459647678e-14,
+      "max_abs_valid_descriptor_std_error": 4.440892098500626e-16,
+      "example_b1_rows": [
+        72,
+        59,
+        60,
+        63,
+        66,
+        469
+      ],
+      "seconds_including_io": 0.27880410000034317
+    }
+  ],
+  "input_sha256": {
+    "B1\\measurements.json": "47d818984a641e13f342d0ef3630cb93f6c280530928f2161ec7fba3f6386595",
+    "B1\\corners.py": "9e2428cdd09481df186cbdaa0b24c01e5c175e339618e976fdf98c99d1512f39",
+    "A2\\homographies.json": "7293296dbf55b24c2edba141820a5dcb97d87b333b7aa36342919f0d54fab961",
+    "A3\\warp.py": "0b94ddde64853c4f1d03c60ebb36ad87c10ad6da800c91c5e0a765bdfa9249e4",
+    "A4\\results\\panorama.png": "13c8aae6aaa97afb1a5196ca9172c584aaf0210c8dfce69b6f80b28285508589",
+    "B1\\working\\IMG_8443.png": "b90f32bc0b95e71a093f76890c73032b6964b8607e0afb33ee64bfef6759ad83",
+    "B1\\points\\IMG_8443.npz": "14d84163f2f5b560be886b0f90126490dff7ab2ca94c2502490f82f693343c5b",
+    "A1\\images\\IMG_8443.jpg": "153da332a4162ec1e4aa9c0af7793e61e8deb4151396d950ae0b3784ebfcb9f1",
+    "B1\\working\\IMG_8444.png": "e2385dc9d874dde0dbb3ad7247b688bee94240ec73c9d9bcb5121c475c7eca08",
+    "B1\\points\\IMG_8444.npz": "10e7331bae892c8e6466944066eabb6d099ee60690653bf065250bb8327d071e",
+    "A1\\images\\IMG_8444.jpg": "f9c189468e0443c1e11d7a7de5693542384378c13c2286e8460a07123ce38cbc",
+    "B1\\working\\IMG_8445.png": "ae5bdcc684fa02385e31c32c290928245538fe76c2fc1ff5e25fc82332e80c6d",
+    "B1\\points\\IMG_8445.npz": "2e7597e0e3761045bc833e63adfb61d8a038216b177937bc6698832430e05557",
+    "A1\\images\\IMG_8445.jpg": "ffd6f2df507f2b9388b17ef1c1c61a9c25b8231c336c606c4a60ff6331151643",
+    "B1\\working\\IMG_8446.png": "992f49f2e8a0acb4526b7adc09b654bfc4009be276fea8f61be25c167e86b198",
+    "B1\\points\\IMG_8446.npz": "d86ddeb2c2e08369e78a2e3cadc0aedbbc94c51d86300cf18f0fd9deb4395151",
+    "A1\\images\\IMG_8446.jpg": "64ba1763ca05eba1442ef4d7d30a03f2235ff908dd80158ee2de651a39f61ef1",
+    "B1\\working\\IMG_8447.png": "ca2570cb5cbcf3a6f363573584bc1157dfb0ac461aaeb6359f0e8f8957a61b39",
+    "B1\\points\\IMG_8447.npz": "3744206ce3697b5ff49b3f21c1e01a4b4cec1ead4366ded354c5950ad28a2068",
+    "A1\\images\\IMG_8447.jpg": "d3f849e9115742e5282027c3da058e19ac75864035da8c0f4fe74e50e7bb72cc",
+    "B1\\working\\IMG_8448.png": "185803c26636dad4f3469663a444c5f7447248d0b2074bc416291796ec131490",
+    "B1\\points\\IMG_8448.npz": "8afadf8ce2cfc44f1404dbaeb58afda5da3d859820501618f1036a0db5753d6e",
+    "A1\\images\\IMG_8448.jpg": "aaedfb20aeee16b39e17a42fc1f11f546134b1a59f9dfd0e5a4b040e07bfdb4e",
+    "B1\\working\\IMG_8450.png": "ba0a14276aa880f74906feaed337f40ac1b0e0d0ef0aef1aa337a9a5b1492044",
+    "B1\\points\\IMG_8450.npz": "e1135badb89d9e1e984f331cf88c9af78bffc6e07f5bc78aab7a0636a057d551",
+    "A1\\images\\IMG_8450.jpg": "3f5027faae7d992c482d1030d49d5ee8b4eaab311946bbb3cd0acef0ee2ea889"
+  }
+}

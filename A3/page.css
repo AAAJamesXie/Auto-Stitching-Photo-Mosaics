@@ -1,0 +1,10 @@
+.two-up { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:28px; align-items:start; }
+.two-up figure { min-width:0; margin:0; }
+.two-up figcaption { font-size:13px; line-height:1.6; font-weight:700; }
+.two-up img { max-height:680px; object-fit:contain; }
+.checker { background:repeating-conic-gradient(#ece8e6 0% 25%,#dfdad7 0% 50%) 50% / 24px 24px; }
+.method-note { font-size:14px; color:var(--muted); }
+.report-section figure { margin-inline:0; }
+.result-figure figcaption { font-size:14px; line-height:1.65; }
+.report-section h2 { overflow-wrap:anywhere; }
+@media(max-width:640px){.two-up{grid-template-columns:1fr;gap:20px}.two-up img{max-height:520px}}

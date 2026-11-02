@@ -1,0 +1,6 @@
+# Preserve exact bytes for recorded SHA-256 values. Store assets directly.
+* -text -filter
+*.png binary
+*.jpg binary
+*.npz binary
+*.pdf binary

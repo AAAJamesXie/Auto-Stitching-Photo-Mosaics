@@ -1,0 +1,8510 @@
+{
+  "source": "IMG_8450.jpg",
+  "working_image": "../../B1/working/IMG_8450.png",
+  "descriptor_shape": [
+    500,
+    64
+  ],
+  "rows": [
+    {
+      "feature_id": "IMG_8450:000",
+      "b1_row": 0,
+      "candidate_index": 2789,
+      "working_xy": [
+        796.0,
+        1166.0
+      ],
+      "original_xy": [
+        2006.68,
+        2939.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.43049104271645694,
+      "sample_std": 0.17270323940780194
+    },
+    {
+      "feature_id": "IMG_8450:001",
+      "b1_row": 1,
+      "candidate_index": 4890,
+      "working_xy": [
+        39.0,
+        1565.0
+      ],
+      "original_xy": [
+        99.04,
+        3944.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.362156945435546,
+      "sample_std": 0.18780402163208915
+    },
+    {
+      "feature_id": "IMG_8450:002",
+      "b1_row": 2,
+      "candidate_index": 434,
+      "working_xy": [
+        38.0,
+        554.0
+      ],
+      "original_xy": [
+        96.52,
+        1396.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6134961456111128,
+      "sample_std": 0.1700127789039273
+    },
+    {
+      "feature_id": "IMG_8450:003",
+      "b1_row": 3,
+      "candidate_index": 473,
+      "working_xy": [
+        29.0,
+        562.0
+      ],
+      "original_xy": [
+        73.84,
+        1417.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5456438820936366,
+      "sample_std": 0.14688061539465902
+    },
+    {
+      "feature_id": "IMG_8450:004",
+      "b1_row": 4,
+      "candidate_index": 602,
+      "working_xy": [
+        1096.0,
+        618.0
+      ],
+      "original_xy": [
+        2762.68,
+        1558.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6574025442715952,
+      "sample_std": 0.2011284060566145
+    },
+    {
+      "feature_id": "IMG_8450:005",
+      "b1_row": 5,
+      "candidate_index": 614,
+      "working_xy": [
+        550.0,
+        623.0
+      ],
+      "original_xy": [
+        1386.76,
+        1570.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5251896455773959,
+      "sample_std": 0.17765733199312506
+    },
+    {
+      "feature_id": "IMG_8450:006",
+      "b1_row": 6,
+      "candidate_index": 698,
+      "working_xy": [
+        551.0,
+        658.0
+      ],
+      "original_xy": [
+        1389.28,
+        1658.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.518774626320627,
+      "sample_std": 0.16960442676806223
+    },
+    {
+      "feature_id": "IMG_8450:007",
+      "b1_row": 7,
+      "candidate_index": 4832,
+      "working_xy": [
+        1145.0,
+        1556.0
+      ],
+      "original_xy": [
+        2886.16,
+        3921.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3324557827081434,
+      "sample_std": 0.1810296950843651
+    },
+    {
+      "feature_id": "IMG_8450:008",
+      "b1_row": 8,
+      "candidate_index": 1358,
+      "working_xy": [
+        25.0,
+        852.0
+      ],
+      "original_xy": [
+        63.760000000000005,
+        2147.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5709042255678664,
+      "sample_std": 0.2095230945385179
+    },
+    {
+      "feature_id": "IMG_8450:009",
+      "b1_row": 9,
+      "candidate_index": 521,
+      "working_xy": [
+        469.0,
+        580.0
+      ],
+      "original_xy": [
+        1182.64,
+        1462.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7092878512410251,
+      "sample_std": 0.14423316851730567
+    },
+    {
+      "feature_id": "IMG_8450:010",
+      "b1_row": 10,
+      "candidate_index": 416,
+      "working_xy": [
+        426.0,
+        548.0
+      ],
+      "original_xy": [
+        1074.28,
+        1381.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6783399116669979,
+      "sample_std": 0.07686949441915569
+    },
+    {
+      "feature_id": "IMG_8450:011",
+      "b1_row": 11,
+      "candidate_index": 142,
+      "working_xy": [
+        1086.0,
+        265.0
+      ],
+      "original_xy": [
+        2737.48,
+        668.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5532811873224707,
+      "sample_std": 0.08746666305089933
+    },
+    {
+      "feature_id": "IMG_8450:012",
+      "b1_row": 12,
+      "candidate_index": 3543,
+      "working_xy": [
+        1070.0,
+        1308.0
+      ],
+      "original_xy": [
+        2697.16,
+        3296.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4597264783324676,
+      "sample_std": 0.12400160254320125
+    },
+    {
+      "feature_id": "IMG_8450:013",
+      "b1_row": 13,
+      "candidate_index": 3589,
+      "working_xy": [
+        190.0,
+        1317.0
+      ],
+      "original_xy": [
+        479.56,
+        3319.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4166073011897481,
+      "sample_std": 0.20668043393200067
+    },
+    {
+      "feature_id": "IMG_8450:014",
+      "b1_row": 14,
+      "candidate_index": 3440,
+      "working_xy": [
+        51.0,
+        1293.0
+      ],
+      "original_xy": [
+        129.28,
+        3259.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.34042049986386697,
+      "sample_std": 0.19459582159592767
+    },
+    {
+      "feature_id": "IMG_8450:015",
+      "b1_row": 15,
+      "candidate_index": 3761,
+      "working_xy": [
+        159.0,
+        1339.0
+      ],
+      "original_xy": [
+        401.44,
+        3375.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.45290477411707347,
+      "sample_std": 0.19703883546283296
+    },
+    {
+      "feature_id": "IMG_8450:016",
+      "b1_row": 16,
+      "candidate_index": 1606,
+      "working_xy": [
+        472.0,
+        905.0
+      ],
+      "original_xy": [
+        1190.2,
+        2281.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6418830301719839,
+      "sample_std": 0.10906973493596468
+    },
+    {
+      "feature_id": "IMG_8450:017",
+      "b1_row": 17,
+      "candidate_index": 3513,
+      "working_xy": [
+        592.0,
+        1302.0
+      ],
+      "original_xy": [
+        1492.6,
+        3281.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5767310719393418,
+      "sample_std": 0.20238438773707762
+    },
+    {
+      "feature_id": "IMG_8450:018",
+      "b1_row": 18,
+      "candidate_index": 3602,
+      "working_xy": [
+        604.0,
+        1318.0
+      ],
+      "original_xy": [
+        1522.84,
+        3322.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5832191216929238,
+      "sample_std": 0.20897114361542896
+    },
+    {
+      "feature_id": "IMG_8450:019",
+      "b1_row": 19,
+      "candidate_index": 1322,
+      "working_xy": [
+        1017.0,
+        843.0
+      ],
+      "original_xy": [
+        2563.6,
+        2125.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7155791591677352,
+      "sample_std": 0.12872101436125108
+    },
+    {
+      "feature_id": "IMG_8450:020",
+      "b1_row": 20,
+      "candidate_index": 4911,
+      "working_xy": [
+        930.0,
+        1567.0
+      ],
+      "original_xy": [
+        2344.36,
+        3949.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.38281720272395997,
+      "sample_std": 0.1712847125476012
+    },
+    {
+      "feature_id": "IMG_8450:021",
+      "b1_row": 21,
+      "candidate_index": 4896,
+      "working_xy": [
+        930.0,
+        1565.0
+      ],
+      "original_xy": [
+        2344.36,
+        3944.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3727374685733948,
+      "sample_std": 0.16815205551887744
+    },
+    {
+      "feature_id": "IMG_8450:022",
+      "b1_row": 22,
+      "candidate_index": 3920,
+      "working_xy": [
+        66.0,
+        1356.0
+      ],
+      "original_xy": [
+        167.08,
+        3417.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3852467594121543,
+      "sample_std": 0.2111912365402495
+    },
+    {
+      "feature_id": "IMG_8450:023",
+      "b1_row": 23,
+      "candidate_index": 63,
+      "working_xy": [
+        699.0,
+        221.0
+      ],
+      "original_xy": [
+        1762.24,
+        557.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6230650373028388,
+      "sample_std": 0.23769665049785854
+    },
+    {
+      "feature_id": "IMG_8450:024",
+      "b1_row": 24,
+      "candidate_index": 3848,
+      "working_xy": [
+        878.0,
+        1349.0
+      ],
+      "original_xy": [
+        2213.32,
+        3400.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3369035556638729,
+      "sample_std": 0.1381187829480453
+    },
+    {
+      "feature_id": "IMG_8450:025",
+      "b1_row": 25,
+      "candidate_index": 3524,
+      "working_xy": [
+        397.0,
+        1303.0
+      ],
+      "original_xy": [
+        1001.2,
+        3284.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5197492889518783,
+      "sample_std": 0.20781412109302083
+    },
+    {
+      "feature_id": "IMG_8450:026",
+      "b1_row": 26,
+      "candidate_index": 1942,
+      "working_xy": [
+        201.0,
+        970.0
+      ],
+      "original_xy": [
+        507.28,
+        2445.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5201280012387497,
+      "sample_std": 0.09933078784022532
+    },
+    {
+      "feature_id": "IMG_8450:027",
+      "b1_row": 27,
+      "candidate_index": 138,
+      "working_xy": [
+        898.0,
+        264.0
+      ],
+      "original_xy": [
+        2263.72,
+        666.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.43125565474969935,
+      "sample_std": 0.15338935196566977
+    },
+    {
+      "feature_id": "IMG_8450:028",
+      "b1_row": 28,
+      "candidate_index": 3679,
+      "working_xy": [
+        213.0,
+        1329.0
+      ],
+      "original_xy": [
+        537.52,
+        3349.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6077784628427453,
+      "sample_std": 0.1913673115204859
+    },
+    {
+      "feature_id": "IMG_8450:029",
+      "b1_row": 29,
+      "candidate_index": 459,
+      "working_xy": [
+        719.0,
+        559.0
+      ],
+      "original_xy": [
+        1812.64,
+        1409.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6822447307079526,
+      "sample_std": 0.11632345219605959
+    },
+    {
+      "feature_id": "IMG_8450:030",
+      "b1_row": 30,
+      "candidate_index": 4610,
+      "working_xy": [
+        916.0,
+        1515.0
+      ],
+      "original_xy": [
+        2309.08,
+        3818.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3245665108285065,
+      "sample_std": 0.15942580007617874
+    },
+    {
+      "feature_id": "IMG_8450:031",
+      "b1_row": 31,
+      "candidate_index": 1745,
+      "working_xy": [
+        832.0,
+        932.0
+      ],
+      "original_xy": [
+        2097.4,
+        2349.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6976194764369954,
+      "sample_std": 0.1113953646652008
+    },
+    {
+      "feature_id": "IMG_8450:032",
+      "b1_row": 32,
+      "candidate_index": 194,
+      "working_xy": [
+        132.0,
+        323.0
+      ],
+      "original_xy": [
+        333.4,
+        814.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.46499107720152744,
+      "sample_std": 0.13189471943219447
+    },
+    {
+      "feature_id": "IMG_8450:033",
+      "b1_row": 33,
+      "candidate_index": 1823,
+      "working_xy": [
+        626.0,
+        948.0
+      ],
+      "original_xy": [
+        1578.28,
+        2389.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5890304308418263,
+      "sample_std": 0.14770974167053796
+    },
+    {
+      "feature_id": "IMG_8450:034",
+      "b1_row": 34,
+      "candidate_index": 2449,
+      "working_xy": [
+        659.0,
+        1072.0
+      ],
+      "original_xy": [
+        1661.44,
+        2702.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4429715841329599,
+      "sample_std": 0.22775546773410388
+    },
+    {
+      "feature_id": "IMG_8450:035",
+      "b1_row": 35,
+      "candidate_index": 152,
+      "working_xy": [
+        932.0,
+        274.0
+      ],
+      "original_xy": [
+        2349.4,
+        691.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.42493564299702435,
+      "sample_std": 0.11851378167022646
+    },
+    {
+      "feature_id": "IMG_8450:036",
+      "b1_row": 36,
+      "candidate_index": 2822,
+      "working_xy": [
+        1061.0,
+        1172.0
+      ],
+      "original_xy": [
+        2674.48,
+        2954.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4370239164319643,
+      "sample_std": 0.11836206246380476
+    },
+    {
+      "feature_id": "IMG_8450:037",
+      "b1_row": 37,
+      "candidate_index": 4965,
+      "working_xy": [
+        394.0,
+        1574.0
+      ],
+      "original_xy": [
+        993.64,
+        3967.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2923337256735862,
+      "sample_std": 0.10427935818011928
+    },
+    {
+      "feature_id": "IMG_8450:038",
+      "b1_row": 38,
+      "candidate_index": 4286,
+      "working_xy": [
+        715.0,
+        1434.0
+      ],
+      "original_xy": [
+        1802.56,
+        3614.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5458319525433526,
+      "sample_std": 0.1904034204162326
+    },
+    {
+      "feature_id": "IMG_8450:039",
+      "b1_row": 39,
+      "candidate_index": 1171,
+      "working_xy": [
+        558.0,
+        809.0
+      ],
+      "original_xy": [
+        1406.92,
+        2039.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6190114594981776,
+      "sample_std": 0.10690957316394428
+    },
+    {
+      "feature_id": "IMG_8450:040",
+      "b1_row": 40,
+      "candidate_index": 163,
+      "working_xy": [
+        959.0,
+        281.0
+      ],
+      "original_xy": [
+        2417.44,
+        708.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.47090108874569997,
+      "sample_std": 0.12556221107323495
+    },
+    {
+      "feature_id": "IMG_8450:041",
+      "b1_row": 41,
+      "candidate_index": 1304,
+      "working_xy": [
+        260.0,
+        839.0
+      ],
+      "original_xy": [
+        655.96,
+        2115.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5966030330006988,
+      "sample_std": 0.07106017443362816
+    },
+    {
+      "feature_id": "IMG_8450:042",
+      "b1_row": 42,
+      "candidate_index": 425,
+      "working_xy": [
+        203.0,
+        550.0
+      ],
+      "original_xy": [
+        512.32,
+        1386.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6994718674815709,
+      "sample_std": 0.13057296507462407
+    },
+    {
+      "feature_id": "IMG_8450:043",
+      "b1_row": 43,
+      "candidate_index": 253,
+      "working_xy": [
+        753.0,
+        440.0
+      ],
+      "original_xy": [
+        1898.32,
+        1109.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6860226216548467,
+      "sample_std": 0.10643696525697409
+    },
+    {
+      "feature_id": "IMG_8450:044",
+      "b1_row": 44,
+      "candidate_index": 230,
+      "working_xy": [
+        352.0,
+        403.0
+      ],
+      "original_xy": [
+        887.8,
+        1016.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.651464246300025,
+      "sample_std": 0.042994876821158455
+    },
+    {
+      "feature_id": "IMG_8450:045",
+      "b1_row": 45,
+      "candidate_index": 556,
+      "working_xy": [
+        984.0,
+        596.0
+      ],
+      "original_xy": [
+        2480.44,
+        1502.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6957786547409559,
+      "sample_std": 0.14862353165498465
+    },
+    {
+      "feature_id": "IMG_8450:046",
+      "b1_row": 46,
+      "candidate_index": 1792,
+      "working_xy": [
+        901.0,
+        941.0
+      ],
+      "original_xy": [
+        2271.28,
+        2372.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6841506561057163,
+      "sample_std": 0.12799125436862618
+    },
+    {
+      "feature_id": "IMG_8450:047",
+      "b1_row": 47,
+      "candidate_index": 1738,
+      "working_xy": [
+        363.0,
+        931.0
+      ],
+      "original_xy": [
+        915.52,
+        2346.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5919195777479875,
+      "sample_std": 0.1363626133369939
+    },
+    {
+      "feature_id": "IMG_8450:048",
+      "b1_row": 48,
+      "candidate_index": 4805,
+      "working_xy": [
+        572.0,
+        1552.0
+      ],
+      "original_xy": [
+        1442.2,
+        3911.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.19179712592983297,
+      "sample_std": 0.0637469764879287
+    },
+    {
+      "feature_id": "IMG_8450:049",
+      "b1_row": 49,
+      "candidate_index": 4337,
+      "working_xy": [
+        344.0,
+        1448.0
+      ],
+      "original_xy": [
+        867.64,
+        3649.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6010325323625657,
+      "sample_std": 0.21778812731131078
+    },
+    {
+      "feature_id": "IMG_8450:050",
+      "b1_row": 50,
+      "candidate_index": 1605,
+      "working_xy": [
+        362.0,
+        905.0
+      ],
+      "original_xy": [
+        913.0,
+        2281.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5786791100061983,
+      "sample_std": 0.1277387334040126
+    },
+    {
+      "feature_id": "IMG_8450:051",
+      "b1_row": 51,
+      "candidate_index": 222,
+      "working_xy": [
+        835.0,
+        368.0
+      ],
+      "original_xy": [
+        2104.96,
+        928.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.741915244343655,
+      "sample_std": 0.04782795318948935
+    },
+    {
+      "feature_id": "IMG_8450:052",
+      "b1_row": 52,
+      "candidate_index": 221,
+      "working_xy": [
+        1175.0,
+        364.0
+      ],
+      "original_xy": [
+        2961.76,
+        918.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6520305552156711,
+      "sample_std": 0.15514265274972633
+    },
+    {
+      "feature_id": "IMG_8450:053",
+      "b1_row": 53,
+      "candidate_index": 2809,
+      "working_xy": [
+        345.0,
+        1170.0
+      ],
+      "original_xy": [
+        870.16,
+        2949.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3408720408218817,
+      "sample_std": 0.057888285246845105
+    },
+    {
+      "feature_id": "IMG_8450:054",
+      "b1_row": 54,
+      "candidate_index": 2860,
+      "working_xy": [
+        670.0,
+        1180.0
+      ],
+      "original_xy": [
+        1689.16,
+        2974.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.30111328694037715,
+      "sample_std": 0.10394402803374216
+    },
+    {
+      "feature_id": "IMG_8450:055",
+      "b1_row": 55,
+      "candidate_index": 2829,
+      "working_xy": [
+        117.0,
+        1175.0
+      ],
+      "original_xy": [
+        295.6,
+        2961.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.36846036600484944,
+      "sample_std": 0.08239144119754901
+    },
+    {
+      "feature_id": "IMG_8450:056",
+      "b1_row": 56,
+      "candidate_index": 502,
+      "working_xy": [
+        322.0,
+        572.0
+      ],
+      "original_xy": [
+        812.2,
+        1442.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5774986740353024,
+      "sample_std": 0.1669954862204495
+    },
+    {
+      "feature_id": "IMG_8450:057",
+      "b1_row": 57,
+      "candidate_index": 27,
+      "working_xy": [
+        1013.0,
+        186.0
+      ],
+      "original_xy": [
+        2553.52,
+        469.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6130827317274349,
+      "sample_std": 0.03774597105158342
+    },
+    {
+      "feature_id": "IMG_8450:058",
+      "b1_row": 58,
+      "candidate_index": 4958,
+      "working_xy": [
+        219.0,
+        1573.0
+      ],
+      "original_xy": [
+        552.64,
+        3964.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.1627724404975058,
+      "sample_std": 0.036391388878129025
+    },
+    {
+      "feature_id": "IMG_8450:059",
+      "b1_row": 59,
+      "candidate_index": 236,
+      "working_xy": [
+        644.0,
+        417.0
+      ],
+      "original_xy": [
+        1623.64,
+        1051.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7355999646877941,
+      "sample_std": 0.06967500004037461
+    },
+    {
+      "feature_id": "IMG_8450:060",
+      "b1_row": 60,
+      "candidate_index": 307,
+      "working_xy": [
+        985.0,
+        492.0
+      ],
+      "original_xy": [
+        2482.96,
+        1240.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7326199405700979,
+      "sample_std": 0.10011870595077046
+    },
+    {
+      "feature_id": "IMG_8450:061",
+      "b1_row": 61,
+      "candidate_index": 4352,
+      "working_xy": [
+        234.0,
+        1452.0
+      ],
+      "original_xy": [
+        590.44,
+        3659.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5900851604141711,
+      "sample_std": 0.20508479956215978
+    },
+    {
+      "feature_id": "IMG_8450:062",
+      "b1_row": 62,
+      "candidate_index": 178,
+      "working_xy": [
+        350.0,
+        300.0
+      ],
+      "original_xy": [
+        882.76,
+        756.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4582700589577799,
+      "sample_std": 0.11975101032265972
+    },
+    {
+      "feature_id": "IMG_8450:063",
+      "b1_row": 63,
+      "candidate_index": 2740,
+      "working_xy": [
+        227.0,
+        1158.0
+      ],
+      "original_xy": [
+        572.8,
+        2918.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3916663664715781,
+      "sample_std": 0.07143223856989357
+    },
+    {
+      "feature_id": "IMG_8450:064",
+      "b1_row": 64,
+      "candidate_index": 343,
+      "working_xy": [
+        1097.0,
+        516.0
+      ],
+      "original_xy": [
+        2765.2,
+        1301.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7102529583083267,
+      "sample_std": 0.11209776964191634
+    },
+    {
+      "feature_id": "IMG_8450:065",
+      "b1_row": 65,
+      "candidate_index": 2375,
+      "working_xy": [
+        268.0,
+        1049.0
+      ],
+      "original_xy": [
+        676.12,
+        2644.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6445005171998563,
+      "sample_std": 0.059384004150626495
+    },
+    {
+      "feature_id": "IMG_8450:066",
+      "b1_row": 66,
+      "candidate_index": 2671,
+      "working_xy": [
+        555.0,
+        1145.0
+      ],
+      "original_xy": [
+        1399.36,
+        2886.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.34347323686333575,
+      "sample_std": 0.05826914164424782
+    },
+    {
+      "feature_id": "IMG_8450:067",
+      "b1_row": 67,
+      "candidate_index": 442,
+      "working_xy": [
+        893.0,
+        555.0
+      ],
+      "original_xy": [
+        2251.12,
+        1399.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6367409059151241,
+      "sample_std": 0.16898544777329152
+    },
+    {
+      "feature_id": "IMG_8450:068",
+      "b1_row": 68,
+      "candidate_index": 1311,
+      "working_xy": [
+        135.0,
+        841.0
+      ],
+      "original_xy": [
+        340.96,
+        2120.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5974214978483584,
+      "sample_std": 0.0830103857182234
+    },
+    {
+      "feature_id": "IMG_8450:069",
+      "b1_row": 69,
+      "candidate_index": 1219,
+      "working_xy": [
+        421.0,
+        821.0
+      ],
+      "original_xy": [
+        1061.68,
+        2069.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6147721551185462,
+      "sample_std": 0.20023744914232544
+    },
+    {
+      "feature_id": "IMG_8450:070",
+      "b1_row": 70,
+      "candidate_index": 1905,
+      "working_xy": [
+        1172.0,
+        963.0
+      ],
+      "original_xy": [
+        2954.2,
+        2427.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3166616576579186,
+      "sample_std": 0.06267639871642695
+    },
+    {
+      "feature_id": "IMG_8450:071",
+      "b1_row": 71,
+      "candidate_index": 146,
+      "working_xy": [
+        785.0,
+        268.0
+      ],
+      "original_xy": [
+        1978.96,
+        676.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6140557894323395,
+      "sample_std": 0.15499554981621677
+    },
+    {
+      "feature_id": "IMG_8450:072",
+      "b1_row": 72,
+      "candidate_index": 235,
+      "working_xy": [
+        255.0,
+        416.0
+      ],
+      "original_xy": [
+        643.36,
+        1049.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6603200045290336,
+      "sample_std": 0.033780004331208285
+    },
+    {
+      "feature_id": "IMG_8450:073",
+      "b1_row": 73,
+      "candidate_index": 186,
+      "working_xy": [
+        253.0,
+        310.0
+      ],
+      "original_xy": [
+        638.32,
+        781.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4566600888430993,
+      "sample_std": 0.1249398327859809
+    },
+    {
+      "feature_id": "IMG_8450:074",
+      "b1_row": 74,
+      "candidate_index": 171,
+      "working_xy": [
+        447.0,
+        290.0
+      ],
+      "original_xy": [
+        1127.2,
+        731.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4659145138255296,
+      "sample_std": 0.11882236036584021
+    },
+    {
+      "feature_id": "IMG_8450:075",
+      "b1_row": 75,
+      "candidate_index": 2592,
+      "working_xy": [
+        884.0,
+        1125.0
+      ],
+      "original_xy": [
+        2228.44,
+        2835.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2788540616686786,
+      "sample_std": 0.09465899546010449
+    },
+    {
+      "feature_id": "IMG_8450:076",
+      "b1_row": 76,
+      "candidate_index": 1174,
+      "working_xy": [
+        847.0,
+        809.0
+      ],
+      "original_xy": [
+        2135.2,
+        2039.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6874103641816358,
+      "sample_std": 0.15501885531992998
+    },
+    {
+      "feature_id": "IMG_8450:077",
+      "b1_row": 77,
+      "candidate_index": 531,
+      "working_xy": [
+        888.0,
+        585.0
+      ],
+      "original_xy": [
+        2238.52,
+        1474.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6931981979729634,
+      "sample_std": 0.1410100524484072
+    },
+    {
+      "feature_id": "IMG_8450:078",
+      "b1_row": 78,
+      "candidate_index": 1751,
+      "working_xy": [
+        982.0,
+        933.0
+      ],
+      "original_xy": [
+        2475.4,
+        2351.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5756589815822345,
+      "sample_std": 0.1180359038331036
+    },
+    {
+      "feature_id": "IMG_8450:079",
+      "b1_row": 79,
+      "candidate_index": 896,
+      "working_xy": [
+        825.0,
+        716.0
+      ],
+      "original_xy": [
+        2079.76,
+        1805.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7443081422947362,
+      "sample_std": 0.03353328785836399
+    },
+    {
+      "feature_id": "IMG_8450:080",
+      "b1_row": 80,
+      "candidate_index": 1784,
+      "working_xy": [
+        966.0,
+        939.0
+      ],
+      "original_xy": [
+        2435.08,
+        2367.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5655808594542431,
+      "sample_std": 0.11162764857681796
+    },
+    {
+      "feature_id": "IMG_8450:081",
+      "b1_row": 81,
+      "candidate_index": 2788,
+      "working_xy": [
+        670.0,
+        1166.0
+      ],
+      "original_xy": [
+        1689.16,
+        2939.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.33591838106185157,
+      "sample_std": 0.09471120497662813
+    },
+    {
+      "feature_id": "IMG_8450:082",
+      "b1_row": 82,
+      "candidate_index": 309,
+      "working_xy": [
+        126.0,
+        495.0
+      ],
+      "original_xy": [
+        318.28,
+        1248.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.671474154678177,
+      "sample_std": 0.09202776418814212
+    },
+    {
+      "feature_id": "IMG_8450:083",
+      "b1_row": 83,
+      "candidate_index": 158,
+      "working_xy": [
+        545.0,
+        279.0
+      ],
+      "original_xy": [
+        1374.16,
+        703.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.45867885702347183,
+      "sample_std": 0.11933354998203247
+    },
+    {
+      "feature_id": "IMG_8450:084",
+      "b1_row": 84,
+      "candidate_index": 268,
+      "working_xy": [
+        453.0,
+        458.0
+      ],
+      "original_xy": [
+        1142.32,
+        1154.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7441314403186282,
+      "sample_std": 0.06084317494662088
+    },
+    {
+      "feature_id": "IMG_8450:085",
+      "b1_row": 85,
+      "candidate_index": 620,
+      "working_xy": [
+        108.0,
+        626.0
+      ],
+      "original_xy": [
+        272.92,
+        1578.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7486069946261941,
+      "sample_std": 0.11443656936601626
+    },
+    {
+      "feature_id": "IMG_8450:086",
+      "b1_row": 86,
+      "candidate_index": 2769,
+      "working_xy": [
+        673.0,
+        1164.0
+      ],
+      "original_xy": [
+        1696.72,
+        2934.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3572360512838541,
+      "sample_std": 0.10392695641121182
+    },
+    {
+      "feature_id": "IMG_8450:087",
+      "b1_row": 87,
+      "candidate_index": 520,
+      "working_xy": [
+        339.0,
+        580.0
+      ],
+      "original_xy": [
+        855.04,
+        1462.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5377791054906207,
+      "sample_std": 0.14566142041623775
+    },
+    {
+      "feature_id": "IMG_8450:088",
+      "b1_row": 88,
+      "candidate_index": 271,
+      "working_xy": [
+        455.0,
+        460.0
+      ],
+      "original_xy": [
+        1147.36,
+        1159.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7394907997281501,
+      "sample_std": 0.07036258428873962
+    },
+    {
+      "feature_id": "IMG_8450:089",
+      "b1_row": 89,
+      "candidate_index": 658,
+      "working_xy": [
+        233.0,
+        644.0
+      ],
+      "original_xy": [
+        587.92,
+        1623.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5665540206460143,
+      "sample_std": 0.09361534421213137
+    },
+    {
+      "feature_id": "IMG_8450:090",
+      "b1_row": 90,
+      "candidate_index": 683,
+      "working_xy": [
+        413.0,
+        653.0
+      ],
+      "original_xy": [
+        1041.52,
+        1646.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6803408160349917,
+      "sample_std": 0.17834329033924703
+    },
+    {
+      "feature_id": "IMG_8450:091",
+      "b1_row": 91,
+      "candidate_index": 344,
+      "working_xy": [
+        1074.0,
+        517.0
+      ],
+      "original_xy": [
+        2707.24,
+        1303.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7098522795667159,
+      "sample_std": 0.13509776780882118
+    },
+    {
+      "feature_id": "IMG_8450:092",
+      "b1_row": 92,
+      "candidate_index": 1156,
+      "working_xy": [
+        648.0,
+        804.0
+      ],
+      "original_xy": [
+        1633.72,
+        2026.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7025264474364026,
+      "sample_std": 0.09914645149541677
+    },
+    {
+      "feature_id": "IMG_8450:093",
+      "b1_row": 93,
+      "candidate_index": 262,
+      "working_xy": [
+        544.0,
+        449.0
+      ],
+      "original_xy": [
+        1371.64,
+        1132.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7286475973159653,
+      "sample_std": 0.07468788614110662
+    },
+    {
+      "feature_id": "IMG_8450:094",
+      "b1_row": 94,
+      "candidate_index": 1276,
+      "working_xy": [
+        171.0,
+        833.0
+      ],
+      "original_xy": [
+        431.68,
+        2099.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6542818816528483,
+      "sample_std": 0.09208521671580094
+    },
+    {
+      "feature_id": "IMG_8450:095",
+      "b1_row": 95,
+      "candidate_index": 276,
+      "working_xy": [
+        888.0,
+        468.0
+      ],
+      "original_xy": [
+        2238.52,
+        1180.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7184983760248403,
+      "sample_std": 0.1091548261196174
+    },
+    {
+      "feature_id": "IMG_8450:096",
+      "b1_row": 96,
+      "candidate_index": 1031,
+      "working_xy": [
+        1073.0,
+        758.0
+      ],
+      "original_xy": [
+        2704.72,
+        1910.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7593434192692291,
+      "sample_std": 0.029441529158815753
+    },
+    {
+      "feature_id": "IMG_8450:097",
+      "b1_row": 97,
+      "candidate_index": 234,
+      "working_xy": [
+        1034.0,
+        413.0
+      ],
+      "original_xy": [
+        2606.44,
+        1041.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.767998131792461,
+      "sample_std": 0.03476580080363989
+    },
+    {
+      "feature_id": "IMG_8450:098",
+      "b1_row": 98,
+      "candidate_index": 3321,
+      "working_xy": [
+        479.0,
+        1272.0
+      ],
+      "original_xy": [
+        1207.84,
+        3206.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.40924823819744754,
+      "sample_std": 0.18202280424169692
+    },
+    {
+      "feature_id": "IMG_8450:099",
+      "b1_row": 99,
+      "candidate_index": 3447,
+      "working_xy": [
+        676.0,
+        1293.0
+      ],
+      "original_xy": [
+        1704.28,
+        3259.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4965611396963513,
+      "sample_std": 0.20294826987147369
+    },
+    {
+      "feature_id": "IMG_8450:100",
+      "b1_row": 100,
+      "candidate_index": 206,
+      "working_xy": [
+        1161.0,
+        341.0
+      ],
+      "original_xy": [
+        2926.48,
+        860.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.630497551515736,
+      "sample_std": 0.16598474601487728
+    },
+    {
+      "feature_id": "IMG_8450:101",
+      "b1_row": 101,
+      "candidate_index": 1361,
+      "working_xy": [
+        934.0,
+        852.0
+      ],
+      "original_xy": [
+        2354.44,
+        2147.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.528628240677896,
+      "sample_std": 0.07116478491513947
+    },
+    {
+      "feature_id": "IMG_8450:102",
+      "b1_row": 102,
+      "candidate_index": 2057,
+      "working_xy": [
+        464.0,
+        988.0
+      ],
+      "original_xy": [
+        1170.04,
+        2490.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5697357868033344,
+      "sample_std": 0.130400327580434
+    },
+    {
+      "feature_id": "IMG_8450:103",
+      "b1_row": 103,
+      "candidate_index": 999,
+      "working_xy": [
+        1025.0,
+        749.0
+      ],
+      "original_xy": [
+        2583.76,
+        1888.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7622772144832984,
+      "sample_std": 0.03713216475793797
+    },
+    {
+      "feature_id": "IMG_8450:104",
+      "b1_row": 104,
+      "candidate_index": 246,
+      "working_xy": [
+        1115.0,
+        432.0
+      ],
+      "original_xy": [
+        2810.56,
+        1089.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7715859778011569,
+      "sample_std": 0.0341245805662581
+    },
+    {
+      "feature_id": "IMG_8450:105",
+      "b1_row": 105,
+      "candidate_index": 1050,
+      "working_xy": [
+        1119.0,
+        765.0
+      ],
+      "original_xy": [
+        2820.64,
+        1928.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7571804442969704,
+      "sample_std": 0.03843036952129536
+    },
+    {
+      "feature_id": "IMG_8450:106",
+      "b1_row": 106,
+      "candidate_index": 1410,
+      "working_xy": [
+        1170.0,
+        865.0
+      ],
+      "original_xy": [
+        2949.16,
+        2180.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.31752902372828756,
+      "sample_std": 0.06439688203568825
+    },
+    {
+      "feature_id": "IMG_8450:107",
+      "b1_row": 107,
+      "candidate_index": 2270,
+      "working_xy": [
+        142.0,
+        1026.0
+      ],
+      "original_xy": [
+        358.6,
+        2586.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6178886500848266,
+      "sample_std": 0.05975581275247367
+    },
+    {
+      "feature_id": "IMG_8450:108",
+      "b1_row": 108,
+      "candidate_index": 260,
+      "working_xy": [
+        1174.0,
+        445.0
+      ],
+      "original_xy": [
+        2959.24,
+        1122.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7717580387714318,
+      "sample_std": 0.030843315595073358
+    },
+    {
+      "feature_id": "IMG_8450:109",
+      "b1_row": 109,
+      "candidate_index": 2199,
+      "working_xy": [
+        363.0,
+        1012.0
+      ],
+      "original_xy": [
+        915.52,
+        2551.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.680714675083664,
+      "sample_std": 0.11446741315134101
+    },
+    {
+      "feature_id": "IMG_8450:110",
+      "b1_row": 110,
+      "candidate_index": 19,
+      "working_xy": [
+        1055.0,
+        179.0
+      ],
+      "original_xy": [
+        2659.36,
+        451.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6304337289853968,
+      "sample_std": 0.043670296735069766
+    },
+    {
+      "feature_id": "IMG_8450:111",
+      "b1_row": 111,
+      "candidate_index": 3067,
+      "working_xy": [
+        914.0,
+        1223.0
+      ],
+      "original_xy": [
+        2304.04,
+        3082.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.38024266568642173,
+      "sample_std": 0.1443504501451239
+    },
+    {
+      "feature_id": "IMG_8450:112",
+      "b1_row": 112,
+      "candidate_index": 702,
+      "working_xy": [
+        331.0,
+        660.0
+      ],
+      "original_xy": [
+        834.88,
+        1663.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.602019160743681,
+      "sample_std": 0.10800507316778003
+    },
+    {
+      "feature_id": "IMG_8450:113",
+      "b1_row": 113,
+      "candidate_index": 4376,
+      "working_xy": [
+        125.0,
+        1457.0
+      ],
+      "original_xy": [
+        315.76,
+        3672.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5754676875339643,
+      "sample_std": 0.22167602165263983
+    },
+    {
+      "feature_id": "IMG_8450:114",
+      "b1_row": 114,
+      "candidate_index": 3767,
+      "working_xy": [
+        996.0,
+        1339.0
+      ],
+      "original_xy": [
+        2510.68,
+        3375.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3908357831988953,
+      "sample_std": 0.12002213380777631
+    },
+    {
+      "feature_id": "IMG_8450:115",
+      "b1_row": 115,
+      "candidate_index": 3990,
+      "working_xy": [
+        794.0,
+        1362.0
+      ],
+      "original_xy": [
+        2001.64,
+        3433.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5122644654679083,
+      "sample_std": 0.13623076421119326
+    },
+    {
+      "feature_id": "IMG_8450:116",
+      "b1_row": 116,
+      "candidate_index": 200,
+      "working_xy": [
+        676.0,
+        331.0
+      ],
+      "original_xy": [
+        1704.28,
+        834.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7106800286200267,
+      "sample_std": 0.02673495195462066
+    },
+    {
+      "feature_id": "IMG_8450:117",
+      "b1_row": 117,
+      "candidate_index": 4584,
+      "working_xy": [
+        506.0,
+        1509.0
+      ],
+      "original_xy": [
+        1275.88,
+        3803.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.14335062335080145,
+      "sample_std": 0.058180670474723674
+    },
+    {
+      "feature_id": "IMG_8450:118",
+      "b1_row": 118,
+      "candidate_index": 1793,
+      "working_xy": [
+        32.0,
+        942.0
+      ],
+      "original_xy": [
+        81.4,
+        2374.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6906618530192504,
+      "sample_std": 0.2217819411752865
+    },
+    {
+      "feature_id": "IMG_8450:119",
+      "b1_row": 119,
+      "candidate_index": 2323,
+      "working_xy": [
+        966.0,
+        1034.0
+      ],
+      "original_xy": [
+        2435.08,
+        2606.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4478349285373192,
+      "sample_std": 0.06431805396934581
+    },
+    {
+      "feature_id": "IMG_8450:120",
+      "b1_row": 120,
+      "candidate_index": 2683,
+      "working_xy": [
+        670.0,
+        1148.0
+      ],
+      "original_xy": [
+        1689.16,
+        2893.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.36152176143531706,
+      "sample_std": 0.07951836049692229
+    },
+    {
+      "feature_id": "IMG_8450:121",
+      "b1_row": 121,
+      "candidate_index": 3962,
+      "working_xy": [
+        714.0,
+        1359.0
+      ],
+      "original_xy": [
+        1800.04,
+        3425.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5638805581203026,
+      "sample_std": 0.15142867156197928
+    },
+    {
+      "feature_id": "IMG_8450:122",
+      "b1_row": 122,
+      "candidate_index": 2520,
+      "working_xy": [
+        447.0,
+        1106.0
+      ],
+      "original_xy": [
+        1127.2,
+        2787.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3368386698073397,
+      "sample_std": 0.13452054854476173
+    },
+    {
+      "feature_id": "IMG_8450:123",
+      "b1_row": 123,
+      "candidate_index": 4311,
+      "working_xy": [
+        569.0,
+        1440.0
+      ],
+      "original_xy": [
+        1434.64,
+        3629.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6117603795642552,
+      "sample_std": 0.220633516288728
+    },
+    {
+      "feature_id": "IMG_8450:124",
+      "b1_row": 124,
+      "candidate_index": 2236,
+      "working_xy": [
+        266.0,
+        1018.0
+      ],
+      "original_xy": [
+        671.08,
+        2566.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6246806794745416,
+      "sample_std": 0.05587023006601733
+    },
+    {
+      "feature_id": "IMG_8450:125",
+      "b1_row": 125,
+      "candidate_index": 451,
+      "working_xy": [
+        643.0,
+        557.0
+      ],
+      "original_xy": [
+        1621.12,
+        1404.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7478070607539105,
+      "sample_std": 0.07787363565321183
+    },
+    {
+      "feature_id": "IMG_8450:126",
+      "b1_row": 126,
+      "candidate_index": 56,
+      "working_xy": [
+        1139.0,
+        213.0
+      ],
+      "original_xy": [
+        2871.04,
+        537.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.40352673059235333,
+      "sample_std": 0.22431400711476815
+    },
+    {
+      "feature_id": "IMG_8450:127",
+      "b1_row": 127,
+      "candidate_index": 2942,
+      "working_xy": [
+        457.0,
+        1199.0
+      ],
+      "original_xy": [
+        1152.4,
+        3022.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3761853217675039,
+      "sample_std": 0.06549085351186347
+    },
+    {
+      "feature_id": "IMG_8450:128",
+      "b1_row": 128,
+      "candidate_index": 4380,
+      "working_xy": [
+        1014.0,
+        1458.0
+      ],
+      "original_xy": [
+        2556.04,
+        3674.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5098218101315235,
+      "sample_std": 0.09592457518626603
+    },
+    {
+      "feature_id": "IMG_8450:129",
+      "b1_row": 129,
+      "candidate_index": 4321,
+      "working_xy": [
+        456.0,
+        1444.0
+      ],
+      "original_xy": [
+        1149.88,
+        3639.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.611193135249781,
+      "sample_std": 0.22596825514841612
+    },
+    {
+      "feature_id": "IMG_8450:130",
+      "b1_row": 130,
+      "candidate_index": 634,
+      "working_xy": [
+        644.0,
+        632.0
+      ],
+      "original_xy": [
+        1623.64,
+        1593.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7171332001317101,
+      "sample_std": 0.08105665186161402
+    },
+    {
+      "feature_id": "IMG_8450:131",
+      "b1_row": 131,
+      "candidate_index": 131,
+      "working_xy": [
+        638.0,
+        262.0
+      ],
+      "original_xy": [
+        1608.52,
+        661.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5196148210764207,
+      "sample_std": 0.17827897852246363
+    },
+    {
+      "feature_id": "IMG_8450:132",
+      "b1_row": 132,
+      "candidate_index": 1697,
+      "working_xy": [
+        146.0,
+        922.0
+      ],
+      "original_xy": [
+        368.68,
+        2324.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6701059910544226,
+      "sample_std": 0.09063170138533305
+    },
+    {
+      "feature_id": "IMG_8450:133",
+      "b1_row": 133,
+      "candidate_index": 2167,
+      "working_xy": [
+        67.0,
+        1006.0
+      ],
+      "original_xy": [
+        169.6,
+        2535.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.647286430520648,
+      "sample_std": 0.06934094786967825
+    },
+    {
+      "feature_id": "IMG_8450:134",
+      "b1_row": 134,
+      "candidate_index": 660,
+      "working_xy": [
+        1164.0,
+        644.0
+      ],
+      "original_xy": [
+        2934.04,
+        1623.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6983326577339788,
+      "sample_std": 0.1206897526125562
+    },
+    {
+      "feature_id": "IMG_8450:135",
+      "b1_row": 135,
+      "candidate_index": 33,
+      "working_xy": [
+        922.0,
+        196.0
+      ],
+      "original_xy": [
+        2324.2,
+        494.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5722201670368587,
+      "sample_std": 0.09670749419862844
+    },
+    {
+      "feature_id": "IMG_8450:136",
+      "b1_row": 136,
+      "candidate_index": 4632,
+      "working_xy": [
+        1083.0,
+        1520.0
+      ],
+      "original_xy": [
+        2729.92,
+        3831.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5394326301389634,
+      "sample_std": 0.1263064272657051
+    },
+    {
+      "feature_id": "IMG_8450:137",
+      "b1_row": 137,
+      "candidate_index": 1649,
+      "working_xy": [
+        139.0,
+        912.0
+      ],
+      "original_xy": [
+        351.04,
+        2299.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6168140898440507,
+      "sample_std": 0.08873671326295951
+    },
+    {
+      "feature_id": "IMG_8450:138",
+      "b1_row": 138,
+      "candidate_index": 297,
+      "working_xy": [
+        453.0,
+        483.0
+      ],
+      "original_xy": [
+        1142.32,
+        1217.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.727045862236311,
+      "sample_std": 0.0610735012175467
+    },
+    {
+      "feature_id": "IMG_8450:139",
+      "b1_row": 139,
+      "candidate_index": 715,
+      "working_xy": [
+        261.0,
+        666.0
+      ],
+      "original_xy": [
+        658.48,
+        1679.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5935234305407846,
+      "sample_std": 0.06707394347500158
+    },
+    {
+      "feature_id": "IMG_8450:140",
+      "b1_row": 140,
+      "candidate_index": 2953,
+      "working_xy": [
+        996.0,
+        1202.0
+      ],
+      "original_xy": [
+        2510.68,
+        3029.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4750815789689628,
+      "sample_std": 0.09846646260503335
+    },
+    {
+      "feature_id": "IMG_8450:141",
+      "b1_row": 141,
+      "candidate_index": 2474,
+      "working_xy": [
+        799.0,
+        1084.0
+      ],
+      "original_xy": [
+        2014.24,
+        2732.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5658068004127781,
+      "sample_std": 0.2285326703675449
+    },
+    {
+      "feature_id": "IMG_8450:142",
+      "b1_row": 142,
+      "candidate_index": 1799,
+      "working_xy": [
+        264.0,
+        943.0
+      ],
+      "original_xy": [
+        666.04,
+        2377.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6022836859285997,
+      "sample_std": 0.049140913759320205
+    },
+    {
+      "feature_id": "IMG_8450:143",
+      "b1_row": 143,
+      "candidate_index": 1951,
+      "working_xy": [
+        725.0,
+        971.0
+      ],
+      "original_xy": [
+        1827.76,
+        2447.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7693342483744473,
+      "sample_std": 0.025797753882399792
+    },
+    {
+      "feature_id": "IMG_8450:144",
+      "b1_row": 144,
+      "candidate_index": 39,
+      "working_xy": [
+        868.0,
+        203.0
+      ],
+      "original_xy": [
+        2188.12,
+        512.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6275532387705393,
+      "sample_std": 0.04471166015037271
+    },
+    {
+      "feature_id": "IMG_8450:145",
+      "b1_row": 145,
+      "candidate_index": 2443,
+      "working_xy": [
+        800.0,
+        1068.0
+      ],
+      "original_xy": [
+        2016.76,
+        2692.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7633205512737482,
+      "sample_std": 0.06069024663487422
+    },
+    {
+      "feature_id": "IMG_8450:146",
+      "b1_row": 146,
+      "candidate_index": 3021,
+      "working_xy": [
+        262.0,
+        1215.0
+      ],
+      "original_xy": [
+        661.0,
+        3062.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3273220782239131,
+      "sample_std": 0.06065002729881226
+    },
+    {
+      "feature_id": "IMG_8450:147",
+      "b1_row": 147,
+      "candidate_index": 4918,
+      "working_xy": [
+        650.0,
+        1568.0
+      ],
+      "original_xy": [
+        1638.76,
+        3952.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.21133174833828003,
+      "sample_std": 0.07153599875638918
+    },
+    {
+      "feature_id": "IMG_8450:148",
+      "b1_row": 148,
+      "candidate_index": 610,
+      "working_xy": [
+        788.0,
+        622.0
+      ],
+      "original_xy": [
+        1986.52,
+        1568.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7455591582453706,
+      "sample_std": 0.02861142514877608
+    },
+    {
+      "feature_id": "IMG_8450:149",
+      "b1_row": 149,
+      "candidate_index": 2917,
+      "working_xy": [
+        915.0,
+        1193.0
+      ],
+      "original_xy": [
+        2306.56,
+        3007.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.41574902092019234,
+      "sample_std": 0.12164011468799805
+    },
+    {
+      "feature_id": "IMG_8450:150",
+      "b1_row": 150,
+      "candidate_index": 1979,
+      "working_xy": [
+        778.0,
+        977.0
+      ],
+      "original_xy": [
+        1961.32,
+        2462.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7620091421625338,
+      "sample_std": 0.023830145684171137
+    },
+    {
+      "feature_id": "IMG_8450:151",
+      "b1_row": 151,
+      "candidate_index": 464,
+      "working_xy": [
+        138.0,
+        560.0
+      ],
+      "original_xy": [
+        348.52,
+        1411.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6196179013977995,
+      "sample_std": 0.16426477598532652
+    },
+    {
+      "feature_id": "IMG_8450:152",
+      "b1_row": 152,
+      "candidate_index": 2694,
+      "working_xy": [
+        1162.0,
+        1149.0
+      ],
+      "original_xy": [
+        2929.0,
+        2896.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.35892918239798255,
+      "sample_std": 0.07065050976096665
+    },
+    {
+      "feature_id": "IMG_8450:153",
+      "b1_row": 153,
+      "candidate_index": 1105,
+      "working_xy": [
+        219.0,
+        788.0
+      ],
+      "original_xy": [
+        552.64,
+        1986.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6747661400878495,
+      "sample_std": 0.06949233878212187
+    },
+    {
+      "feature_id": "IMG_8450:154",
+      "b1_row": 154,
+      "candidate_index": 768,
+      "working_xy": [
+        75.0,
+        682.0
+      ],
+      "original_xy": [
+        189.76,
+        1719.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6613410270689377,
+      "sample_std": 0.1382531781642974
+    },
+    {
+      "feature_id": "IMG_8450:155",
+      "b1_row": 155,
+      "candidate_index": 1279,
+      "working_xy": [
+        953.0,
+        833.0
+      ],
+      "original_xy": [
+        2402.32,
+        2099.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6034636787196765,
+      "sample_std": 0.11094927605278235
+    },
+    {
+      "feature_id": "IMG_8450:156",
+      "b1_row": 156,
+      "candidate_index": 4511,
+      "working_xy": [
+        284.0,
+        1493.0
+      ],
+      "original_xy": [
+        716.44,
+        3763.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.15380972884078853,
+      "sample_std": 0.06482739902684684
+    },
+    {
+      "feature_id": "IMG_8450:157",
+      "b1_row": 157,
+      "candidate_index": 1324,
+      "working_xy": [
+        341.0,
+        844.0
+      ],
+      "original_xy": [
+        860.08,
+        2127.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.607828557732317,
+      "sample_std": 0.13636868458036275
+    },
+    {
+      "feature_id": "IMG_8450:158",
+      "b1_row": 158,
+      "candidate_index": 1192,
+      "working_xy": [
+        882.0,
+        814.0
+      ],
+      "original_xy": [
+        2223.4,
+        2052.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6605449424657839,
+      "sample_std": 0.1747610415212628
+    },
+    {
+      "feature_id": "IMG_8450:159",
+      "b1_row": 159,
+      "candidate_index": 3038,
+      "working_xy": [
+        580.0,
+        1218.0
+      ],
+      "original_xy": [
+        1462.36,
+        3070.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.30407939333698125,
+      "sample_std": 0.08977893743548686
+    },
+    {
+      "feature_id": "IMG_8450:160",
+      "b1_row": 160,
+      "candidate_index": 370,
+      "working_xy": [
+        1163.0,
+        529.0
+      ],
+      "original_xy": [
+        2931.52,
+        1333.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7049295402909257,
+      "sample_std": 0.14250092605556045
+    },
+    {
+      "feature_id": "IMG_8450:161",
+      "b1_row": 161,
+      "candidate_index": 3747,
+      "working_xy": [
+        480.0,
+        1337.0
+      ],
+      "original_xy": [
+        1210.36,
+        3370.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4854293226430227,
+      "sample_std": 0.20117120028183613
+    },
+    {
+      "feature_id": "IMG_8450:162",
+      "b1_row": 162,
+      "candidate_index": 1534,
+      "working_xy": [
+        610.0,
+        887.0
+      ],
+      "original_xy": [
+        1537.96,
+        2236.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6082587947534779,
+      "sample_std": 0.14897078960938775
+    },
+    {
+      "feature_id": "IMG_8450:163",
+      "b1_row": 163,
+      "candidate_index": 453,
+      "working_xy": [
+        124.0,
+        558.0
+      ],
+      "original_xy": [
+        313.24,
+        1406.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6555357923287658,
+      "sample_std": 0.12950940055171692
+    },
+    {
+      "feature_id": "IMG_8450:164",
+      "b1_row": 164,
+      "candidate_index": 3418,
+      "working_xy": [
+        120.0,
+        1290.0
+      ],
+      "original_xy": [
+        303.16,
+        3251.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4170944052178061,
+      "sample_std": 0.16298078018125056
+    },
+    {
+      "feature_id": "IMG_8450:165",
+      "b1_row": 165,
+      "candidate_index": 1890,
+      "working_xy": [
+        1105.0,
+        959.0
+      ],
+      "original_xy": [
+        2785.36,
+        2417.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.31505225778561485,
+      "sample_std": 0.04095456673340409
+    },
+    {
+      "feature_id": "IMG_8450:166",
+      "b1_row": 166,
+      "candidate_index": 244,
+      "working_xy": [
+        133.0,
+        427.0
+      ],
+      "original_xy": [
+        335.92,
+        1076.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.67013130204714,
+      "sample_std": 0.0532415082563308
+    },
+    {
+      "feature_id": "IMG_8450:167",
+      "b1_row": 167,
+      "candidate_index": 1323,
+      "working_xy": [
+        1091.0,
+        843.0
+      ],
+      "original_xy": [
+        2750.08,
+        2125.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5102599712640801,
+      "sample_std": 0.18087011578044923
+    },
+    {
+      "feature_id": "IMG_8450:168",
+      "b1_row": 168,
+      "candidate_index": 2524,
+      "working_xy": [
+        1027.0,
+        1106.0
+      ],
+      "original_xy": [
+        2588.8,
+        2787.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.43584146883737523,
+      "sample_std": 0.12870587500306088
+    },
+    {
+      "feature_id": "IMG_8450:169",
+      "b1_row": 169,
+      "candidate_index": 1885,
+      "working_xy": [
+        518.0,
+        959.0
+      ],
+      "original_xy": [
+        1306.12,
+        2417.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.46359844366343483,
+      "sample_std": 0.08043156041203786
+    },
+    {
+      "feature_id": "IMG_8450:170",
+      "b1_row": 170,
+      "candidate_index": 3592,
+      "working_xy": [
+        273.0,
+        1317.0
+      ],
+      "original_xy": [
+        688.72,
+        3319.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5929210102013267,
+      "sample_std": 0.1960463730819321
+    },
+    {
+      "feature_id": "IMG_8450:171",
+      "b1_row": 171,
+      "candidate_index": 3668,
+      "working_xy": [
+        273.0,
+        1328.0
+      ],
+      "original_xy": [
+        688.72,
+        3347.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5893573094037861,
+      "sample_std": 0.19809522890900064
+    },
+    {
+      "feature_id": "IMG_8450:172",
+      "b1_row": 172,
+      "candidate_index": 1094,
+      "working_xy": [
+        208.0,
+        786.0
+      ],
+      "original_xy": [
+        524.92,
+        1981.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6594143603835335,
+      "sample_std": 0.06569592183478763
+    },
+    {
+      "feature_id": "IMG_8450:173",
+      "b1_row": 173,
+      "candidate_index": 4513,
+      "working_xy": [
+        780.0,
+        1493.0
+      ],
+      "original_xy": [
+        1966.36,
+        3763.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.22420141996417448,
+      "sample_std": 0.14558666898859116
+    },
+    {
+      "feature_id": "IMG_8450:174",
+      "b1_row": 174,
+      "candidate_index": 755,
+      "working_xy": [
+        139.0,
+        676.0
+      ],
+      "original_xy": [
+        351.04,
+        1704.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5648195744301971,
+      "sample_std": 0.05672607502938293
+    },
+    {
+      "feature_id": "IMG_8450:175",
+      "b1_row": 175,
+      "candidate_index": 4299,
+      "working_xy": [
+        796.0,
+        1436.0
+      ],
+      "original_xy": [
+        2006.68,
+        3619.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5079817095616769,
+      "sample_std": 0.18632367550226506
+    },
+    {
+      "feature_id": "IMG_8450:176",
+      "b1_row": 176,
+      "candidate_index": 4639,
+      "working_xy": [
+        698.0,
+        1522.0
+      ],
+      "original_xy": [
+        1759.72,
+        3836.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2702804463507082,
+      "sample_std": 0.15427991277387046
+    },
+    {
+      "feature_id": "IMG_8450:177",
+      "b1_row": 177,
+      "candidate_index": 2685,
+      "working_xy": [
+        728.0,
+        1148.0
+      ],
+      "original_xy": [
+        1835.32,
+        2893.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3334105225463837,
+      "sample_std": 0.10855916159159923
+    },
+    {
+      "feature_id": "IMG_8450:178",
+      "b1_row": 178,
+      "candidate_index": 2811,
+      "working_xy": [
+        853.0,
+        1170.0
+      ],
+      "original_xy": [
+        2150.32,
+        2949.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3048159716847121,
+      "sample_std": 0.14861739996153403
+    },
+    {
+      "feature_id": "IMG_8450:179",
+      "b1_row": 179,
+      "candidate_index": 1331,
+      "working_xy": [
+        93.0,
+        846.0
+      ],
+      "original_xy": [
+        235.12,
+        2132.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7218750689511967,
+      "sample_std": 0.13489163119568565
+    },
+    {
+      "feature_id": "IMG_8450:180",
+      "b1_row": 180,
+      "candidate_index": 1103,
+      "working_xy": [
+        702.0,
+        787.0
+      ],
+      "original_xy": [
+        1769.8,
+        1984.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7485894960616087,
+      "sample_std": 0.026786800260239964
+    },
+    {
+      "feature_id": "IMG_8450:181",
+      "b1_row": 181,
+      "candidate_index": 4459,
+      "working_xy": [
+        643.0,
+        1481.0
+      ],
+      "original_xy": [
+        1621.12,
+        3732.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.24699929864498227,
+      "sample_std": 0.04947558550956777
+    },
+    {
+      "feature_id": "IMG_8450:182",
+      "b1_row": 182,
+      "candidate_index": 2138,
+      "working_xy": [
+        557.0,
+        1000.0
+      ],
+      "original_xy": [
+        1404.4,
+        2520.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6220347349382366,
+      "sample_std": 0.07978775622074252
+    },
+    {
+      "feature_id": "IMG_8450:183",
+      "b1_row": 183,
+      "candidate_index": 934,
+      "working_xy": [
+        141.0,
+        732.0
+      ],
+      "original_xy": [
+        356.08,
+        1845.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6434772765356556,
+      "sample_std": 0.11674314017506852
+    },
+    {
+      "feature_id": "IMG_8450:184",
+      "b1_row": 184,
+      "candidate_index": 910,
+      "working_xy": [
+        262.0,
+        722.0
+      ],
+      "original_xy": [
+        661.0,
+        1820.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6116735936201723,
+      "sample_std": 0.08153119575315333
+    },
+    {
+      "feature_id": "IMG_8450:185",
+      "b1_row": 185,
+      "candidate_index": 850,
+      "working_xy": [
+        719.0,
+        699.0
+      ],
+      "original_xy": [
+        1812.64,
+        1762.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7353228660799872,
+      "sample_std": 0.024745114448783162
+    },
+    {
+      "feature_id": "IMG_8450:186",
+      "b1_row": 186,
+      "candidate_index": 1134,
+      "working_xy": [
+        30.0,
+        797.0
+      ],
+      "original_xy": [
+        76.36,
+        2009.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7664005856180117,
+      "sample_std": 0.14651974796898448
+    },
+    {
+      "feature_id": "IMG_8450:187",
+      "b1_row": 187,
+      "candidate_index": 1587,
+      "working_xy": [
+        1033.0,
+        900.0
+      ],
+      "original_xy": [
+        2603.92,
+        2268.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.47820867075719714,
+      "sample_std": 0.17836264903705604
+    },
+    {
+      "feature_id": "IMG_8450:188",
+      "b1_row": 188,
+      "candidate_index": 3874,
+      "working_xy": [
+        1104.0,
+        1351.0
+      ],
+      "original_xy": [
+        2782.84,
+        3405.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5607343865901095,
+      "sample_std": 0.08196312324445021
+    },
+    {
+      "feature_id": "IMG_8450:189",
+      "b1_row": 189,
+      "candidate_index": 1601,
+      "working_xy": [
+        417.0,
+        904.0
+      ],
+      "original_xy": [
+        1051.6,
+        2278.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7363936051282255,
+      "sample_std": 0.1086802756099886
+    },
+    {
+      "feature_id": "IMG_8450:190",
+      "b1_row": 190,
+      "candidate_index": 3062,
+      "working_xy": [
+        368.0,
+        1222.0
+      ],
+      "original_xy": [
+        928.12,
+        3080.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.35659953587223914,
+      "sample_std": 0.0586369429348013
+    },
+    {
+      "feature_id": "IMG_8450:191",
+      "b1_row": 191,
+      "candidate_index": 860,
+      "working_xy": [
+        418.0,
+        707.0
+      ],
+      "original_xy": [
+        1054.12,
+        1782.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6767393560239112,
+      "sample_std": 0.1319853121274109
+    },
+    {
+      "feature_id": "IMG_8450:192",
+      "b1_row": 192,
+      "candidate_index": 793,
+      "working_xy": [
+        649.0,
+        686.0
+      ],
+      "original_xy": [
+        1636.24,
+        1729.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7112232741104876,
+      "sample_std": 0.05633878778700516
+    },
+    {
+      "feature_id": "IMG_8450:193",
+      "b1_row": 193,
+      "candidate_index": 928,
+      "working_xy": [
+        141.0,
+        730.0
+      ],
+      "original_xy": [
+        356.08,
+        1840.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6351800693492446,
+      "sample_std": 0.11236354684762825
+    },
+    {
+      "feature_id": "IMG_8450:194",
+      "b1_row": 194,
+      "candidate_index": 4424,
+      "working_xy": [
+        962.0,
+        1472.0
+      ],
+      "original_xy": [
+        2425.0,
+        3710.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4448720685782659,
+      "sample_std": 0.08898532077141899
+    },
+    {
+      "feature_id": "IMG_8450:195",
+      "b1_row": 195,
+      "candidate_index": 254,
+      "working_xy": [
+        81.0,
+        441.0
+      ],
+      "original_xy": [
+        204.88,
+        1112.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6853255396748074,
+      "sample_std": 0.054553081588187474
+    },
+    {
+      "feature_id": "IMG_8450:196",
+      "b1_row": 196,
+      "candidate_index": 4522,
+      "working_xy": [
+        442.0,
+        1496.0
+      ],
+      "original_xy": [
+        1114.6,
+        3770.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.18039927604997794,
+      "sample_std": 0.050886935934515494
+    },
+    {
+      "feature_id": "IMG_8450:197",
+      "b1_row": 197,
+      "candidate_index": 3972,
+      "working_xy": [
+        681.0,
+        1360.0
+      ],
+      "original_xy": [
+        1716.88,
+        3427.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.600999384184251,
+      "sample_std": 0.1493286345691817
+    },
+    {
+      "feature_id": "IMG_8450:198",
+      "b1_row": 198,
+      "candidate_index": 864,
+      "working_xy": [
+        772.0,
+        708.0
+      ],
+      "original_xy": [
+        1946.2,
+        1784.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7404608349281412,
+      "sample_std": 0.024096928482510053
+    },
+    {
+      "feature_id": "IMG_8450:199",
+      "b1_row": 199,
+      "candidate_index": 1508,
+      "working_xy": [
+        740.0,
+        882.0
+      ],
+      "original_xy": [
+        1865.56,
+        2223.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7550764876350791,
+      "sample_std": 0.020742281139647715
+    },
+    {
+      "feature_id": "IMG_8450:200",
+      "b1_row": 200,
+      "candidate_index": 3167,
+      "working_xy": [
+        710.0,
+        1247.0
+      ],
+      "original_xy": [
+        1789.96,
+        3143.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.49356803075397004,
+      "sample_std": 0.14511625242327944
+    },
+    {
+      "feature_id": "IMG_8450:201",
+      "b1_row": 201,
+      "candidate_index": 215,
+      "working_xy": [
+        769.0,
+        353.0
+      ],
+      "original_xy": [
+        1938.64,
+        890.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7291972752939518,
+      "sample_std": 0.030675496498397056
+    },
+    {
+      "feature_id": "IMG_8450:202",
+      "b1_row": 202,
+      "candidate_index": 265,
+      "working_xy": [
+        819.0,
+        452.0
+      ],
+      "original_xy": [
+        2064.64,
+        1139.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7452131822908018,
+      "sample_std": 0.030015723530732296
+    },
+    {
+      "feature_id": "IMG_8450:203",
+      "b1_row": 203,
+      "candidate_index": 893,
+      "working_xy": [
+        207.0,
+        716.0
+      ],
+      "original_xy": [
+        522.4,
+        1805.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6100214810900977,
+      "sample_std": 0.05363255050642074
+    },
+    {
+      "feature_id": "IMG_8450:204",
+      "b1_row": 204,
+      "candidate_index": 689,
+      "working_xy": [
+        466.0,
+        655.0
+      ],
+      "original_xy": [
+        1175.08,
+        1651.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5186098820131199,
+      "sample_std": 0.12106381594505176
+    },
+    {
+      "feature_id": "IMG_8450:205",
+      "b1_row": 205,
+      "candidate_index": 4386,
+      "working_xy": [
+        28.0,
+        1461.0
+      ],
+      "original_xy": [
+        71.32,
+        3682.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5762771068612756,
+      "sample_std": 0.22033630830057283
+    },
+    {
+      "feature_id": "IMG_8450:206",
+      "b1_row": 206,
+      "candidate_index": 382,
+      "working_xy": [
+        803.0,
+        536.0
+      ],
+      "original_xy": [
+        2024.32,
+        1351.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7551882205559024,
+      "sample_std": 0.02619904415791523
+    },
+    {
+      "feature_id": "IMG_8450:207",
+      "b1_row": 207,
+      "candidate_index": 777,
+      "working_xy": [
+        1120.0,
+        682.0
+      ],
+      "original_xy": [
+        2823.16,
+        1719.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7729642151504845,
+      "sample_std": 0.0345566341612325
+    },
+    {
+      "feature_id": "IMG_8450:208",
+      "b1_row": 208,
+      "candidate_index": 324,
+      "working_xy": [
+        916.0,
+        506.0
+      ],
+      "original_xy": [
+        2309.08,
+        1275.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.606812016745516,
+      "sample_std": 0.165095547252287
+    },
+    {
+      "feature_id": "IMG_8450:209",
+      "b1_row": 209,
+      "candidate_index": 1543,
+      "working_xy": [
+        793.0,
+        889.0
+      ],
+      "original_xy": [
+        1999.12,
+        2241.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7545680322389464,
+      "sample_std": 0.02433874005471853
+    },
+    {
+      "feature_id": "IMG_8450:210",
+      "b1_row": 210,
+      "candidate_index": 630,
+      "working_xy": [
+        840.0,
+        630.0
+      ],
+      "original_xy": [
+        2117.56,
+        1588.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7551336503565186,
+      "sample_std": 0.028603555613462648
+    },
+    {
+      "feature_id": "IMG_8450:211",
+      "b1_row": 211,
+      "candidate_index": 3047,
+      "working_xy": [
+        361.0,
+        1220.0
+      ],
+      "original_xy": [
+        910.48,
+        3075.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.35293175548111494,
+      "sample_std": 0.06722966763104672
+    },
+    {
+      "feature_id": "IMG_8450:212",
+      "b1_row": 212,
+      "candidate_index": 242,
+      "working_xy": [
+        31.0,
+        425.0
+      ],
+      "original_xy": [
+        78.88,
+        1071.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6693158157371861,
+      "sample_std": 0.0841761005548152
+    },
+    {
+      "feature_id": "IMG_8450:213",
+      "b1_row": 213,
+      "candidate_index": 609,
+      "working_xy": [
+        160.0,
+        622.0
+      ],
+      "original_xy": [
+        403.96,
+        1568.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6286707746930839,
+      "sample_std": 0.14756688299028428
+    },
+    {
+      "feature_id": "IMG_8450:214",
+      "b1_row": 214,
+      "candidate_index": 919,
+      "working_xy": [
+        876.0,
+        725.0
+      ],
+      "original_xy": [
+        2208.28,
+        1827.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7461320308882808,
+      "sample_std": 0.03289171287980322
+    },
+    {
+      "feature_id": "IMG_8450:215",
+      "b1_row": 215,
+      "candidate_index": 3072,
+      "working_xy": [
+        364.0,
+        1224.0
+      ],
+      "original_xy": [
+        918.04,
+        3085.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3557045904860115,
+      "sample_std": 0.059035659966848855
+    },
+    {
+      "feature_id": "IMG_8450:216",
+      "b1_row": 216,
+      "candidate_index": 227,
+      "working_xy": [
+        936.0,
+        390.0
+      ],
+      "original_xy": [
+        2359.48,
+        983.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7521809409234463,
+      "sample_std": 0.031607126808258924
+    },
+    {
+      "feature_id": "IMG_8450:217",
+      "b1_row": 217,
+      "candidate_index": 2080,
+      "working_xy": [
+        558.0,
+        991.0
+      ],
+      "original_xy": [
+        1406.92,
+        2498.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5985177081554114,
+      "sample_std": 0.07647247712935289
+    },
+    {
+      "feature_id": "IMG_8450:218",
+      "b1_row": 218,
+      "candidate_index": 225,
+      "working_xy": [
+        886.0,
+        379.0
+      ],
+      "original_xy": [
+        2233.48,
+        955.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7526713731922966,
+      "sample_std": 0.03926211648447747
+    },
+    {
+      "feature_id": "IMG_8450:219",
+      "b1_row": 219,
+      "candidate_index": 3127,
+      "working_xy": [
+        1122.0,
+        1238.0
+      ],
+      "original_xy": [
+        2828.2,
+        3120.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.493731661450746,
+      "sample_std": 0.0988673856755791
+    },
+    {
+      "feature_id": "IMG_8450:220",
+      "b1_row": 220,
+      "candidate_index": 322,
+      "working_xy": [
+        25.0,
+        505.0
+      ],
+      "original_xy": [
+        63.760000000000005,
+        1273.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6349269576665236,
+      "sample_std": 0.1341812784597521
+    },
+    {
+      "feature_id": "IMG_8450:221",
+      "b1_row": 221,
+      "candidate_index": 944,
+      "working_xy": [
+        926.0,
+        733.0
+      ],
+      "original_xy": [
+        2334.28,
+        1847.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6704490552687333,
+      "sample_std": 0.046217942310921814
+    },
+    {
+      "feature_id": "IMG_8450:222",
+      "b1_row": 222,
+      "candidate_index": 2422,
+      "working_xy": [
+        708.0,
+        1060.0
+      ],
+      "original_xy": [
+        1784.92,
+        2671.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7694297190119913,
+      "sample_std": 0.07109976205925686
+    },
+    {
+      "feature_id": "IMG_8450:223",
+      "b1_row": 223,
+      "candidate_index": 754,
+      "working_xy": [
+        25.0,
+        676.0
+      ],
+      "original_xy": [
+        63.760000000000005,
+        1704.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6961656864861335,
+      "sample_std": 0.12917018593740998
+    },
+    {
+      "feature_id": "IMG_8450:224",
+      "b1_row": 224,
+      "candidate_index": 4183,
+      "working_xy": [
+        1097.0,
+        1405.0
+      ],
+      "original_xy": [
+        2765.2,
+        3541.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5974114097459602,
+      "sample_std": 0.06635302133367904
+    },
+    {
+      "feature_id": "IMG_8450:225",
+      "b1_row": 225,
+      "candidate_index": 4382,
+      "working_xy": [
+        903.0,
+        1459.0
+      ],
+      "original_xy": [
+        2276.32,
+        3677.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.327099061526662,
+      "sample_std": 0.15185727911924002
+    },
+    {
+      "feature_id": "IMG_8450:226",
+      "b1_row": 226,
+      "candidate_index": 3199,
+      "working_xy": [
+        222.0,
+        1253.0
+      ],
+      "original_xy": [
+        560.2,
+        3158.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.307473049252169,
+      "sample_std": 0.041055566163108854
+    },
+    {
+      "feature_id": "IMG_8450:227",
+      "b1_row": 227,
+      "candidate_index": 676,
+      "working_xy": [
+        929.0,
+        649.0
+      ],
+      "original_xy": [
+        2341.84,
+        1636.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.726002997978861,
+      "sample_std": 0.03300801977862819
+    },
+    {
+      "feature_id": "IMG_8450:228",
+      "b1_row": 228,
+      "candidate_index": 403,
+      "working_xy": [
+        136.0,
+        544.0
+      ],
+      "original_xy": [
+        343.48,
+        1371.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6246267310710784,
+      "sample_std": 0.154510373520749
+    },
+    {
+      "feature_id": "IMG_8450:229",
+      "b1_row": 229,
+      "candidate_index": 832,
+      "working_xy": [
+        497.0,
+        696.0
+      ],
+      "original_xy": [
+        1253.2,
+        1754.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.524974828424777,
+      "sample_std": 0.14526121094681033
+    },
+    {
+      "feature_id": "IMG_8450:230",
+      "b1_row": 230,
+      "candidate_index": 989,
+      "working_xy": [
+        300.0,
+        747.0
+      ],
+      "original_xy": [
+        756.76,
+        1883.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6827223227119524,
+      "sample_std": 0.07119555342269962
+    },
+    {
+      "feature_id": "IMG_8450:231",
+      "b1_row": 231,
+      "candidate_index": 541,
+      "working_xy": [
+        388.0,
+        588.0
+      ],
+      "original_xy": [
+        978.52,
+        1482.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7418462130849013,
+      "sample_std": 0.10353840586454958
+    },
+    {
+      "feature_id": "IMG_8450:232",
+      "b1_row": 232,
+      "candidate_index": 177,
+      "working_xy": [
+        1006.0,
+        297.0
+      ],
+      "original_xy": [
+        2535.88,
+        749.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4913070576188202,
+      "sample_std": 0.14075668693611124
+    },
+    {
+      "feature_id": "IMG_8450:233",
+      "b1_row": 233,
+      "candidate_index": 974,
+      "working_xy": [
+        976.0,
+        741.0
+      ],
+      "original_xy": [
+        2460.28,
+        1868.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7625755496968033,
+      "sample_std": 0.021836612341017945
+    },
+    {
+      "feature_id": "IMG_8450:234",
+      "b1_row": 234,
+      "candidate_index": 2499,
+      "working_xy": [
+        562.0,
+        1096.0
+      ],
+      "original_xy": [
+        1417.0,
+        2762.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.27010190523920913,
+      "sample_std": 0.07277024579829575
+    },
+    {
+      "feature_id": "IMG_8450:235",
+      "b1_row": 235,
+      "candidate_index": 4305,
+      "working_xy": [
+        854.0,
+        1438.0
+      ],
+      "original_xy": [
+        2152.84,
+        3624.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4822053667904358,
+      "sample_std": 0.15841228093033197
+    },
+    {
+      "feature_id": "IMG_8450:236",
+      "b1_row": 236,
+      "candidate_index": 4692,
+      "working_xy": [
+        975.0,
+        1532.0
+      ],
+      "original_xy": [
+        2457.76,
+        3861.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4451070270968987,
+      "sample_std": 0.06743020094701895
+    },
+    {
+      "feature_id": "IMG_8450:237",
+      "b1_row": 237,
+      "candidate_index": 229,
+      "working_xy": [
+        986.0,
+        402.0
+      ],
+      "original_xy": [
+        2485.48,
+        1013.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7605269362101331,
+      "sample_std": 0.027142249427069227
+    },
+    {
+      "feature_id": "IMG_8450:238",
+      "b1_row": 238,
+      "candidate_index": 2324,
+      "working_xy": [
+        211.0,
+        1035.0
+      ],
+      "original_xy": [
+        532.48,
+        2608.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6220041751248209,
+      "sample_std": 0.04799129050685242
+    },
+    {
+      "feature_id": "IMG_8450:239",
+      "b1_row": 239,
+      "candidate_index": 1749,
+      "working_xy": [
+        93.0,
+        933.0
+      ],
+      "original_xy": [
+        235.12,
+        2351.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7133331903994823,
+      "sample_std": 0.14178330297718628
+    },
+    {
+      "feature_id": "IMG_8450:240",
+      "b1_row": 240,
+      "candidate_index": 3546,
+      "working_xy": [
+        258.0,
+        1310.0
+      ],
+      "original_xy": [
+        650.92,
+        3301.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5411833317876977,
+      "sample_std": 0.215159130843818
+    },
+    {
+      "feature_id": "IMG_8450:241",
+      "b1_row": 241,
+      "candidate_index": 4578,
+      "working_xy": [
+        729.0,
+        1508.0
+      ],
+      "original_xy": [
+        1837.84,
+        3800.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.21801840514690332,
+      "sample_std": 0.11572934245400011
+    },
+    {
+      "feature_id": "IMG_8450:242",
+      "b1_row": 242,
+      "candidate_index": 2912,
+      "working_xy": [
+        409.0,
+        1192.0
+      ],
+      "original_xy": [
+        1031.44,
+        3004.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3673685113246181,
+      "sample_std": 0.06889489771113874
+    },
+    {
+      "feature_id": "IMG_8450:243",
+      "b1_row": 243,
+      "candidate_index": 2591,
+      "working_xy": [
+        121.0,
+        1125.0
+      ],
+      "original_xy": [
+        305.68,
+        2835.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.28619146666022705,
+      "sample_std": 0.10339383135790584
+    },
+    {
+      "feature_id": "IMG_8450:244",
+      "b1_row": 244,
+      "candidate_index": 2402,
+      "working_xy": [
+        25.0,
+        1055.0
+      ],
+      "original_xy": [
+        63.760000000000005,
+        2659.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6006574532311271,
+      "sample_std": 0.07533230551353023
+    },
+    {
+      "feature_id": "IMG_8450:245",
+      "b1_row": 245,
+      "candidate_index": 4605,
+      "working_xy": [
+        994.0,
+        1513.0
+      ],
+      "original_xy": [
+        2505.64,
+        3813.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5145285576824787,
+      "sample_std": 0.11142638924065926
+    },
+    {
+      "feature_id": "IMG_8450:246",
+      "b1_row": 246,
+      "candidate_index": 4179,
+      "working_xy": [
+        1096.0,
+        1403.0
+      ],
+      "original_xy": [
+        2762.68,
+        3536.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.599771726544168,
+      "sample_std": 0.069538237626167
+    },
+    {
+      "feature_id": "IMG_8450:247",
+      "b1_row": 247,
+      "candidate_index": 429,
+      "working_xy": [
+        279.0,
+        551.0
+      ],
+      "original_xy": [
+        703.84,
+        1389.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6996522417244879,
+      "sample_std": 0.0771273337541828
+    },
+    {
+      "feature_id": "IMG_8450:248",
+      "b1_row": 248,
+      "candidate_index": 590,
+      "working_xy": [
+        735.0,
+        612.0
+      ],
+      "original_xy": [
+        1852.96,
+        1543.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7242760331287063,
+      "sample_std": 0.030381223241786746
+    },
+    {
+      "feature_id": "IMG_8450:249",
+      "b1_row": 249,
+      "candidate_index": 3260,
+      "working_xy": [
+        1075.0,
+        1261.0
+      ],
+      "original_xy": [
+        2709.76,
+        3178.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.48670492196468446,
+      "sample_std": 0.1422089389871054
+    },
+    {
+      "feature_id": "IMG_8450:250",
+      "b1_row": 250,
+      "candidate_index": 1569,
+      "working_xy": [
+        651.0,
+        897.0
+      ],
+      "original_xy": [
+        1641.28,
+        2261.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7045611267666008,
+      "sample_std": 0.07734539232807282
+    },
+    {
+      "feature_id": "IMG_8450:251",
+      "b1_row": 251,
+      "candidate_index": 1735,
+      "working_xy": [
+        555.0,
+        930.0
+      ],
+      "original_xy": [
+        1399.36,
+        2344.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5134918754035658,
+      "sample_std": 0.10652809438119318
+    },
+    {
+      "feature_id": "IMG_8450:252",
+      "b1_row": 252,
+      "candidate_index": 1032,
+      "working_xy": [
+        358.0,
+        759.0
+      ],
+      "original_xy": [
+        902.92,
+        1913.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5805248257949127,
+      "sample_std": 0.11558045502110857
+    },
+    {
+      "feature_id": "IMG_8450:253",
+      "b1_row": 253,
+      "candidate_index": 567,
+      "working_xy": [
+        681.0,
+        603.0
+      ],
+      "original_xy": [
+        1716.88,
+        1520.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7311565775444356,
+      "sample_std": 0.03398083866815601
+    },
+    {
+      "feature_id": "IMG_8450:254",
+      "b1_row": 254,
+      "candidate_index": 190,
+      "working_xy": [
+        988.0,
+        318.0
+      ],
+      "original_xy": [
+        2490.52,
+        802.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6202642230770166,
+      "sample_std": 0.16602783077672376
+    },
+    {
+      "feature_id": "IMG_8450:255",
+      "b1_row": 255,
+      "candidate_index": 2008,
+      "working_xy": [
+        830.0,
+        982.0
+      ],
+      "original_xy": [
+        2092.36,
+        2475.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7548682321240683,
+      "sample_std": 0.022775873242387657
+    },
+    {
+      "feature_id": "IMG_8450:256",
+      "b1_row": 256,
+      "candidate_index": 3362,
+      "working_xy": [
+        924.0,
+        1281.0
+      ],
+      "original_xy": [
+        2329.24,
+        3228.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3122997476952037,
+      "sample_std": 0.07894541762401402
+    },
+    {
+      "feature_id": "IMG_8450:257",
+      "b1_row": 257,
+      "candidate_index": 4637,
+      "working_xy": [
+        56.0,
+        1522.0
+      ],
+      "original_xy": [
+        141.88,
+        3836.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.26401722072696626,
+      "sample_std": 0.1950668972591317
+    },
+    {
+      "feature_id": "IMG_8450:258",
+      "b1_row": 258,
+      "candidate_index": 700,
+      "working_xy": [
+        991.0,
+        658.0
+      ],
+      "original_xy": [
+        2498.08,
+        1658.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7580373414037489,
+      "sample_std": 0.01984183142725027
+    },
+    {
+      "feature_id": "IMG_8450:259",
+      "b1_row": 259,
+      "candidate_index": 1104,
+      "working_xy": [
+        209.0,
+        788.0
+      ],
+      "original_xy": [
+        527.44,
+        1986.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.65985100731383,
+      "sample_std": 0.06834512601984231
+    },
+    {
+      "feature_id": "IMG_8450:260",
+      "b1_row": 260,
+      "candidate_index": 1555,
+      "working_xy": [
+        1033.0,
+        891.0
+      ],
+      "original_xy": [
+        2603.92,
+        2246.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.49247191864074735,
+      "sample_std": 0.17944772169072615
+    },
+    {
+      "feature_id": "IMG_8450:261",
+      "b1_row": 261,
+      "candidate_index": 1325,
+      "working_xy": [
+        461.0,
+        844.0
+      ],
+      "original_xy": [
+        1162.48,
+        2127.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4330751660505344,
+      "sample_std": 0.1700741198914783
+    },
+    {
+      "feature_id": "IMG_8450:262",
+      "b1_row": 262,
+      "candidate_index": 598,
+      "working_xy": [
+        153.0,
+        616.0
+      ],
+      "original_xy": [
+        386.32,
+        1553.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6879590348563315,
+      "sample_std": 0.13787943752489273
+    },
+    {
+      "feature_id": "IMG_8450:263",
+      "b1_row": 263,
+      "candidate_index": 4747,
+      "working_xy": [
+        154.0,
+        1543.0
+      ],
+      "original_xy": [
+        388.84,
+        3889.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.15916921285851166,
+      "sample_std": 0.02376727412496099
+    },
+    {
+      "feature_id": "IMG_8450:264",
+      "b1_row": 264,
+      "candidate_index": 4730,
+      "working_xy": [
+        763.0,
+        1539.0
+      ],
+      "original_xy": [
+        1923.52,
+        3879.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.24341154673357226,
+      "sample_std": 0.12063368899939636
+    },
+    {
+      "feature_id": "IMG_8450:265",
+      "b1_row": 265,
+      "candidate_index": 2048,
+      "working_xy": [
+        1033.0,
+        987.0
+      ],
+      "original_xy": [
+        2603.92,
+        2488.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3949411135407005,
+      "sample_std": 0.03041194425109284
+    },
+    {
+      "feature_id": "IMG_8450:266",
+      "b1_row": 266,
+      "candidate_index": 4846,
+      "working_xy": [
+        330.0,
+        1559.0
+      ],
+      "original_xy": [
+        832.36,
+        3929.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.27161517704648375,
+      "sample_std": 0.05337978718961678
+    },
+    {
+      "feature_id": "IMG_8450:267",
+      "b1_row": 267,
+      "candidate_index": 2599,
+      "working_xy": [
+        118.0,
+        1127.0
+      ],
+      "original_xy": [
+        298.12,
+        2840.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.29870737697193445,
+      "sample_std": 0.10413330181494461
+    },
+    {
+      "feature_id": "IMG_8450:268",
+      "b1_row": 268,
+      "candidate_index": 187,
+      "working_xy": [
+        1071.0,
+        310.0
+      ],
+      "original_xy": [
+        2699.68,
+        781.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4221507015356476,
+      "sample_std": 0.10082268427974245
+    },
+    {
+      "feature_id": "IMG_8450:269",
+      "b1_row": 269,
+      "candidate_index": 721,
+      "working_xy": [
+        1039.0,
+        667.0
+      ],
+      "original_xy": [
+        2619.04,
+        1681.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7770564554598771,
+      "sample_std": 0.026831441414996746
+    },
+    {
+      "feature_id": "IMG_8450:270",
+      "b1_row": 270,
+      "candidate_index": 915,
+      "working_xy": [
+        96.0,
+        724.0
+      ],
+      "original_xy": [
+        242.68,
+        1825.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.692385759860028,
+      "sample_std": 0.12219166706970591
+    },
+    {
+      "feature_id": "IMG_8450:271",
+      "b1_row": 271,
+      "candidate_index": 99,
+      "working_xy": [
+        851.0,
+        245.0
+      ],
+      "original_xy": [
+        2145.28,
+        618.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6470320594898101,
+      "sample_std": 0.1642360806746504
+    },
+    {
+      "feature_id": "IMG_8450:272",
+      "b1_row": 272,
+      "candidate_index": 4975,
+      "working_xy": [
+        847.0,
+        1575.0
+      ],
+      "original_xy": [
+        2135.2,
+        3969.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.37445157551404784,
+      "sample_std": 0.16662471390053896
+    },
+    {
+      "feature_id": "IMG_8450:273",
+      "b1_row": 273,
+      "candidate_index": 6,
+      "working_xy": [
+        1138.0,
+        162.0
+      ],
+      "original_xy": [
+        2868.52,
+        409.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.525407691399413,
+      "sample_std": 0.2665377819548504
+    },
+    {
+      "feature_id": "IMG_8450:274",
+      "b1_row": 274,
+      "candidate_index": 2448,
+      "working_xy": [
+        143.0,
+        1071.0
+      ],
+      "original_xy": [
+        361.12,
+        2699.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5833954796724148,
+      "sample_std": 0.08914731381153407
+    },
+    {
+      "feature_id": "IMG_8450:275",
+      "b1_row": 275,
+      "candidate_index": 4177,
+      "working_xy": [
+        1019.0,
+        1403.0
+      ],
+      "original_xy": [
+        2568.64,
+        3536.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5909819676788545,
+      "sample_std": 0.07568156288184265
+    },
+    {
+      "feature_id": "IMG_8450:276",
+      "b1_row": 276,
+      "candidate_index": 2409,
+      "working_xy": [
+        363.0,
+        1057.0
+      ],
+      "original_xy": [
+        915.52,
+        2664.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6476231002473717,
+      "sample_std": 0.14475197847066093
+    },
+    {
+      "feature_id": "IMG_8450:277",
+      "b1_row": 277,
+      "candidate_index": 157,
+      "working_xy": [
+        221.0,
+        279.0
+      ],
+      "original_xy": [
+        557.68,
+        703.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.1665780309165905,
+      "sample_std": 0.04110926738293255
+    },
+    {
+      "feature_id": "IMG_8450:278",
+      "b1_row": 278,
+      "candidate_index": 3033,
+      "working_xy": [
+        248.0,
+        1217.0
+      ],
+      "original_xy": [
+        625.72,
+        3067.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3163075078185051,
+      "sample_std": 0.056040314825600984
+    },
+    {
+      "feature_id": "IMG_8450:279",
+      "b1_row": 279,
+      "candidate_index": 1053,
+      "working_xy": [
+        458.0,
+        770.0
+      ],
+      "original_xy": [
+        1154.92,
+        1941.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.41288201841234823,
+      "sample_std": 0.10395050770002152
+    },
+    {
+      "feature_id": "IMG_8450:280",
+      "b1_row": 280,
+      "candidate_index": 753,
+      "working_xy": [
+        1086.0,
+        675.0
+      ],
+      "original_xy": [
+        2737.48,
+        1701.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7812277621093527,
+      "sample_std": 0.02703167378699313
+    },
+    {
+      "feature_id": "IMG_8450:281",
+      "b1_row": 281,
+      "candidate_index": 2306,
+      "working_xy": [
+        462.0,
+        1032.0
+      ],
+      "original_xy": [
+        1165.0,
+        2601.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6797311631308027,
+      "sample_std": 0.12180685824818925
+    },
+    {
+      "feature_id": "IMG_8450:282",
+      "b1_row": 282,
+      "candidate_index": 472,
+      "working_xy": [
+        1072.0,
+        561.0
+      ],
+      "original_xy": [
+        2702.2,
+        1414.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.570520254484715,
+      "sample_std": 0.22485974452709562
+    },
+    {
+      "feature_id": "IMG_8450:283",
+      "b1_row": 283,
+      "candidate_index": 2968,
+      "working_xy": [
+        74.0,
+        1205.0
+      ],
+      "original_xy": [
+        187.24,
+        3037.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3396585748563504,
+      "sample_std": 0.08938800009126398
+    },
+    {
+      "feature_id": "IMG_8450:284",
+      "b1_row": 284,
+      "candidate_index": 2512,
+      "working_xy": [
+        628.0,
+        1103.0
+      ],
+      "original_xy": [
+        1583.32,
+        2780.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3520000844505492,
+      "sample_std": 0.053524566090000725
+    },
+    {
+      "feature_id": "IMG_8450:285",
+      "b1_row": 285,
+      "candidate_index": 2410,
+      "working_xy": [
+        924.0,
+        1057.0
+      ],
+      "original_xy": [
+        2329.24,
+        2664.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5528037809028709,
+      "sample_std": 0.11698037385948165
+    },
+    {
+      "feature_id": "IMG_8450:286",
+      "b1_row": 286,
+      "candidate_index": 2417,
+      "working_xy": [
+        930.0,
+        1059.0
+      ],
+      "original_xy": [
+        2344.36,
+        2669.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5044263255571194,
+      "sample_std": 0.10071237377392095
+    },
+    {
+      "feature_id": "IMG_8450:287",
+      "b1_row": 287,
+      "candidate_index": 831,
+      "working_xy": [
+        491.0,
+        696.0
+      ],
+      "original_xy": [
+        1238.08,
+        1754.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5574557049012059,
+      "sample_std": 0.1300865341344554
+    },
+    {
+      "feature_id": "IMG_8450:288",
+      "b1_row": 288,
+      "candidate_index": 3489,
+      "working_xy": [
+        883.0,
+        1299.0
+      ],
+      "original_xy": [
+        2225.92,
+        3274.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2922373582439118,
+      "sample_std": 0.07663128184328513
+    },
+    {
+      "feature_id": "IMG_8450:289",
+      "b1_row": 289,
+      "candidate_index": 2019,
+      "working_xy": [
+        309.0,
+        984.0
+      ],
+      "original_xy": [
+        779.44,
+        2480.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5692352279755845,
+      "sample_std": 0.06171663600370051
+    },
+    {
+      "feature_id": "IMG_8450:290",
+      "b1_row": 290,
+      "candidate_index": 3811,
+      "working_xy": [
+        332.0,
+        1344.0
+      ],
+      "original_xy": [
+        837.4,
+        3387.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5138846342041938,
+      "sample_std": 0.17268071461559553
+    },
+    {
+      "feature_id": "IMG_8450:291",
+      "b1_row": 291,
+      "candidate_index": 987,
+      "working_xy": [
+        297.0,
+        746.0
+      ],
+      "original_xy": [
+        749.2,
+        1880.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6870153174413725,
+      "sample_std": 0.06957956364976359
+    },
+    {
+      "feature_id": "IMG_8450:292",
+      "b1_row": 292,
+      "candidate_index": 3751,
+      "working_xy": [
+        931.0,
+        1337.0
+      ],
+      "original_xy": [
+        2346.88,
+        3370.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.32273656479820895,
+      "sample_std": 0.09320757097646012
+    },
+    {
+      "feature_id": "IMG_8450:293",
+      "b1_row": 293,
+      "candidate_index": 392,
+      "working_xy": [
+        967.0,
+        540.0
+      ],
+      "original_xy": [
+        2437.6,
+        1361.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5225132463191865,
+      "sample_std": 0.15149021828092524
+    },
+    {
+      "feature_id": "IMG_8450:294",
+      "b1_row": 294,
+      "candidate_index": 2098,
+      "working_xy": [
+        933.0,
+        994.0
+      ],
+      "original_xy": [
+        2351.92,
+        2505.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6860593676222414,
+      "sample_std": 0.09950786213484392
+    },
+    {
+      "feature_id": "IMG_8450:295",
+      "b1_row": 295,
+      "candidate_index": 3775,
+      "working_xy": [
+        417.0,
+        1340.0
+      ],
+      "original_xy": [
+        1051.6,
+        3377.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5599203857205035,
+      "sample_std": 0.21160769550947425
+    },
+    {
+      "feature_id": "IMG_8450:296",
+      "b1_row": 296,
+      "candidate_index": 4855,
+      "working_xy": [
+        1096.0,
+        1560.0
+      ],
+      "original_xy": [
+        2762.68,
+        3931.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6473095519129736,
+      "sample_std": 0.1007942486156915
+    },
+    {
+      "feature_id": "IMG_8450:297",
+      "b1_row": 297,
+      "candidate_index": 4867,
+      "working_xy": [
+        685.0,
+        1562.0
+      ],
+      "original_xy": [
+        1726.96,
+        3937.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.27801397189662297,
+      "sample_std": 0.144642130799887
+    },
+    {
+      "feature_id": "IMG_8450:298",
+      "b1_row": 298,
+      "candidate_index": 606,
+      "working_xy": [
+        1054.0,
+        620.0
+      ],
+      "original_xy": [
+        2656.84,
+        1563.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6830858503870528,
+      "sample_std": 0.15466295582460018
+    },
+    {
+      "feature_id": "IMG_8450:299",
+      "b1_row": 299,
+      "candidate_index": 4186,
+      "working_xy": [
+        1018.0,
+        1406.0
+      ],
+      "original_xy": [
+        2566.12,
+        3543.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.589214666486265,
+      "sample_std": 0.06780337639135064
+    },
+    {
+      "feature_id": "IMG_8450:300",
+      "b1_row": 300,
+      "candidate_index": 1586,
+      "working_xy": [
+        893.0,
+        900.0
+      ],
+      "original_xy": [
+        2251.12,
+        2268.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5748578033787474,
+      "sample_std": 0.19187066840919836
+    },
+    {
+      "feature_id": "IMG_8450:301",
+      "b1_row": 301,
+      "candidate_index": 2878,
+      "working_xy": [
+        290.0,
+        1184.0
+      ],
+      "original_xy": [
+        731.56,
+        2984.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4084951085663828,
+      "sample_std": 0.12716721487460173
+    },
+    {
+      "feature_id": "IMG_8450:302",
+      "b1_row": 302,
+      "candidate_index": 4118,
+      "working_xy": [
+        126.0,
+        1384.0
+      ],
+      "original_xy": [
+        318.28,
+        3488.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.588049868770923,
+      "sample_std": 0.15952834099499333
+    },
+    {
+      "feature_id": "IMG_8450:303",
+      "b1_row": 303,
+      "candidate_index": 710,
+      "working_xy": [
+        555.0,
+        664.0
+      ],
+      "original_xy": [
+        1399.36,
+        1674.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4800080557869466,
+      "sample_std": 0.17323210369541361
+    },
+    {
+      "feature_id": "IMG_8450:304",
+      "b1_row": 304,
+      "candidate_index": 3324,
+      "working_xy": [
+        940.0,
+        1272.0
+      ],
+      "original_xy": [
+        2369.56,
+        3206.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.38156539428005937,
+      "sample_std": 0.09771684577549947
+    },
+    {
+      "feature_id": "IMG_8450:305",
+      "b1_row": 305,
+      "candidate_index": 565,
+      "working_xy": [
+        1134.0,
+        602.0
+      ],
+      "original_xy": [
+        2858.44,
+        1517.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.760916726793075,
+      "sample_std": 0.026087345754069374
+    },
+    {
+      "feature_id": "IMG_8450:306",
+      "b1_row": 306,
+      "candidate_index": 2379,
+      "working_xy": [
+        412.0,
+        1050.0
+      ],
+      "original_xy": [
+        1039.0,
+        2646.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.757072765695873,
+      "sample_std": 0.17467191527965692
+    },
+    {
+      "feature_id": "IMG_8450:307",
+      "b1_row": 307,
+      "candidate_index": 393,
+      "working_xy": [
+        969.0,
+        540.0
+      ],
+      "original_xy": [
+        2442.64,
+        1361.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.53408553798194,
+      "sample_std": 0.14708996357587698
+    },
+    {
+      "feature_id": "IMG_8450:308",
+      "b1_row": 308,
+      "candidate_index": 339,
+      "working_xy": [
+        698.0,
+        515.0
+      ],
+      "original_xy": [
+        1759.72,
+        1298.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.753900769380486,
+      "sample_std": 0.034264035970311274
+    },
+    {
+      "feature_id": "IMG_8450:309",
+      "b1_row": 309,
+      "candidate_index": 4920,
+      "working_xy": [
+        792.0,
+        1568.0
+      ],
+      "original_xy": [
+        1996.6,
+        3952.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3988241233926718,
+      "sample_std": 0.11534922661475071
+    },
+    {
+      "feature_id": "IMG_8450:310",
+      "b1_row": 310,
+      "candidate_index": 894,
+      "working_xy": [
+        339.0,
+        716.0
+      ],
+      "original_xy": [
+        855.04,
+        1805.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6362505851930933,
+      "sample_std": 0.10154317980460253
+    },
+    {
+      "feature_id": "IMG_8450:311",
+      "b1_row": 311,
+      "candidate_index": 3719,
+      "working_xy": [
+        546.0,
+        1334.0
+      ],
+      "original_xy": [
+        1376.68,
+        3362.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4312324527241589,
+      "sample_std": 0.17595303763726752
+    },
+    {
+      "feature_id": "IMG_8450:312",
+      "b1_row": 312,
+      "candidate_index": 3502,
+      "working_xy": [
+        971.0,
+        1301.0
+      ],
+      "original_xy": [
+        2447.68,
+        3279.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4000116102817092,
+      "sample_std": 0.06042473056313542
+    },
+    {
+      "feature_id": "IMG_8450:313",
+      "b1_row": 313,
+      "candidate_index": 582,
+      "working_xy": [
+        721.0,
+        610.0
+      ],
+      "original_xy": [
+        1817.68,
+        1537.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7259301119684209,
+      "sample_std": 0.03248077388731858
+    },
+    {
+      "feature_id": "IMG_8450:314",
+      "b1_row": 314,
+      "candidate_index": 346,
+      "working_xy": [
+        877.0,
+        518.0
+      ],
+      "original_xy": [
+        2210.8,
+        1306.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6482080323419803,
+      "sample_std": 0.15057840687450144
+    },
+    {
+      "feature_id": "IMG_8450:315",
+      "b1_row": 315,
+      "candidate_index": 2680,
+      "working_xy": [
+        491.0,
+        1148.0
+      ],
+      "original_xy": [
+        1238.08,
+        2893.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3728681142888237,
+      "sample_std": 0.03992185913283562
+    },
+    {
+      "feature_id": "IMG_8450:316",
+      "b1_row": 316,
+      "candidate_index": 1495,
+      "working_xy": [
+        726.0,
+        880.0
+      ],
+      "original_xy": [
+        1830.28,
+        2218.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.752463087986151,
+      "sample_std": 0.0243318049454784
+    },
+    {
+      "feature_id": "IMG_8450:317",
+      "b1_row": 317,
+      "candidate_index": 968,
+      "working_xy": [
+        557.0,
+        740.0
+      ],
+      "original_xy": [
+        1404.4,
+        1865.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5153234059135384,
+      "sample_std": 0.142196157589653
+    },
+    {
+      "feature_id": "IMG_8450:318",
+      "b1_row": 318,
+      "candidate_index": 4069,
+      "working_xy": [
+        1167.0,
+        1372.0
+      ],
+      "original_xy": [
+        2941.6,
+        3458.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3259092133517496,
+      "sample_std": 0.12001230657386798
+    },
+    {
+      "feature_id": "IMG_8450:319",
+      "b1_row": 319,
+      "candidate_index": 3457,
+      "working_xy": [
+        803.0,
+        1294.0
+      ],
+      "original_xy": [
+        2024.32,
+        3261.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2489908801007063,
+      "sample_std": 0.09534006241957829
+    },
+    {
+      "feature_id": "IMG_8450:320",
+      "b1_row": 320,
+      "candidate_index": 4746,
+      "working_xy": [
+        96.0,
+        1543.0
+      ],
+      "original_xy": [
+        242.68,
+        3889.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.23033744528026348,
+      "sample_std": 0.1349699108235657
+    },
+    {
+      "feature_id": "IMG_8450:321",
+      "b1_row": 321,
+      "candidate_index": 1571,
+      "working_xy": [
+        964.0,
+        897.0
+      ],
+      "original_xy": [
+        2430.04,
+        2261.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5605969836335262,
+      "sample_std": 0.09420953503226877
+    },
+    {
+      "feature_id": "IMG_8450:322",
+      "b1_row": 322,
+      "candidate_index": 1007,
+      "working_xy": [
+        418.0,
+        751.0
+      ],
+      "original_xy": [
+        1054.12,
+        1893.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6326304817964827,
+      "sample_std": 0.19203536098816013
+    },
+    {
+      "feature_id": "IMG_8450:323",
+      "b1_row": 323,
+      "candidate_index": 1642,
+      "working_xy": [
+        1174.0,
+        910.0
+      ],
+      "original_xy": [
+        2959.24,
+        2293.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.29922556177704557,
+      "sample_std": 0.06527115026118147
+    },
+    {
+      "feature_id": "IMG_8450:324",
+      "b1_row": 324,
+      "candidate_index": 481,
+      "working_xy": [
+        550.0,
+        564.0
+      ],
+      "original_xy": [
+        1386.76,
+        1422.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7565123916061002,
+      "sample_std": 0.06281533095593418
+    },
+    {
+      "feature_id": "IMG_8450:325",
+      "b1_row": 325,
+      "candidate_index": 1344,
+      "working_xy": [
+        522.0,
+        849.0
+      ],
+      "original_xy": [
+        1316.2,
+        2140.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5754375839286597,
+      "sample_std": 0.1385706511229965
+    },
+    {
+      "feature_id": "IMG_8450:326",
+      "b1_row": 326,
+      "candidate_index": 1023,
+      "working_xy": [
+        594.0,
+        755.0
+      ],
+      "original_xy": [
+        1497.64,
+        1903.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6612282845380124,
+      "sample_std": 0.20727159905187317
+    },
+    {
+      "feature_id": "IMG_8450:327",
+      "b1_row": 327,
+      "candidate_index": 3107,
+      "working_xy": [
+        47.0,
+        1234.0
+      ],
+      "original_xy": [
+        119.2,
+        3110.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2926831840013878,
+      "sample_std": 0.0529092121197432
+    },
+    {
+      "feature_id": "IMG_8450:328",
+      "b1_row": 328,
+      "candidate_index": 1129,
+      "working_xy": [
+        756.0,
+        795.0
+      ],
+      "original_xy": [
+        1905.88,
+        2004.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7460510387172878,
+      "sample_std": 0.02160425765757102
+    },
+    {
+      "feature_id": "IMG_8450:329",
+      "b1_row": 329,
+      "candidate_index": 2551,
+      "working_xy": [
+        299.0,
+        1114.0
+      ],
+      "original_xy": [
+        754.24,
+        2808.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3050739951626054,
+      "sample_std": 0.10151621504314018
+    },
+    {
+      "feature_id": "IMG_8450:330",
+      "b1_row": 330,
+      "candidate_index": 648,
+      "working_xy": [
+        891.0,
+        639.0
+      ],
+      "original_xy": [
+        2246.08,
+        1611.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.746059163645566,
+      "sample_std": 0.029070027397995704
+    },
+    {
+      "feature_id": "IMG_8450:331",
+      "b1_row": 331,
+      "candidate_index": 209,
+      "working_xy": [
+        731.0,
+        343.0
+      ],
+      "original_xy": [
+        1842.88,
+        865.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7238555326982847,
+      "sample_std": 0.02111417510268404
+    },
+    {
+      "feature_id": "IMG_8450:332",
+      "b1_row": 332,
+      "candidate_index": 123,
+      "working_xy": [
+        747.0,
+        258.0
+      ],
+      "original_xy": [
+        1883.2,
+        650.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6001844115424232,
+      "sample_std": 0.1545550010153867
+    },
+    {
+      "feature_id": "IMG_8450:333",
+      "b1_row": 333,
+      "candidate_index": 2516,
+      "working_xy": [
+        970.0,
+        1104.0
+      ],
+      "original_xy": [
+        2445.16,
+        2782.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3835713746301888,
+      "sample_std": 0.07452938383710574
+    },
+    {
+      "feature_id": "IMG_8450:334",
+      "b1_row": 334,
+      "candidate_index": 2567,
+      "working_xy": [
+        227.0,
+        1119.0
+      ],
+      "original_xy": [
+        572.8,
+        2820.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2771914708373225,
+      "sample_std": 0.10033477991666728
+    },
+    {
+      "feature_id": "IMG_8450:335",
+      "b1_row": 335,
+      "candidate_index": 219,
+      "working_xy": [
+        783.0,
+        356.0
+      ],
+      "original_xy": [
+        1973.92,
+        897.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7394965741331898,
+      "sample_std": 0.033633303324093256
+    },
+    {
+      "feature_id": "IMG_8450:336",
+      "b1_row": 336,
+      "candidate_index": 2532,
+      "working_xy": [
+        358.0,
+        1110.0
+      ],
+      "original_xy": [
+        902.92,
+        2797.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.28368009911206904,
+      "sample_std": 0.10445818328669929
+    },
+    {
+      "feature_id": "IMG_8450:337",
+      "b1_row": 337,
+      "candidate_index": 1159,
+      "working_xy": [
+        472.0,
+        806.0
+      ],
+      "original_xy": [
+        1190.2,
+        2031.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4432447723241685,
+      "sample_std": 0.10391896094730518
+    },
+    {
+      "feature_id": "IMG_8450:338",
+      "b1_row": 338,
+      "candidate_index": 161,
+      "working_xy": [
+        837.0,
+        281.0
+      ],
+      "original_xy": [
+        2110.0,
+        708.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6044702551435063,
+      "sample_std": 0.16264466423464619
+    },
+    {
+      "feature_id": "IMG_8450:339",
+      "b1_row": 339,
+      "candidate_index": 1646,
+      "working_xy": [
+        615.0,
+        911.0
+      ],
+      "original_xy": [
+        1550.56,
+        2296.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7065742918855459,
+      "sample_std": 0.12249402977927487
+    },
+    {
+      "feature_id": "IMG_8450:340",
+      "b1_row": 340,
+      "candidate_index": 657,
+      "working_xy": [
+        604.0,
+        643.0
+      ],
+      "original_xy": [
+        1522.84,
+        1621.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6711751168611835,
+      "sample_std": 0.14640050164087104
+    },
+    {
+      "feature_id": "IMG_8450:341",
+      "b1_row": 341,
+      "candidate_index": 4084,
+      "working_xy": [
+        909.0,
+        1375.0
+      ],
+      "original_xy": [
+        2291.44,
+        3465.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5260099001269589,
+      "sample_std": 0.09267999038713877
+    },
+    {
+      "feature_id": "IMG_8450:342",
+      "b1_row": 342,
+      "candidate_index": 109,
+      "working_xy": [
+        1129.0,
+        250.0
+      ],
+      "original_xy": [
+        2845.84,
+        630.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.39139129474123163,
+      "sample_std": 0.18644659402056685
+    },
+    {
+      "feature_id": "IMG_8450:343",
+      "b1_row": 343,
+      "candidate_index": 4063,
+      "working_xy": [
+        180.0,
+        1372.0
+      ],
+      "original_xy": [
+        454.36,
+        3458.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5149378881036044,
+      "sample_std": 0.18212123377669467
+    },
+    {
+      "feature_id": "IMG_8450:344",
+      "b1_row": 344,
+      "candidate_index": 4910,
+      "working_xy": [
+        789.0,
+        1567.0
+      ],
+      "original_xy": [
+        1989.04,
+        3949.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.40423758834892665,
+      "sample_std": 0.10928804883183044
+    },
+    {
+      "feature_id": "IMG_8450:345",
+      "b1_row": 345,
+      "candidate_index": 2436,
+      "working_xy": [
+        762.0,
+        1065.0
+      ],
+      "original_xy": [
+        1921.0,
+        2684.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7651419323617304,
+      "sample_std": 0.0743836098963537
+    },
+    {
+      "feature_id": "IMG_8450:346",
+      "b1_row": 346,
+      "candidate_index": 2514,
+      "working_xy": [
+        931.0,
+        1103.0
+      ],
+      "original_xy": [
+        2346.88,
+        2780.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3376017578377886,
+      "sample_std": 0.081225374102184
+    },
+    {
+      "feature_id": "IMG_8450:347",
+      "b1_row": 347,
+      "candidate_index": 2021,
+      "working_xy": [
+        948.0,
+        984.0
+      ],
+      "original_xy": [
+        2389.72,
+        2480.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5873657603622155,
+      "sample_std": 0.10634789728235673
+    },
+    {
+      "feature_id": "IMG_8450:348",
+      "b1_row": 348,
+      "candidate_index": 4864,
+      "working_xy": [
+        88.0,
+        1562.0
+      ],
+      "original_xy": [
+        222.52,
+        3937.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3368776328848809,
+      "sample_std": 0.14409907124354981
+    },
+    {
+      "feature_id": "IMG_8450:349",
+      "b1_row": 349,
+      "candidate_index": 519,
+      "working_xy": [
+        72.0,
+        580.0
+      ],
+      "original_xy": [
+        182.2,
+        1462.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6753872311631501,
+      "sample_std": 0.09970914081950576
+    },
+    {
+      "feature_id": "IMG_8450:350",
+      "b1_row": 350,
+      "candidate_index": 3700,
+      "working_xy": [
+        373.0,
+        1332.0
+      ],
+      "original_xy": [
+        940.72,
+        3357.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4948661099660698,
+      "sample_std": 0.19763789147807573
+    },
+    {
+      "feature_id": "IMG_8450:351",
+      "b1_row": 351,
+      "candidate_index": 2641,
+      "working_xy": [
+        1033.0,
+        1137.0
+      ],
+      "original_xy": [
+        2603.92,
+        2866.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.45885913785057253,
+      "sample_std": 0.15377777118828534
+    },
+    {
+      "feature_id": "IMG_8450:352",
+      "b1_row": 352,
+      "candidate_index": 1943,
+      "working_xy": [
+        392.0,
+        970.0
+      ],
+      "original_xy": [
+        988.6,
+        2445.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7870740992974358,
+      "sample_std": 0.03693152359755507
+    },
+    {
+      "feature_id": "IMG_8450:353",
+      "b1_row": 353,
+      "candidate_index": 4011,
+      "working_xy": [
+        567.0,
+        1365.0
+      ],
+      "original_xy": [
+        1429.6,
+        3440.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5805779268448549,
+      "sample_std": 0.1720460138254851
+    },
+    {
+      "feature_id": "IMG_8450:354",
+      "b1_row": 354,
+      "candidate_index": 979,
+      "working_xy": [
+        554.0,
+        743.0
+      ],
+      "original_xy": [
+        1396.84,
+        1873.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5170564920016427,
+      "sample_std": 0.14442866036557075
+    },
+    {
+      "feature_id": "IMG_8450:355",
+      "b1_row": 355,
+      "candidate_index": 4172,
+      "working_xy": [
+        1024.0,
+        1402.0
+      ],
+      "original_xy": [
+        2581.24,
+        3533.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6119742591953305,
+      "sample_std": 0.06284585825087109
+    },
+    {
+      "feature_id": "IMG_8450:356",
+      "b1_row": 356,
+      "candidate_index": 4916,
+      "working_xy": [
+        256.0,
+        1568.0
+      ],
+      "original_xy": [
+        645.88,
+        3952.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.16221240888473212,
+      "sample_std": 0.043952081856591434
+    },
+    {
+      "feature_id": "IMG_8450:357",
+      "b1_row": 357,
+      "candidate_index": 4902,
+      "working_xy": [
+        990.0,
+        1566.0
+      ],
+      "original_xy": [
+        2495.56,
+        3947.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5087808530090047,
+      "sample_std": 0.10370783269740555
+    },
+    {
+      "feature_id": "IMG_8450:358",
+      "b1_row": 358,
+      "candidate_index": 2956,
+      "working_xy": [
+        793.0,
+        1203.0
+      ],
+      "original_xy": [
+        1999.12,
+        3032.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.40129597549951634,
+      "sample_std": 0.1344573243221892
+    },
+    {
+      "feature_id": "IMG_8450:359",
+      "b1_row": 359,
+      "candidate_index": 542,
+      "working_xy": [
+        876.0,
+        588.0
+      ],
+      "original_xy": [
+        2208.28,
+        1482.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6869663527908649,
+      "sample_std": 0.11766370076756062
+    },
+    {
+      "feature_id": "IMG_8450:360",
+      "b1_row": 360,
+      "candidate_index": 68,
+      "working_xy": [
+        641.0,
+        225.0
+      ],
+      "original_xy": [
+        1616.08,
+        567.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3765034149541122,
+      "sample_std": 0.21123740615620343
+    },
+    {
+      "feature_id": "IMG_8450:361",
+      "b1_row": 361,
+      "candidate_index": 2175,
+      "working_xy": [
+        30.0,
+        1007.0
+      ],
+      "original_xy": [
+        76.36,
+        2538.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5612770552443143,
+      "sample_std": 0.10678148053089107
+    },
+    {
+      "feature_id": "IMG_8450:362",
+      "b1_row": 362,
+      "candidate_index": 2316,
+      "working_xy": [
+        525.0,
+        1033.0
+      ],
+      "original_xy": [
+        1323.76,
+        2603.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6942345255258323,
+      "sample_std": 0.0630939568096807
+    },
+    {
+      "feature_id": "IMG_8450:363",
+      "b1_row": 363,
+      "candidate_index": 2364,
+      "working_xy": [
+        560.0,
+        1045.0
+      ],
+      "original_xy": [
+        1411.96,
+        2634.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.591508353577437,
+      "sample_std": 0.10220345481388021
+    },
+    {
+      "feature_id": "IMG_8450:364",
+      "b1_row": 364,
+      "candidate_index": 1692,
+      "working_xy": [
+        1089.0,
+        920.0
+      ],
+      "original_xy": [
+        2745.04,
+        2319.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.32299694619684444,
+      "sample_std": 0.04811602310228226
+    },
+    {
+      "feature_id": "IMG_8450:365",
+      "b1_row": 365,
+      "candidate_index": 3081,
+      "working_xy": [
+        532.0,
+        1226.0
+      ],
+      "original_xy": [
+        1341.4,
+        3090.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2849351841305888,
+      "sample_std": 0.04763703349300238
+    },
+    {
+      "feature_id": "IMG_8450:366",
+      "b1_row": 366,
+      "candidate_index": 1359,
+      "working_xy": [
+        204.0,
+        852.0
+      ],
+      "original_xy": [
+        514.84,
+        2147.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6004971567276447,
+      "sample_std": 0.0883195473302589
+    },
+    {
+      "feature_id": "IMG_8450:367",
+      "b1_row": 367,
+      "candidate_index": 618,
+      "working_xy": [
+        296.0,
+        625.0
+      ],
+      "original_xy": [
+        746.68,
+        1575.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7510216509574019,
+      "sample_std": 0.11394994750209755
+    },
+    {
+      "feature_id": "IMG_8450:368",
+      "b1_row": 368,
+      "candidate_index": 560,
+      "working_xy": [
+        926.0,
+        599.0
+      ],
+      "original_xy": [
+        2334.28,
+        1510.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6768585714182189,
+      "sample_std": 0.13552775676051568
+    },
+    {
+      "feature_id": "IMG_8450:369",
+      "b1_row": 369,
+      "candidate_index": 73,
+      "working_xy": [
+        973.0,
+        228.0
+      ],
+      "original_xy": [
+        2452.72,
+        575.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5897573692856082,
+      "sample_std": 0.030154058696153903
+    },
+    {
+      "feature_id": "IMG_8450:370",
+      "b1_row": 370,
+      "candidate_index": 3583,
+      "working_xy": [
+        641.0,
+        1316.0
+      ],
+      "original_xy": [
+        1616.08,
+        3317.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4554969138054122,
+      "sample_std": 0.21225068012788026
+    },
+    {
+      "feature_id": "IMG_8450:371",
+      "b1_row": 371,
+      "candidate_index": 1469,
+      "working_xy": [
+        686.0,
+        876.0
+      ],
+      "original_xy": [
+        1729.48,
+        2208.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7485256925541437,
+      "sample_std": 0.025958938219468194
+    },
+    {
+      "feature_id": "IMG_8450:372",
+      "b1_row": 372,
+      "candidate_index": 1362,
+      "working_xy": [
+        202.0,
+        853.0
+      ],
+      "original_xy": [
+        509.8,
+        2150.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5922300169317973,
+      "sample_std": 0.08436978828445964
+    },
+    {
+      "feature_id": "IMG_8450:373",
+      "b1_row": 373,
+      "candidate_index": 4394,
+      "working_xy": [
+        1050.0,
+        1463.0
+      ],
+      "original_xy": [
+        2646.76,
+        3687.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5775036353458676,
+      "sample_std": 0.08389355004748236
+    },
+    {
+      "feature_id": "IMG_8450:374",
+      "b1_row": 374,
+      "candidate_index": 3816,
+      "working_xy": [
+        1074.0,
+        1344.0
+      ],
+      "original_xy": [
+        2707.24,
+        3387.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5447619158034969,
+      "sample_std": 0.09425970712518904
+    },
+    {
+      "feature_id": "IMG_8450:375",
+      "b1_row": 375,
+      "candidate_index": 2059,
+      "working_xy": [
+        883.0,
+        988.0
+      ],
+      "original_xy": [
+        2225.92,
+        2490.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7352721387821071,
+      "sample_std": 0.027778650995894126
+    },
+    {
+      "feature_id": "IMG_8450:376",
+      "b1_row": 376,
+      "candidate_index": 133,
+      "working_xy": [
+        1015.0,
+        262.0
+      ],
+      "original_xy": [
+        2558.56,
+        661.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5843046293392192,
+      "sample_std": 0.04876023566537708
+    },
+    {
+      "feature_id": "IMG_8450:377",
+      "b1_row": 377,
+      "candidate_index": 295,
+      "working_xy": [
+        172.0,
+        481.0
+      ],
+      "original_xy": [
+        434.2,
+        1212.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7204861804315605,
+      "sample_std": 0.06578847150192142
+    },
+    {
+      "feature_id": "IMG_8450:378",
+      "b1_row": 378,
+      "candidate_index": 2235,
+      "working_xy": [
+        101.0,
+        1018.0
+      ],
+      "original_xy": [
+        255.28,
+        2566.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6174429868386834,
+      "sample_std": 0.07364631443569575
+    },
+    {
+      "feature_id": "IMG_8450:379",
+      "b1_row": 379,
+      "candidate_index": 108,
+      "working_xy": [
+        1140.0,
+        249.0
+      ],
+      "original_xy": [
+        2873.56,
+        628.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.45560461138067426,
+      "sample_std": 0.1898616266248368
+    },
+    {
+      "feature_id": "IMG_8450:380",
+      "b1_row": 380,
+      "candidate_index": 1087,
+      "working_xy": [
+        157.0,
+        782.0
+      ],
+      "original_xy": [
+        396.4,
+        1971.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5770718876255947,
+      "sample_std": 0.04914802224738635
+    },
+    {
+      "feature_id": "IMG_8450:381",
+      "b1_row": 381,
+      "candidate_index": 4564,
+      "working_xy": [
+        348.0,
+        1505.0
+      ],
+      "original_xy": [
+        877.72,
+        3793.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.24462219982746947,
+      "sample_std": 0.06409651664026773
+    },
+    {
+      "feature_id": "IMG_8450:382",
+      "b1_row": 382,
+      "candidate_index": 1662,
+      "working_xy": [
+        615.0,
+        914.0
+      ],
+      "original_xy": [
+        1550.56,
+        2304.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.711901242749088,
+      "sample_std": 0.11511669781782263
+    },
+    {
+      "feature_id": "IMG_8450:383",
+      "b1_row": 383,
+      "candidate_index": 248,
+      "working_xy": [
+        718.0,
+        433.0
+      ],
+      "original_xy": [
+        1810.12,
+        1091.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6944347612399092,
+      "sample_std": 0.12471475113348107
+    },
+    {
+      "feature_id": "IMG_8450:384",
+      "b1_row": 384,
+      "candidate_index": 3930,
+      "working_xy": [
+        1027.0,
+        1356.0
+      ],
+      "original_xy": [
+        2588.8,
+        3417.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5658124966176582,
+      "sample_std": 0.10316082147421597
+    },
+    {
+      "feature_id": "IMG_8450:385",
+      "b1_row": 385,
+      "candidate_index": 419,
+      "working_xy": [
+        356.0,
+        549.0
+      ],
+      "original_xy": [
+        897.88,
+        1384.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6355000422683227,
+      "sample_std": 0.12890183702863797
+    },
+    {
+      "feature_id": "IMG_8450:386",
+      "b1_row": 386,
+      "candidate_index": 4028,
+      "working_xy": [
+        296.0,
+        1367.0
+      ],
+      "original_xy": [
+        746.68,
+        3445.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6160762809418974,
+      "sample_std": 0.14865378175291555
+    },
+    {
+      "feature_id": "IMG_8450:387",
+      "b1_row": 387,
+      "candidate_index": 2086,
+      "working_xy": [
+        1019.0,
+        992.0
+      ],
+      "original_xy": [
+        2568.64,
+        2500.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.43322993608667765,
+      "sample_std": 0.04005541303973739
+    },
+    {
+      "feature_id": "IMG_8450:388",
+      "b1_row": 388,
+      "candidate_index": 4427,
+      "working_xy": [
+        742.0,
+        1473.0
+      ],
+      "original_xy": [
+        1870.6,
+        3712.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.1519012290292457,
+      "sample_std": 0.06676699280508756
+    },
+    {
+      "feature_id": "IMG_8450:389",
+      "b1_row": 389,
+      "candidate_index": 1038,
+      "working_xy": [
+        357.0,
+        761.0
+      ],
+      "original_xy": [
+        900.4,
+        1918.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5809923861336544,
+      "sample_std": 0.11698229531613065
+    },
+    {
+      "feature_id": "IMG_8450:390",
+      "b1_row": 390,
+      "candidate_index": 284,
+      "working_xy": [
+        78.0,
+        476.0
+      ],
+      "original_xy": [
+        197.32,
+        1200.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7461162594989313,
+      "sample_std": 0.07266411224603572
+    },
+    {
+      "feature_id": "IMG_8450:391",
+      "b1_row": 391,
+      "candidate_index": 216,
+      "working_xy": [
+        1128.0,
+        353.0
+      ],
+      "original_xy": [
+        2843.32,
+        890.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6387663802288771,
+      "sample_std": 0.17216205023007497
+    },
+    {
+      "feature_id": "IMG_8450:392",
+      "b1_row": 392,
+      "candidate_index": 241,
+      "working_xy": [
+        1081.0,
+        424.0
+      ],
+      "original_xy": [
+        2724.88,
+        1069.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7645874477788289,
+      "sample_std": 0.030914319809668474
+    },
+    {
+      "feature_id": "IMG_8450:393",
+      "b1_row": 393,
+      "candidate_index": 1910,
+      "working_xy": [
+        657.0,
+        964.0
+      ],
+      "original_xy": [
+        1656.4,
+        2430.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6691780572850958,
+      "sample_std": 0.14531827956566828
+    },
+    {
+      "feature_id": "IMG_8450:394",
+      "b1_row": 394,
+      "candidate_index": 595,
+      "working_xy": [
+        455.0,
+        615.0
+      ],
+      "original_xy": [
+        1147.36,
+        1550.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7140190273433717,
+      "sample_std": 0.18802503531226802
+    },
+    {
+      "feature_id": "IMG_8450:395",
+      "b1_row": 395,
+      "candidate_index": 338,
+      "working_xy": [
+        177.0,
+        515.0
+      ],
+      "original_xy": [
+        446.8,
+        1298.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7223838294150463,
+      "sample_std": 0.08635438720842464
+    },
+    {
+      "feature_id": "IMG_8450:396",
+      "b1_row": 396,
+      "candidate_index": 2347,
+      "working_xy": [
+        1005.0,
+        1040.0
+      ],
+      "original_xy": [
+        2533.36,
+        2621.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.46983175524849263,
+      "sample_std": 0.04773727208039532
+    },
+    {
+      "feature_id": "IMG_8450:397",
+      "b1_row": 397,
+      "candidate_index": 29,
+      "working_xy": [
+        970.0,
+        189.0
+      ],
+      "original_xy": [
+        2445.16,
+        477.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.616870866189252,
+      "sample_std": 0.04388288246090979
+    },
+    {
+      "feature_id": "IMG_8450:398",
+      "b1_row": 398,
+      "candidate_index": 858,
+      "working_xy": [
+        452.0,
+        706.0
+      ],
+      "original_xy": [
+        1139.8,
+        1779.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5660979678772712,
+      "sample_std": 0.08421272860404294
+    },
+    {
+      "feature_id": "IMG_8450:399",
+      "b1_row": 399,
+      "candidate_index": 2010,
+      "working_xy": [
+        326.0,
+        983.0
+      ],
+      "original_xy": [
+        822.28,
+        2477.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5870055015554638,
+      "sample_std": 0.07568190392175496
+    },
+    {
+      "feature_id": "IMG_8450:400",
+      "b1_row": 400,
+      "candidate_index": 1458,
+      "working_xy": [
+        841.0,
+        874.0
+      ],
+      "original_xy": [
+        2120.08,
+        2203.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6390439146838246,
+      "sample_std": 0.18227139390633554
+    },
+    {
+      "feature_id": "IMG_8450:401",
+      "b1_row": 401,
+      "candidate_index": 2091,
+      "working_xy": [
+        518.0,
+        993.0
+      ],
+      "original_xy": [
+        1306.12,
+        2503.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5824849844238682,
+      "sample_std": 0.0920991029251687
+    },
+    {
+      "feature_id": "IMG_8450:402",
+      "b1_row": 402,
+      "candidate_index": 2600,
+      "working_xy": [
+        260.0,
+        1127.0
+      ],
+      "original_xy": [
+        655.96,
+        2840.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3288392043228029,
+      "sample_std": 0.05192116390418992
+    },
+    {
+      "feature_id": "IMG_8450:403",
+      "b1_row": 403,
+      "candidate_index": 841,
+      "working_xy": [
+        549.0,
+        698.0
+      ],
+      "original_xy": [
+        1384.24,
+        1759.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5501561912771965,
+      "sample_std": 0.12508894106889376
+    },
+    {
+      "feature_id": "IMG_8450:404",
+      "b1_row": 404,
+      "candidate_index": 4927,
+      "working_xy": [
+        443.0,
+        1569.0
+      ],
+      "original_xy": [
+        1117.12,
+        3954.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.22077708478371355,
+      "sample_std": 0.03711347559192787
+    },
+    {
+      "feature_id": "IMG_8450:405",
+      "b1_row": 405,
+      "candidate_index": 4050,
+      "working_xy": [
+        454.0,
+        1370.0
+      ],
+      "original_xy": [
+        1144.84,
+        3453.16
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6042188953403913,
+      "sample_std": 0.15640827844130167
+    },
+    {
+      "feature_id": "IMG_8450:406",
+      "b1_row": 406,
+      "candidate_index": 1073,
+      "working_xy": [
+        313.0,
+        778.0
+      ],
+      "original_xy": [
+        789.52,
+        1961.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.663743863750703,
+      "sample_std": 0.08335264361603922
+    },
+    {
+      "feature_id": "IMG_8450:407",
+      "b1_row": 407,
+      "candidate_index": 855,
+      "working_xy": [
+        939.0,
+        702.0
+      ],
+      "original_xy": [
+        2367.04,
+        1769.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.70485961984561,
+      "sample_std": 0.042849311689833046
+    },
+    {
+      "feature_id": "IMG_8450:408",
+      "b1_row": 408,
+      "candidate_index": 3506,
+      "working_xy": [
+        233.0,
+        1302.0
+      ],
+      "original_xy": [
+        587.92,
+        3281.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.48458081884184734,
+      "sample_std": 0.21252838587945871
+    },
+    {
+      "feature_id": "IMG_8450:409",
+      "b1_row": 409,
+      "candidate_index": 3545,
+      "working_xy": [
+        1011.0,
+        1309.0
+      ],
+      "original_xy": [
+        2548.48,
+        3299.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3747838723560386,
+      "sample_std": 0.09670107199068599
+    },
+    {
+      "feature_id": "IMG_8450:410",
+      "b1_row": 410,
+      "candidate_index": 1512,
+      "working_xy": [
+        274.0,
+        883.0
+      ],
+      "original_xy": [
+        691.24,
+        2225.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5641581043231217,
+      "sample_std": 0.06243067513717729
+    },
+    {
+      "feature_id": "IMG_8450:411",
+      "b1_row": 411,
+      "candidate_index": 814,
+      "working_xy": [
+        1166.0,
+        690.0
+      ],
+      "original_xy": [
+        2939.08,
+        1739.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7478589582670154,
+      "sample_std": 0.0316755555378901
+    },
+    {
+      "feature_id": "IMG_8450:412",
+      "b1_row": 412,
+      "candidate_index": 3181,
+      "working_xy": [
+        626.0,
+        1250.0
+      ],
+      "original_xy": [
+        1578.28,
+        3150.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2800485491298256,
+      "sample_std": 0.04338537649095543
+    },
+    {
+      "feature_id": "IMG_8450:413",
+      "b1_row": 413,
+      "candidate_index": 3195,
+      "working_xy": [
+        880.0,
+        1252.0
+      ],
+      "original_xy": [
+        2218.36,
+        3155.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.25216098876913534,
+      "sample_std": 0.06419823361935341
+    },
+    {
+      "feature_id": "IMG_8450:414",
+      "b1_row": 414,
+      "candidate_index": 592,
+      "working_xy": [
+        221.0,
+        613.0
+      ],
+      "original_xy": [
+        557.68,
+        1545.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6777716062042446,
+      "sample_std": 0.17071566821727086
+    },
+    {
+      "feature_id": "IMG_8450:415",
+      "b1_row": 415,
+      "candidate_index": 1514,
+      "working_xy": [
+        506.0,
+        883.0
+      ],
+      "original_xy": [
+        1275.88,
+        2225.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4426660048983933,
+      "sample_std": 0.09036377030306113
+    },
+    {
+      "feature_id": "IMG_8450:416",
+      "b1_row": 416,
+      "candidate_index": 2378,
+      "working_xy": [
+        327.0,
+        1050.0
+      ],
+      "original_xy": [
+        824.8,
+        2646.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6588558302349236,
+      "sample_std": 0.08718305627174727
+    },
+    {
+      "feature_id": "IMG_8450:417",
+      "b1_row": 417,
+      "candidate_index": 2974,
+      "working_xy": [
+        760.0,
+        1206.0
+      ],
+      "original_xy": [
+        1915.96,
+        3039.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.27581680139746084,
+      "sample_std": 0.08718641396005479
+    },
+    {
+      "feature_id": "IMG_8450:418",
+      "b1_row": 418,
+      "candidate_index": 4640,
+      "working_xy": [
+        796.0,
+        1522.0
+      ],
+      "original_xy": [
+        2006.68,
+        3836.2
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4089016688984272,
+      "sample_std": 0.11630576348880121
+    },
+    {
+      "feature_id": "IMG_8450:419",
+      "b1_row": 419,
+      "candidate_index": 543,
+      "working_xy": [
+        891.0,
+        588.0
+      ],
+      "original_xy": [
+        2246.08,
+        1482.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7050161721246329,
+      "sample_std": 0.12974749322631762
+    },
+    {
+      "feature_id": "IMG_8450:420",
+      "b1_row": 420,
+      "candidate_index": 524,
+      "working_xy": [
+        421.0,
+        582.0
+      ],
+      "original_xy": [
+        1061.68,
+        1467.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7448765689234373,
+      "sample_std": 0.07946158729795882
+    },
+    {
+      "feature_id": "IMG_8450:421",
+      "b1_row": 421,
+      "candidate_index": 1402,
+      "working_xy": [
+        649.0,
+        864.0
+      ],
+      "original_xy": [
+        1636.24,
+        2178.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7042435474892889,
+      "sample_std": 0.06521432142119005
+    },
+    {
+      "feature_id": "IMG_8450:422",
+      "b1_row": 422,
+      "candidate_index": 2728,
+      "working_xy": [
+        992.0,
+        1155.0
+      ],
+      "original_xy": [
+        2500.6,
+        2911.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4739262482751798,
+      "sample_std": 0.09111572081744665
+    },
+    {
+      "feature_id": "IMG_8450:423",
+      "b1_row": 423,
+      "candidate_index": 4494,
+      "working_xy": [
+        1091.0,
+        1488.0
+      ],
+      "original_xy": [
+        2750.08,
+        3750.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.491142569850073,
+      "sample_std": 0.1484996300249787
+    },
+    {
+      "feature_id": "IMG_8450:424",
+      "b1_row": 424,
+      "candidate_index": 4378,
+      "working_xy": [
+        1110.0,
+        1457.0
+      ],
+      "original_xy": [
+        2797.96,
+        3672.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4055782994430232,
+      "sample_std": 0.15196541946878722
+    },
+    {
+      "feature_id": "IMG_8450:425",
+      "b1_row": 425,
+      "candidate_index": 1937,
+      "working_xy": [
+        383.0,
+        969.0
+      ],
+      "original_xy": [
+        965.92,
+        2442.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7774056241086809,
+      "sample_std": 0.037873084731493034
+    },
+    {
+      "feature_id": "IMG_8450:426",
+      "b1_row": 426,
+      "candidate_index": 2787,
+      "working_xy": [
+        455.0,
+        1166.0
+      ],
+      "original_xy": [
+        1147.36,
+        2939.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.41266677569350974,
+      "sample_std": 0.08165633459943113
+    },
+    {
+      "feature_id": "IMG_8450:427",
+      "b1_row": 427,
+      "candidate_index": 2751,
+      "working_xy": [
+        74.0,
+        1162.0
+      ],
+      "original_xy": [
+        187.24,
+        2929.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3918032611164222,
+      "sample_std": 0.05445429996578001
+    },
+    {
+      "feature_id": "IMG_8450:428",
+      "b1_row": 428,
+      "candidate_index": 3755,
+      "working_xy": [
+        24.0,
+        1338.0
+      ],
+      "original_xy": [
+        61.24,
+        3372.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.29625465266358764,
+      "sample_std": 0.07687017892254286
+    },
+    {
+      "feature_id": "IMG_8450:429",
+      "b1_row": 429,
+      "candidate_index": 2011,
+      "working_xy": [
+        330.0,
+        983.0
+      ],
+      "original_xy": [
+        832.36,
+        2477.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5845625194074144,
+      "sample_std": 0.0782560712834825
+    },
+    {
+      "feature_id": "IMG_8450:430",
+      "b1_row": 430,
+      "candidate_index": 4443,
+      "working_xy": [
+        876.0,
+        1478.0
+      ],
+      "original_xy": [
+        2208.28,
+        3725.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.322585728544212,
+      "sample_std": 0.1801301899174141
+    },
+    {
+      "feature_id": "IMG_8450:431",
+      "b1_row": 431,
+      "candidate_index": 587,
+      "working_xy": [
+        67.0,
+        612.0
+      ],
+      "original_xy": [
+        169.6,
+        1543.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.682410258236326,
+      "sample_std": 0.11072547538782479
+    },
+    {
+      "feature_id": "IMG_8450:432",
+      "b1_row": 432,
+      "candidate_index": 811,
+      "working_xy": [
+        587.0,
+        690.0
+      ],
+      "original_xy": [
+        1480.0,
+        1739.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6477365370068701,
+      "sample_std": 0.2111384591773722
+    },
+    {
+      "feature_id": "IMG_8450:433",
+      "b1_row": 433,
+      "candidate_index": 4710,
+      "working_xy": [
+        267.0,
+        1536.0
+      ],
+      "original_xy": [
+        673.6,
+        3871.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.20179673905929482,
+      "sample_std": 0.08746602130133761
+    },
+    {
+      "feature_id": "IMG_8450:434",
+      "b1_row": 434,
+      "candidate_index": 2326,
+      "working_xy": [
+        520.0,
+        1035.0
+      ],
+      "original_xy": [
+        1311.16,
+        2608.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6928145506321438,
+      "sample_std": 0.060303566763504866
+    },
+    {
+      "feature_id": "IMG_8450:435",
+      "b1_row": 435,
+      "candidate_index": 3182,
+      "working_xy": [
+        634.0,
+        1250.0
+      ],
+      "original_xy": [
+        1598.44,
+        3150.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2811811400701303,
+      "sample_std": 0.047487488706919524
+    },
+    {
+      "feature_id": "IMG_8450:436",
+      "b1_row": 436,
+      "candidate_index": 2952,
+      "working_xy": [
+        854.0,
+        1202.0
+      ],
+      "original_xy": [
+        2152.84,
+        3029.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.2967254912641413,
+      "sample_std": 0.13025697839661135
+    },
+    {
+      "feature_id": "IMG_8450:437",
+      "b1_row": 437,
+      "candidate_index": 465,
+      "working_xy": [
+        751.0,
+        560.0
+      ],
+      "original_xy": [
+        1893.28,
+        1411.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6820284809768055,
+      "sample_std": 0.13105260527347998
+    },
+    {
+      "feature_id": "IMG_8450:438",
+      "b1_row": 438,
+      "candidate_index": 2831,
+      "working_xy": [
+        149.0,
+        1175.0
+      ],
+      "original_xy": [
+        376.24,
+        2961.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3804865577099114,
+      "sample_std": 0.04241486470526668
+    },
+    {
+      "feature_id": "IMG_8450:439",
+      "b1_row": 439,
+      "candidate_index": 4076,
+      "working_xy": [
+        343.0,
+        1374.0
+      ],
+      "original_xy": [
+        865.12,
+        3463.24
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5890535347939849,
+      "sample_std": 0.16807595440809342
+    },
+    {
+      "feature_id": "IMG_8450:440",
+      "b1_row": 440,
+      "candidate_index": 1627,
+      "working_xy": [
+        934.0,
+        908.0
+      ],
+      "original_xy": [
+        2354.44,
+        2288.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5193152810905378,
+      "sample_std": 0.11698092682414621
+    },
+    {
+      "feature_id": "IMG_8450:441",
+      "b1_row": 441,
+      "candidate_index": 192,
+      "working_xy": [
+        1101.0,
+        321.0
+      ],
+      "original_xy": [
+        2775.28,
+        809.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.46591721502744815,
+      "sample_std": 0.13852933623707114
+    },
+    {
+      "feature_id": "IMG_8450:442",
+      "b1_row": 442,
+      "candidate_index": 695,
+      "working_xy": [
+        366.0,
+        658.0
+      ],
+      "original_xy": [
+        923.08,
+        1658.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6974687014162856,
+      "sample_std": 0.13868883235359872
+    },
+    {
+      "feature_id": "IMG_8450:443",
+      "b1_row": 443,
+      "candidate_index": 3365,
+      "working_xy": [
+        1103.0,
+        1281.0
+      ],
+      "original_xy": [
+        2780.32,
+        3228.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5425794371155903,
+      "sample_std": 0.09890291261098845
+    },
+    {
+      "feature_id": "IMG_8450:444",
+      "b1_row": 444,
+      "candidate_index": 4396,
+      "working_xy": [
+        697.0,
+        1464.0
+      ],
+      "original_xy": [
+        1757.2,
+        3690.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.22084863706267288,
+      "sample_std": 0.10017442190992908
+    },
+    {
+      "feature_id": "IMG_8450:445",
+      "b1_row": 445,
+      "candidate_index": 4718,
+      "working_xy": [
+        1036.0,
+        1537.0
+      ],
+      "original_xy": [
+        2611.48,
+        3874.0
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6843399266728696,
+      "sample_std": 0.0877362889755163
+    },
+    {
+      "feature_id": "IMG_8450:446",
+      "b1_row": 446,
+      "candidate_index": 174,
+      "working_xy": [
+        888.0,
+        294.0
+      ],
+      "original_xy": [
+        2238.52,
+        741.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6203566477829608,
+      "sample_std": 0.16687372070259576
+    },
+    {
+      "feature_id": "IMG_8450:447",
+      "b1_row": 447,
+      "candidate_index": 3469,
+      "working_xy": [
+        561.0,
+        1296.0
+      ],
+      "original_xy": [
+        1414.48,
+        3266.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.550909724303916,
+      "sample_std": 0.21487354831231617
+    },
+    {
+      "feature_id": "IMG_8450:448",
+      "b1_row": 448,
+      "candidate_index": 294,
+      "working_xy": [
+        550.0,
+        480.0
+      ],
+      "original_xy": [
+        1386.76,
+        1210.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7213291216230521,
+      "sample_std": 0.06586483722427877
+    },
+    {
+      "feature_id": "IMG_8450:449",
+      "b1_row": 449,
+      "candidate_index": 4149,
+      "working_xy": [
+        981.0,
+        1393.0
+      ],
+      "original_xy": [
+        2472.88,
+        3511.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5204302447535418,
+      "sample_std": 0.07890223348968473
+    },
+    {
+      "feature_id": "IMG_8450:450",
+      "b1_row": 450,
+      "candidate_index": 1804,
+      "working_xy": [
+        1020.0,
+        943.0
+      ],
+      "original_xy": [
+        2571.16,
+        2377.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5143403437790747,
+      "sample_std": 0.13336187195163016
+    },
+    {
+      "feature_id": "IMG_8450:451",
+      "b1_row": 451,
+      "candidate_index": 181,
+      "working_xy": [
+        938.0,
+        306.0
+      ],
+      "original_xy": [
+        2364.52,
+        771.88
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6312745066016983,
+      "sample_std": 0.16878403674365622
+    },
+    {
+      "feature_id": "IMG_8450:452",
+      "b1_row": 452,
+      "candidate_index": 1363,
+      "working_xy": [
+        649.0,
+        853.0
+      ],
+      "original_xy": [
+        1636.24,
+        2150.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7135705811303884,
+      "sample_std": 0.06269776132351258
+    },
+    {
+      "feature_id": "IMG_8450:453",
+      "b1_row": 453,
+      "candidate_index": 772,
+      "working_xy": [
+        212.0,
+        682.0
+      ],
+      "original_xy": [
+        535.0,
+        1719.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6278551341288502,
+      "sample_std": 0.05825251456391431
+    },
+    {
+      "feature_id": "IMG_8450:454",
+      "b1_row": 454,
+      "candidate_index": 1592,
+      "working_xy": [
+        578.0,
+        902.0
+      ],
+      "original_xy": [
+        1457.32,
+        2273.8
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5126699647175768,
+      "sample_std": 0.13931745353112293
+    },
+    {
+      "feature_id": "IMG_8450:455",
+      "b1_row": 455,
+      "candidate_index": 4101,
+      "working_xy": [
+        232.0,
+        1379.0
+      ],
+      "original_xy": [
+        585.4,
+        3475.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5896345920134707,
+      "sample_std": 0.16271869470051625
+    },
+    {
+      "feature_id": "IMG_8450:456",
+      "b1_row": 456,
+      "candidate_index": 4100,
+      "working_xy": [
+        30.0,
+        1379.0
+      ],
+      "original_xy": [
+        76.36,
+        3475.84
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4696684268828443,
+      "sample_std": 0.19310380239042
+    },
+    {
+      "feature_id": "IMG_8450:457",
+      "b1_row": 457,
+      "candidate_index": 202,
+      "working_xy": [
+        1048.0,
+        334.0
+      ],
+      "original_xy": [
+        2641.72,
+        842.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6432307205277727,
+      "sample_std": 0.1731782976968385
+    },
+    {
+      "feature_id": "IMG_8450:458",
+      "b1_row": 458,
+      "candidate_index": 668,
+      "working_xy": [
+        177.0,
+        648.0
+      ],
+      "original_xy": [
+        446.8,
+        1633.72
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5353615775565237,
+      "sample_std": 0.06115892735761345
+    },
+    {
+      "feature_id": "IMG_8450:459",
+      "b1_row": 459,
+      "candidate_index": 4504,
+      "working_xy": [
+        1094.0,
+        1491.0
+      ],
+      "original_xy": [
+        2757.64,
+        3758.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.45672745557338335,
+      "sample_std": 0.16612632290226342
+    },
+    {
+      "feature_id": "IMG_8450:460",
+      "b1_row": 460,
+      "candidate_index": 4294,
+      "working_xy": [
+        684.0,
+        1435.0
+      ],
+      "original_xy": [
+        1724.44,
+        3616.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5832631352714182,
+      "sample_std": 0.20207053827488286
+    },
+    {
+      "feature_id": "IMG_8450:461",
+      "b1_row": 461,
+      "candidate_index": 2951,
+      "working_xy": [
+        848.0,
+        1201.0
+      ],
+      "original_xy": [
+        2137.72,
+        3027.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.31231594723317074,
+      "sample_std": 0.12321628978794923
+    },
+    {
+      "feature_id": "IMG_8450:462",
+      "b1_row": 462,
+      "candidate_index": 1796,
+      "working_xy": [
+        932.0,
+        942.0
+      ],
+      "original_xy": [
+        2349.4,
+        2374.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6252522517146528,
+      "sample_std": 0.12371614430535638
+    },
+    {
+      "feature_id": "IMG_8450:463",
+      "b1_row": 463,
+      "candidate_index": 1165,
+      "working_xy": [
+        259.0,
+        808.0
+      ],
+      "original_xy": [
+        653.44,
+        2036.92
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6324947765335812,
+      "sample_std": 0.09880916778876478
+    },
+    {
+      "feature_id": "IMG_8450:464",
+      "b1_row": 464,
+      "candidate_index": 2525,
+      "working_xy": [
+        416.0,
+        1107.0
+      ],
+      "original_xy": [
+        1049.08,
+        2790.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3384765546818186,
+      "sample_std": 0.1405809208908796
+    },
+    {
+      "feature_id": "IMG_8450:465",
+      "b1_row": 465,
+      "candidate_index": 3314,
+      "working_xy": [
+        295.0,
+        1271.0
+      ],
+      "original_xy": [
+        744.16,
+        3203.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.47947936505439553,
+      "sample_std": 0.16644760437542816
+    },
+    {
+      "feature_id": "IMG_8450:466",
+      "b1_row": 466,
+      "candidate_index": 4397,
+      "working_xy": [
+        708.0,
+        1464.0
+      ],
+      "original_xy": [
+        1784.92,
+        3690.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.23041801518088245,
+      "sample_std": 0.09428340383303872
+    },
+    {
+      "feature_id": "IMG_8450:467",
+      "b1_row": 467,
+      "candidate_index": 4791,
+      "working_xy": [
+        829.0,
+        1550.0
+      ],
+      "original_xy": [
+        2089.84,
+        3906.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5247513809339545,
+      "sample_std": 0.06516407039568461
+    },
+    {
+      "feature_id": "IMG_8450:468",
+      "b1_row": 468,
+      "candidate_index": 402,
+      "working_xy": [
+        67.0,
+        544.0
+      ],
+      "original_xy": [
+        169.6,
+        1371.64
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7305096152843824,
+      "sample_std": 0.07588489180898332
+    },
+    {
+      "feature_id": "IMG_8450:469",
+      "b1_row": 469,
+      "candidate_index": 2815,
+      "working_xy": [
+        958.0,
+        1171.0
+      ],
+      "original_xy": [
+        2414.92,
+        2951.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4189073456764414,
+      "sample_std": 0.0725445933953602
+    },
+    {
+      "feature_id": "IMG_8450:470",
+      "b1_row": 470,
+      "candidate_index": 4464,
+      "working_xy": [
+        843.0,
+        1482.0
+      ],
+      "original_xy": [
+        2125.12,
+        3735.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.46124687922642704,
+      "sample_std": 0.1430708716569087
+    },
+    {
+      "feature_id": "IMG_8450:471",
+      "b1_row": 471,
+      "candidate_index": 4919,
+      "working_xy": [
+        753.0,
+        1568.0
+      ],
+      "original_xy": [
+        1898.32,
+        3952.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.26298763420415555,
+      "sample_std": 0.11993386173878502
+    },
+    {
+      "feature_id": "IMG_8450:472",
+      "b1_row": 472,
+      "candidate_index": 1439,
+      "working_xy": [
+        141.0,
+        871.0
+      ],
+      "original_xy": [
+        356.08,
+        2195.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.570248315538807,
+      "sample_std": 0.0654605059743541
+    },
+    {
+      "feature_id": "IMG_8450:473",
+      "b1_row": 473,
+      "candidate_index": 4012,
+      "working_xy": [
+        852.0,
+        1365.0
+      ],
+      "original_xy": [
+        2147.8,
+        3440.56
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.49332274774843865,
+      "sample_std": 0.1332376071163376
+    },
+    {
+      "feature_id": "IMG_8450:474",
+      "b1_row": 474,
+      "candidate_index": 2028,
+      "working_xy": [
+        246.0,
+        985.0
+      ],
+      "original_xy": [
+        620.68,
+        2482.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5244379377051237,
+      "sample_std": 0.06320710635556476
+    },
+    {
+      "feature_id": "IMG_8450:475",
+      "b1_row": 475,
+      "candidate_index": 1116,
+      "working_xy": [
+        929.0,
+        791.0
+      ],
+      "original_xy": [
+        2341.84,
+        1994.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6660910081709047,
+      "sample_std": 0.07497042329231822
+    },
+    {
+      "feature_id": "IMG_8450:476",
+      "b1_row": 476,
+      "candidate_index": 509,
+      "working_xy": [
+        1006.0,
+        575.0
+      ],
+      "original_xy": [
+        2535.88,
+        1449.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5723949630788472,
+      "sample_std": 0.20591373914788266
+    },
+    {
+      "feature_id": "IMG_8450:477",
+      "b1_row": 477,
+      "candidate_index": 1583,
+      "working_xy": [
+        442.0,
+        900.0
+      ],
+      "original_xy": [
+        1114.6,
+        2268.76
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7194018010507062,
+      "sample_std": 0.11037232047799372
+    },
+    {
+      "feature_id": "IMG_8450:478",
+      "b1_row": 478,
+      "candidate_index": 1653,
+      "working_xy": [
+        259.0,
+        913.0
+      ],
+      "original_xy": [
+        653.44,
+        2301.52
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.604758092682167,
+      "sample_std": 0.0642265704820336
+    },
+    {
+      "feature_id": "IMG_8450:479",
+      "b1_row": 479,
+      "candidate_index": 411,
+      "working_xy": [
+        855.0,
+        546.0
+      ],
+      "original_xy": [
+        2155.36,
+        1376.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7606618558340607,
+      "sample_std": 0.024804549751884872
+    },
+    {
+      "feature_id": "IMG_8450:480",
+      "b1_row": 480,
+      "candidate_index": 101,
+      "working_xy": [
+        806.0,
+        246.0
+      ],
+      "original_xy": [
+        2031.88,
+        620.68
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6209470492785649,
+      "sample_std": 0.23269699566898847
+    },
+    {
+      "feature_id": "IMG_8450:481",
+      "b1_row": 481,
+      "candidate_index": 2614,
+      "working_xy": [
+        88.0,
+        1132.0
+      ],
+      "original_xy": [
+        222.52,
+        2853.4
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.36517606862350427,
+      "sample_std": 0.10974689447054849
+    },
+    {
+      "feature_id": "IMG_8450:482",
+      "b1_row": 482,
+      "candidate_index": 91,
+      "working_xy": [
+        1136.0,
+        243.0
+      ],
+      "original_xy": [
+        2863.48,
+        613.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3732086411323922,
+      "sample_std": 0.1840497724187098
+    },
+    {
+      "feature_id": "IMG_8450:483",
+      "b1_row": 483,
+      "candidate_index": 2462,
+      "working_xy": [
+        995.0,
+        1076.0
+      ],
+      "original_xy": [
+        2508.16,
+        2712.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4605473494685147,
+      "sample_std": 0.04004868820199582
+    },
+    {
+      "feature_id": "IMG_8450:484",
+      "b1_row": 484,
+      "candidate_index": 1293,
+      "working_xy": [
+        833.0,
+        836.0
+      ],
+      "original_xy": [
+        2099.92,
+        2107.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6355402574130282,
+      "sample_std": 0.1804179985632948
+    },
+    {
+      "feature_id": "IMG_8450:485",
+      "b1_row": 485,
+      "candidate_index": 852,
+      "working_xy": [
+        387.0,
+        701.0
+      ],
+      "original_xy": [
+        976.0,
+        1767.28
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6757553890474883,
+      "sample_std": 0.14221524222872456
+    },
+    {
+      "feature_id": "IMG_8450:486",
+      "b1_row": 486,
+      "candidate_index": 1889,
+      "working_xy": [
+        1073.0,
+        959.0
+      ],
+      "original_xy": [
+        2704.72,
+        2417.44
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3320714973729035,
+      "sample_std": 0.03286307520147702
+    },
+    {
+      "feature_id": "IMG_8450:487",
+      "b1_row": 487,
+      "candidate_index": 3566,
+      "working_xy": [
+        369.0,
+        1314.0
+      ],
+      "original_xy": [
+        930.64,
+        3312.04
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.467834275418733,
+      "sample_std": 0.19096701060867416
+    },
+    {
+      "feature_id": "IMG_8450:488",
+      "b1_row": 488,
+      "candidate_index": 470,
+      "working_xy": [
+        294.0,
+        561.0
+      ],
+      "original_xy": [
+        741.64,
+        1414.48
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.6995918529571645,
+      "sample_std": 0.11018376965054426
+    },
+    {
+      "feature_id": "IMG_8450:489",
+      "b1_row": 489,
+      "candidate_index": 2084,
+      "working_xy": [
+        919.0,
+        992.0
+      ],
+      "original_xy": [
+        2316.64,
+        2500.6
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7394036608517143,
+      "sample_std": 0.03755704229999353
+    },
+    {
+      "feature_id": "IMG_8450:490",
+      "b1_row": 490,
+      "candidate_index": 2513,
+      "working_xy": [
+        849.0,
+        1103.0
+      ],
+      "original_xy": [
+        2140.24,
+        2780.32
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.3587024211262202,
+      "sample_std": 0.19978790520658873
+    },
+    {
+      "feature_id": "IMG_8450:491",
+      "b1_row": 491,
+      "candidate_index": 3426,
+      "working_xy": [
+        81.0,
+        1291.0
+      ],
+      "original_xy": [
+        204.88,
+        3254.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.40440568136613675,
+      "sample_std": 0.20650143898326334
+    },
+    {
+      "feature_id": "IMG_8450:492",
+      "b1_row": 492,
+      "candidate_index": 1114,
+      "working_xy": [
+        419.0,
+        791.0
+      ],
+      "original_xy": [
+        1056.64,
+        1994.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.581054299298869,
+      "sample_std": 0.20402442350045702
+    },
+    {
+      "feature_id": "IMG_8450:493",
+      "b1_row": 493,
+      "candidate_index": 3906,
+      "working_xy": [
+        96.0,
+        1355.0
+      ],
+      "original_xy": [
+        242.68,
+        3415.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.432756911246474,
+      "sample_std": 0.2027032185535281
+    },
+    {
+      "feature_id": "IMG_8450:494",
+      "b1_row": 494,
+      "candidate_index": 3427,
+      "working_xy": [
+        90.0,
+        1291.0
+      ],
+      "original_xy": [
+        227.56,
+        3254.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4162513701682816,
+      "sample_std": 0.1927809216584267
+    },
+    {
+      "feature_id": "IMG_8450:495",
+      "b1_row": 495,
+      "candidate_index": 3973,
+      "working_xy": [
+        684.0,
+        1360.0
+      ],
+      "original_xy": [
+        1724.44,
+        3427.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.606810931161387,
+      "sample_std": 0.1433723102786902
+    },
+    {
+      "feature_id": "IMG_8450:496",
+      "b1_row": 496,
+      "candidate_index": 92,
+      "working_xy": [
+        1140.0,
+        243.0
+      ],
+      "original_xy": [
+        2873.56,
+        613.12
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.4176117072362847,
+      "sample_std": 0.18718599210072817
+    },
+    {
+      "feature_id": "IMG_8450:497",
+      "b1_row": 497,
+      "candidate_index": 1158,
+      "working_xy": [
+        354.0,
+        805.0
+      ],
+      "original_xy": [
+        892.84,
+        2029.36
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.5241473434218452,
+      "sample_std": 0.09448911510789597
+    },
+    {
+      "feature_id": "IMG_8450:498",
+      "b1_row": 498,
+      "candidate_index": 2631,
+      "working_xy": [
+        478.0,
+        1135.0
+      ],
+      "original_xy": [
+        1205.32,
+        2860.96
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.41690713210683855,
+      "sample_std": 0.057509019201678134
+    },
+    {
+      "feature_id": "IMG_8450:499",
+      "b1_row": 499,
+      "candidate_index": 1115,
+      "working_xy": [
+        621.0,
+        791.0
+      ],
+      "original_xy": [
+        1565.68,
+        1994.08
+      ],
+      "valid": true,
+      "status": "valid",
+      "sample_mean": 0.7909658110210869,
+      "sample_std": 0.07946902331184301
+    }
+  ]
+}

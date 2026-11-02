@@ -1,0 +1,1685 @@
+{
+  "coordinate_convention": "Saved source/target coordinates use original-resolution pixel centers; x right, y down. Seeds use 1008x1344 preview pixel centers. Convert by (p+.5)*original_size/preview_size-.5.",
+  "provenance": "Assistant visually selected architectural locations and target neighborhoods. Local scaled NCC refines target positions. IDs 13-16 are excluded from fitting; visually revised annotations are not blind validation.",
+  "pairs": [
+    {
+      "id": "8443_8444",
+      "source": "IMG_8443.jpg",
+      "target": "IMG_8444.jpg",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.36,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            687,
+            403
+          ],
+          "target_seed": [
+            285,
+            280
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            760,
+            396
+          ],
+          "target_seed": [
+            386,
+            271
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            687,
+            425
+          ],
+          "target_seed": [
+            285,
+            311
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            760,
+            419
+          ],
+          "target_seed": [
+            386,
+            302
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            620,
+            460
+          ],
+          "target_seed": [
+            190,
+            363
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            760,
+            448
+          ],
+          "target_seed": [
+            385,
+            344
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            620,
+            483
+          ],
+          "target_seed": [
+            190,
+            395
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            760,
+            473
+          ],
+          "target_seed": [
+            385,
+            377
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            617,
+            933
+          ],
+          "target_seed": [
+            190,
+            1000
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            681,
+            931
+          ],
+          "target_seed": [
+            277,
+            996
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            617,
+            696
+          ],
+          "target_seed": [
+            190,
+            687
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            681,
+            693
+          ],
+          "target_seed": [
+            277,
+            683
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            700,
+            1061
+          ],
+          "target_seed": [
+            298,
+            1175
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            985,
+            1057
+          ],
+          "target_seed": [
+            684,
+            1175
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            617,
+            645
+          ],
+          "target_seed": [
+            190,
+            611
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            687,
+            643
+          ],
+          "target_seed": [
+            282,
+            611
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8444_8445",
+      "source": "IMG_8444.jpg",
+      "target": "IMG_8445.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        4284,
+        5712
+      ],
+      "template_scale": 0.72,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            284,
+            278
+          ],
+          "target_seed": [
+            128,
+            398
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            384,
+            270
+          ],
+          "target_seed": [
+            201,
+            390
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            585,
+            254
+          ],
+          "target_seed": [
+            346,
+            382
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            782,
+            231
+          ],
+          "target_seed": [
+            485,
+            370
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            484,
+            338
+          ],
+          "target_seed": [
+            272,
+            445
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            589,
+            328
+          ],
+          "target_seed": [
+            345,
+            438
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            190,
+            363
+          ],
+          "target_seed": [
+            60,
+            459
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            385,
+            345
+          ],
+          "target_seed": [
+            201,
+            447
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            700,
+            985
+          ],
+          "target_seed": [
+            420,
+            911
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            775,
+            980
+          ],
+          "target_seed": [
+            476,
+            907
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            866,
+            1016
+          ],
+          "target_seed": [
+            548,
+            930
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            990,
+            1008
+          ],
+          "target_seed": [
+            636,
+            925
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            866,
+            565
+          ],
+          "target_seed": [
+            548,
+            609
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            866,
+            594
+          ],
+          "target_seed": [
+            548,
+            632
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            780,
+            918
+          ],
+          "target_seed": [
+            476,
+            854
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            775,
+            1014
+          ],
+          "target_seed": [
+            476,
+            930
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        }
+      ]
+    },
+    {
+      "id": "8445_8446",
+      "source": "IMG_8445.jpg",
+      "target": "IMG_8446.jpg",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.2,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            690,
+            352
+          ],
+          "target_seed": [
+            380,
+            323
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            838,
+            338
+          ],
+          "target_seed": [
+            559,
+            308
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            690,
+            374
+          ],
+          "target_seed": [
+            380,
+            351
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            838,
+            365
+          ],
+          "target_seed": [
+            559,
+            337
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            548,
+            422
+          ],
+          "target_seed": [
+            209,
+            408
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            691,
+            409
+          ],
+          "target_seed": [
+            383,
+            391
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            548,
+            444
+          ],
+          "target_seed": [
+            209,
+            436
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            691,
+            436
+          ],
+          "target_seed": [
+            383,
+            419
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            839,
+            293
+          ],
+          "target_seed": [
+            556,
+            252
+          ]
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            909,
+            286
+          ],
+          "target_seed": [
+            645,
+            245
+          ]
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            548,
+            609
+          ],
+          "target_seed": [
+            207,
+            639
+          ]
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            690,
+            600
+          ],
+          "target_seed": [
+            378,
+            625
+          ]
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            686,
+            661
+          ],
+          "target_seed": [
+            373,
+            701
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            762,
+            654
+          ],
+          "target_seed": [
+            467,
+            689
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            839,
+            598
+          ],
+          "target_seed": [
+            550,
+            623
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            903,
+            589
+          ],
+          "target_seed": [
+            640,
+            613
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8446_8447",
+      "source": "IMG_8446.jpg",
+      "target": "IMG_8447.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.03,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            550,
+            610
+          ],
+          "target_seed": [
+            88,
+            652
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            636,
+            605
+          ],
+          "target_seed": [
+            174,
+            647
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            550,
+            640
+          ],
+          "target_seed": [
+            88,
+            681
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            636,
+            634
+          ],
+          "target_seed": [
+            174,
+            676
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            637,
+            680
+          ],
+          "target_seed": [
+            170,
+            718
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            826,
+            671
+          ],
+          "target_seed": [
+            363,
+            710
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            637,
+            710
+          ],
+          "target_seed": [
+            170,
+            750
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            826,
+            700
+          ],
+          "target_seed": [
+            363,
+            740
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            830,
+            601
+          ],
+          "target_seed": [
+            360,
+            639
+          ]
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            915,
+            595
+          ],
+          "target_seed": [
+            450,
+            632
+          ]
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            630,
+            921
+          ],
+          "target_seed": [
+            165,
+            956
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            715,
+            915
+          ],
+          "target_seed": [
+            250,
+            950
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            640,
+            927
+          ],
+          "target_seed": [
+            170,
+            968
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            550,
+            1118
+          ],
+          "target_seed": [
+            80,
+            1170
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            630,
+            951
+          ],
+          "target_seed": [
+            165,
+            986
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            715,
+            945
+          ],
+          "target_seed": [
+            250,
+            980
+          ],
+          "annotation_revision": "Visually relocated from a projecting doorway/recessed glazing or ambiguous edge onto a fixed gold-facade frame; not rejected by an H-error threshold."
+        }
+      ],
+      "half_patch": 15
+    },
+    {
+      "id": "8447_8448",
+      "source": "IMG_8447.jpg",
+      "target": "IMG_8448.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        4284,
+        5712
+      ],
+      "template_scale": 0.88,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            800,
+            298
+          ],
+          "target_seed": [
+            406,
+            257
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            906,
+            290
+          ],
+          "target_seed": [
+            500,
+            250
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            800,
+            328
+          ],
+          "target_seed": [
+            406,
+            284
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            906,
+            320
+          ],
+          "target_seed": [
+            500,
+            278
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            907,
+            366
+          ],
+          "target_seed": [
+            500,
+            312
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            990,
+            360
+          ],
+          "target_seed": [
+            600,
+            306
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            688,
+            625
+          ],
+          "target_seed": [
+            303,
+            540
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            792,
+            620
+          ],
+          "target_seed": [
+            399,
+            537
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            688,
+            655
+          ],
+          "target_seed": [
+            303,
+            571
+          ]
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            792,
+            648
+          ],
+          "target_seed": [
+            399,
+            563
+          ]
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            576,
+            700
+          ],
+          "target_seed": [
+            207,
+            608
+          ]
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            793,
+            692
+          ],
+          "target_seed": [
+            400,
+            601
+          ]
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            576,
+            731
+          ],
+          "target_seed": [
+            207,
+            636
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            793,
+            722
+          ],
+          "target_seed": [
+            400,
+            628
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            902,
+            620
+          ],
+          "target_seed": [
+            493,
+            535
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            990,
+            615
+          ],
+          "target_seed": [
+            590,
+            531
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8448_8450",
+      "source": "IMG_8448.jpg",
+      "target": "IMG_8450.jpg",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.08,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            855,
+            235
+          ],
+          "target_seed": [
+            380,
+            380
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            940,
+            228
+          ],
+          "target_seed": [
+            462,
+            373
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            855,
+            263
+          ],
+          "target_seed": [
+            380,
+            408
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            940,
+            255
+          ],
+          "target_seed": [
+            462,
+            400
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            603,
+            599
+          ],
+          "target_seed": [
+            115,
+            768
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            690,
+            595
+          ],
+          "target_seed": [
+            220,
+            760
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            603,
+            626
+          ],
+          "target_seed": [
+            115,
+            799
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            690,
+            620
+          ],
+          "target_seed": [
+            220,
+            789
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            768,
+            590
+          ],
+          "target_seed": [
+            300,
+            753
+          ]
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            849,
+            585
+          ],
+          "target_seed": [
+            384,
+            748
+          ]
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            768,
+            618
+          ],
+          "target_seed": [
+            300,
+            783
+          ]
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            849,
+            612
+          ],
+          "target_seed": [
+            384,
+            777
+          ]
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            930,
+            520
+          ],
+          "target_seed": [
+            462,
+            675
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            990,
+            516
+          ],
+          "target_seed": [
+            530,
+            667
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            930,
+            548
+          ],
+          "target_seed": [
+            462,
+            705
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            990,
+            545
+          ],
+          "target_seed": [
+            530,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8450_8451",
+      "source": "IMG_8450.jpg",
+      "target": "IMG_8451.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.02,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            601,
+            362
+          ],
+          "target_seed": [
+            185,
+            290
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            633,
+            371
+          ],
+          "target_seed": [
+            219,
+            302
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            601,
+            472
+          ],
+          "target_seed": [
+            187,
+            401
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            633,
+            478
+          ],
+          "target_seed": [
+            219,
+            408
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            734,
+            389
+          ],
+          "target_seed": [
+            303,
+            318
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            748,
+            391
+          ],
+          "target_seed": [
+            332,
+            325
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            734,
+            496
+          ],
+          "target_seed": [
+            303,
+            429
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            748,
+            498
+          ],
+          "target_seed": [
+            332,
+            437
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            693,
+            676
+          ],
+          "target_seed": [
+            282,
+            595
+          ]
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            712,
+            679
+          ],
+          "target_seed": [
+            300,
+            601
+          ]
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            693,
+            787
+          ],
+          "target_seed": [
+            282,
+            715
+          ]
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            712,
+            790
+          ],
+          "target_seed": [
+            300,
+            721
+          ]
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            852,
+            700
+          ],
+          "target_seed": [
+            438,
+            640
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            916,
+            714
+          ],
+          "target_seed": [
+            500,
+            656
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            850,
+            419
+          ],
+          "target_seed": [
+            434,
+            349
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            928,
+            442
+          ],
+          "target_seed": [
+            513,
+            375
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8451_8452",
+      "source": "IMG_8451.jpg",
+      "target": "IMG_8452.jpg",
+      "source_size": [
+        3024,
+        4032
+      ],
+      "target_size": [
+        3024,
+        4032
+      ],
+      "template_scale": 1.1,
+      "points": [
+        {
+          "id": 1,
+          "role": "fit",
+          "source_seed": [
+            350,
+            328
+          ],
+          "target_seed": [
+            26,
+            302
+          ]
+        },
+        {
+          "id": 2,
+          "role": "fit",
+          "source_seed": [
+            418,
+            342
+          ],
+          "target_seed": [
+            103,
+            320
+          ]
+        },
+        {
+          "id": 3,
+          "role": "fit",
+          "source_seed": [
+            350,
+            438
+          ],
+          "target_seed": [
+            26,
+            414
+          ]
+        },
+        {
+          "id": 4,
+          "role": "fit",
+          "source_seed": [
+            418,
+            449
+          ],
+          "target_seed": [
+            103,
+            436
+          ]
+        },
+        {
+          "id": 5,
+          "role": "fit",
+          "source_seed": [
+            434,
+            349
+          ],
+          "target_seed": [
+            120,
+            330
+          ]
+        },
+        {
+          "id": 6,
+          "role": "fit",
+          "source_seed": [
+            469,
+            360
+          ],
+          "target_seed": [
+            166,
+            342
+          ]
+        },
+        {
+          "id": 7,
+          "role": "fit",
+          "source_seed": [
+            434,
+            455
+          ],
+          "target_seed": [
+            120,
+            443
+          ]
+        },
+        {
+          "id": 8,
+          "role": "fit",
+          "source_seed": [
+            469,
+            465
+          ],
+          "target_seed": [
+            166,
+            455
+          ]
+        },
+        {
+          "id": 9,
+          "role": "fit",
+          "source_seed": [
+            550,
+            656
+          ],
+          "target_seed": [
+            261,
+            680
+          ]
+        },
+        {
+          "id": 10,
+          "role": "fit",
+          "source_seed": [
+            603,
+            665
+          ],
+          "target_seed": [
+            315,
+            690
+          ]
+        },
+        {
+          "id": 11,
+          "role": "fit",
+          "source_seed": [
+            550,
+            751
+          ],
+          "target_seed": [
+            261,
+            795
+          ]
+        },
+        {
+          "id": 12,
+          "role": "fit",
+          "source_seed": [
+            603,
+            760
+          ],
+          "target_seed": [
+            315,
+            805
+          ]
+        },
+        {
+          "id": 13,
+          "role": "check",
+          "source_seed": [
+            617,
+            663
+          ],
+          "target_seed": [
+            336,
+            697
+          ]
+        },
+        {
+          "id": 14,
+          "role": "check",
+          "source_seed": [
+            650,
+            672
+          ],
+          "target_seed": [
+            374,
+            710
+          ]
+        },
+        {
+          "id": 15,
+          "role": "check",
+          "source_seed": [
+            681,
+            677
+          ],
+          "target_seed": [
+            408,
+            708
+          ]
+        },
+        {
+          "id": 16,
+          "role": "check",
+          "source_seed": [
+            735,
+            690
+          ],
+          "target_seed": [
+            460,
+            726
+          ]
+        }
+      ]
+    }
+  ]
+}
