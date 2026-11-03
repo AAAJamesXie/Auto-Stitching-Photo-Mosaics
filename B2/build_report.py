@@ -25,6 +25,7 @@ d = (v − μ) / σ</div><p>Valid descriptors have mean zero and population stan
 <section class="report-section"><h2>Reproduce &amp; inspect.</h2><pre>python run_descriptors.py
 python build_report.py
 python -m unittest test_descriptors -v</pre><p>Run from B2 in the existing NumPy/Pillow/OpenCV environment. No new dependency was installed.</p><p><a href="descriptors.py">Descriptor extraction and sampling</a> · <a href="run_descriptors.py">Real-image generation</a> · <a href="test_descriptors.py">Six analytical unit checks</a> · <a href="measurements.json">Parameters and dataset statistics</a> · <a href="../B1/report.html">B.1 corner locations</a></p><p>Checks cover exact ramp sampling, centered support, normalization, unclipped gain/bias changes and invalid inputs. All real descriptor rows and input hashes were verified.</p><p class="method-note">See B.3 for matches and B.4 for the automatic mosaic. The clarified requirement is one mosaic with at least three images.</p></section>
+<nav class="project-home-nav" aria-label="Project navigation"><a class="solid-link" href="../index.html"><span aria-hidden="true">&larr;</span>Back to Project Home</a></nav>
 <footer class="site-footer"><span>SYDE 671 · Assignment 3 · James Xie</span><span>B.2 · Axis-aligned patch descriptors</span></footer></main></body></html>'''
     (ROOT/'report.html').write_text(page,encoding='utf-8')
     (ROOT/'README.md').write_text('''# B.2 - Axis-aligned patch descriptors

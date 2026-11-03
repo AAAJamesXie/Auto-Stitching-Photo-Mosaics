@@ -26,6 +26,7 @@ accept when d₁ / d₂ &lt; 0.7</div><p>The ratio compares the best candidate w
 <section class="report-section"><h2>Reproduce &amp; inspect.</h2><pre>python run_matching.py
 python build_report.py
 python -m unittest test_matching -v</pre><p>Run from B3 using the existing NumPy/Pillow environment. No dependency was added.</p><p><a href="matching.py">Exact neighbors, ratio test and mutual flag</a> · <a href="run_matching.py">Six-pair experiment</a> · <a href="test_matching.py">Seven analytical unit checks</a> · <a href="measurements.json">Parameters, counts and provenance</a> · <a href="../B2/report.html">B.2 descriptors</a></p><p>Checks cover known neighbors, ratios, ties, zero distances, row mapping and invalid inputs. Real checks recompute 20 queries per pair and verify ratios and hashes.</p><p class="method-note">B.4 uses RANSAC and produces one automatic mosaic with seven images, above the minimum of three.</p></section>
+<nav class="project-home-nav" aria-label="Project navigation"><a class="solid-link" href="../index.html"><span aria-hidden="true">&larr;</span>Back to Project Home</a></nav>
 <footer class="site-footer"><span>SYDE 671 · Assignment 3 · James Xie</span><span>B.3 · Descriptor feature matching</span></footer></main></body></html>'''
     (ROOT/'report.html').write_text(page,encoding='utf-8')
     (ROOT/'README.md').write_text(f'''# B.3 - Descriptor matching

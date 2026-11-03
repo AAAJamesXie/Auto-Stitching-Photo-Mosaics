@@ -50,6 +50,7 @@ C = Σᵢ wᵢ Cᵢ / Σᵢ wᵢ     alpha = (Σᵢ wᵢ > 0)</div><p>Only valid
 <section class="report-section"><h2>Reproduce &amp; inspect.</h2><pre>python run_panorama.py
 python build_report.py
 python -m unittest test_panorama_geometry -v</pre><p><a href="run_panorama.py">Seven-image experiment</a> · <a href="panorama_geometry.py">Transform composition</a> · <a href="blend.py">Handwritten feathering and blending</a> · <a href="../A3/warp.py">Handwritten bilinear sampler</a> · <a href="panorama_measurements.json">Matrices, input hashes, support counts and 45 scalar probes</a> · <a href="panorama_alignment.json">Adjacent check geometry</a></p><p><a href="results/panorama_overwrite.png">Overwrite baseline RGBA</a> · <a href="results/panorama_union_mask.png">Union validity</a> · {mask_links}</p><p>Checks verify transform order, pixel-center scaling, masks, single-source pixels and 45 blend samples. Input hashes are unchanged.</p></section>
+<nav class="project-home-nav" aria-label="Project navigation"><a class="solid-link" href="../index.html"><span aria-hidden="true">&larr;</span>Back to Project Home</a></nav>
 <footer class="site-footer"><span>SYDE 671 · Assignment 3 · James Xie</span><span>A.4 · Seven views, one mosaic</span></footer></main></body></html>'''
     (ROOT/'report.html').write_text(page,encoding='utf-8')
     (ROOT/'README.md').write_text('''# A.4 - Seven views, one mosaic
